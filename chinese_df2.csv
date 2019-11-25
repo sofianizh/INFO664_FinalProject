@@ -1,0 +1,1001 @@
+	name	Longitude	Latitude	address1	city	zip_code	state	display_address	price	rating	review_count
+0	Hupo琥珀	-73.953575	40.742827	1007 50th Ave	Long Island City	11101	NY	['1007 50th Ave', 'Long Island City, NY 11101']		4.5	20
+1	Chow House	-74.00072	40.72915	181 Bleecker St	New York	10012	NY	['181 Bleecker St', 'New York, NY 10012']	$$	4.5	339
+2	Han Dynasty	-73.988074	40.732072	90 3rd Ave	New York	10003	NY	['90 3rd Ave', 'New York, NY 10003']	$$	4.0	1205
+3	Joe's Shanghai	-73.9977602206654	40.7146691442891	9 Pell St	New York	10013	NY	['9 Pell St', 'New York, NY 10013']	$$	4.0	6000
+4	Birds of a Feather	-73.960441	40.71442	191 Grand St	Brooklyn	11211	NY	['191 Grand St', 'Brooklyn, NY 11211']	$$	4.0	301
+5	Wah Fung No 1 Fast Food	-73.99457	40.71735	79 Chrystie St	New York	10002	NY	['79 Chrystie St', 'New York, NY 10002']	$	4.5	1352
+6	Xi'An Town	-73.95694	40.71841	165 Bedford Ave	Brooklyn	11211	NY	['165 Bedford Ave', 'Brooklyn, NY 11211']		4.0	41
+7	China Xiang 中国湘	-73.9925113993899	40.7582902125633	360 W 42nd Street	New York	10036	NY	['360 W 42nd Street', 'New York, NY 10036']	$$	4.0	439
+8	Café China	-73.9819464127197	40.7499225208569	13 E 37th St	New York	10016	NY	['13 E 37th St', 'New York, NY 10016']	$$	4.0	1578
+9	Hunan Delight	-73.9780712127686	40.6755282563532	752 Union St	Brooklyn	11215	NY	['752 Union St', 'Brooklyn, NY 11215']	$$	4.0	292
+10	Dun Huang - East Village	-73.98568	40.73081	300 E 12th St	New York	10003	NY	['300 E 12th St', 'New York, NY 10003']	$$	4.5	302
+11	Kings Co Imperial	-73.95097	40.71512	20 Skillman Ave	Brooklyn	11211	NY	['20 Skillman Ave', 'Brooklyn, NY 11211']	$$	4.0	276
+12	Momo King	-73.98617	40.6918	139 Lawrence St	Brooklyn	11201	NY	['139 Lawrence St', 'Brooklyn, NY 11201']		4.5	13
+13	China Blue	-74.009958	40.724038	135 Watts St	New York	10013	NY	['135 Watts St', 'New York, NY 10013']	$$	4.0	674
+14	China Express	-73.9501435	40.7061859	192 Union Ave	Brooklyn	11211	NY	['192 Union Ave', 'Brooklyn, NY 11211']	$	4.0	93
+15	Three Times	-73.99104	40.73285	818 Broadway	New York	10003	NY	['818 Broadway', 'New York, NY 10003']		3.5	14
+16	Noodle Village	-73.998803	40.714167	13 Mott St	New York	10013	NY	['13 Mott St', 'New York, NY 10013']	$	4.0	1051
+17	Szechuan Garden	-73.967586	40.80053	239 W 105th St	New York	10025	NY	['239 W 105th St', 'New York, NY 10025']	$$	4.0	283
+18	Lucky House Kitchen	-73.9351565390825	40.6838402152061	343 Lewis Ave	Brooklyn	11233	NY	['343 Lewis Ave', 'Brooklyn, NY 11233']	$	4.5	91
+19	Tasty Hand-Pulled Noodles	-73.99787	40.7142	1 Doyers St	New York	10013	NY	['1 Doyers St', 'New York, NY 10013']	$	4.0	1573
+20	Shu Jiao Fu Zhou Cuisine Restaurant	-73.9916928979573	40.7184290357839	118 Eldridge St	New York	10002	NY	['118 Eldridge St', 'New York, NY 10002']	$	4.5	795
+21	Han Dynasty	-73.9825977757573	40.6911319610036	1 Dekalb Ave	Brooklyn	11201	NY	['1 Dekalb Ave', 'Brooklyn, NY 11201']	$$	4.0	244
+22	Lazy Siu's	-73.96077	40.71261	742 Driggs Ave	Brooklyn	11211	NY	['742 Driggs Ave', 'Brooklyn, NY 11211']		5.0	26
+23	88 Lan Zhou Handmade Noodle	-73.99675	40.7155	40 Bowery St	New York	10013	NY	['40 Bowery St', 'New York, NY 10013']	$	4.0	1782
+24	Uncle Ted's Modern Chinese Cuisine	-73.999961	40.72882	163 Bleecker St	New York	10012	NY	['163 Bleecker St', 'New York, NY 10012']	$$	3.5	451
+25	Zhen Wei Fang	-73.99343	40.72128	207 Bowery	New York	10002	NY	['207 Bowery', 'New York, NY 10002']		4.0	169
+26	Xifu Food	-73.9819963	40.6880326	318 Livingston St	Brooklyn	11217	NY	['318 Livingston St', 'Brooklyn, NY 11217']	$	4.5	128
+27	Szechuan Mountain House	-73.98858	40.72911	23 St Marks Pl	New York	10003	NY	['23 St Marks Pl', 'New York, NY 10003']	$$	4.0	303
+28	Clay Pot - East Village	-73.9865907985248	40.7279880270274	58 St Mark's Pl	New York	10003	NY	"[""58 St Mark's Pl"", 'New York, NY 10003']"	$$	4.0	298
+29	The Tang - Upper West Side	-73.966393	40.80005	920 Amsterdam Ave	New York	10025	NY	['920 Amsterdam Ave', 'New York, NY 10025']	$$	4.5	166
+30	Jiang Diner	-73.98838	40.72665	309 E 5th St	New York	10003	NY	['309 E 5th St', 'New York, NY 10003']	$$	4.0	101
+31	Dim Sum Palace	-73.9893699	40.76015	334 W 46th St	New York	10036	NY	['334 W 46th St', 'New York, NY 10036']	$$	4.0	1164
+32	The Wei	-73.98171	40.68983	30 Dekalb Ave	Brooklyn	11201	NY	['30 Dekalb Ave', 'Brooklyn, NY 11201']	$$	4.0	221
+33	Hao Noodle Chelsea	-74.00436	40.7406999	343 W 14th St	New York	10014	NY	['343 W 14th St', 'New York, NY 10014']	$$	4.5	333
+34	Dian Kitchen	-73.98321	40.72772	435 E 9th St	New York	10009	NY	['435 E 9th St', 'New York, NY 10009']	$$	5.0	195
+35	Hardee Chinese- American	-73.9722290039062	40.6933441162109	351 Myrtle Ave	New York	11205	NY	['351 Myrtle Ave', 'New York, NY 11205']	$	4.5	18
+36	Hutong	-73.967443	40.761551	731 Lexington Ave	New York	10022	NY	['731 Lexington Ave', 'New York, NY 10022']	$$$	3.5	203
+37	Han Dynasty	-73.97647	40.78752	215 W 85th St	New York	10024	NY	['215 W 85th St', 'New York, NY 10024']	$$	4.0	575
+38	New Moon	-73.97766	40.74692	536 3rd Ave	New York	10016	NY	['536 3rd Ave', 'New York, NY 10016']	$$	4.0	107
+39	Tri Dim Shanghai	-73.95793	40.77395	1378 3rd Ave	New York	10075	NY	['1378 3rd Ave', 'New York, NY 10075']	$$	4.0	356
+40	Fishmarket Restaurant	-74.00192	40.70717	111 South St	New York	10038	NY	['111 South St', 'New York, NY 10038']	$$	4.5	540
+41	Golden Forest	-73.98945	40.7167	353 Grand St	New York	10002	NY	['353 Grand St', 'New York, NY 10002']	$	4.0	158
+42	Hong Kong Cafe	-73.95667	40.687267	357 Franklin Ave	Brooklyn	11238	NY	['357 Franklin Ave', 'Brooklyn, NY 11238']	$	4.0	31
+43	Fatima's Halal Kitchen	-73.9275405041124	40.7631186084319	25-25 Broadway	Astoria	11106	NY	['25-25 Broadway', 'Astoria, NY 11106']	$	4.0	384
+44	First Wok	-73.98456	40.70154	155 York St	Brooklyn	11201	NY	['155 York St', 'Brooklyn, NY 11201']		5.0	4
+45	Meet Noodles	-73.9891	40.73097	50 3rd Ave	New York	10003	NY	['50 3rd Ave', 'New York, NY 10003']	$$	4.5	163
+46	Hwa Yuan	-73.99598	40.7137	42 E Broadway	New York	10002	NY	['42 E Broadway', 'New York, NY 10002']	$$$	4.0	229
+47	Chongkho Restaurant	-73.94929	40.71101	562 Grand St	Brooklyn	11211	NY	['562 Grand St', 'Fl 1', 'Brooklyn, NY 11211']		5.0	6
+48	Zest Szechuan	-73.98445	40.75274	45 W 39th St	New York	10018	NY	['45 W 39th St', 'New York, NY 10018']	$$	4.0	558
+49	Kings Co Imperial	-73.9854200459023	40.7179421782795	168 1/2 Delancey St	New York	10002	NY	['168 1/2 Delancey St', 'New York, NY 10002']	$$	4.0	52
+50	C And Y Chinese	-73.98496	40.67042	399 5th Ave	Brooklyn	11215	NY	['399 5th Ave', 'Brooklyn, NY 11215']	$	4.0	54
+51	Hao Noodle and Tea By Madam Zhu's Kitchen	-73.9998929006093	40.7334863190479	401 6th Ave	New York	10014	NY	['401 6th Ave', 'New York, NY 10014']	$$	4.0	697
+52	Hui Restaurant & Bar	-73.95846	40.76701	314 E 70th St	New York	10021	NY	['314 E 70th St', 'New York, NY 10021']	$$	4.5	125
+53	Ling Long Xuan Restaurant	-74.0569	40.73237	586 Newark Ave	Jersey City	07306	NJ	['586 Newark Ave', 'Jersey City, NJ 07306']	$$	4.0	90
+54	Wei Williamsburg	-73.9542168	40.7107868	145 Borinquen Pl	Brooklyn	11211	NY	['145 Borinquen Pl', 'Brooklyn, NY 11211']	$$	3.5	143
+55	China Restaurant	-73.929931640625	40.650260925293	937 Utica Ave	Brooklyn	11203	NY	['937 Utica Ave', 'Brooklyn, NY 11203']	$	4.0	63
+56	Fortune House	-73.992805	40.698455	82 Henry St	Brooklyn	11201	NY	['82 Henry St', 'Brooklyn, NY 11201']	$$	3.0	122
+57	Hop Lee Restaurant	-73.99849	40.71426	16 Mott St	New York	10013	NY	['16 Mott St', 'New York, NY 10013']	$$	4.0	299
+58	Zen Yai Pho Noodle Bar	-73.960337	40.713897	208 Grand St	Brooklyn	11211	NY	['208 Grand St', 'Brooklyn, NY 11211']	$$	4.5	39
+59	New Double Dragon	-73.98801	40.7242	37 1st Ave	New York	10003	NY	['37 1st Ave', 'New York, NY 10003']	$	4.0	80
+60	Decoy	-74.006519	40.734196	529 Hudson St	New York	10014	NY	['529 Hudson St', 'New York, NY 10014']	$$$	4.0	414
+61	Tipsy Shanghai	-73.99882	40.72929	228 Thompson St	New York	10012	NY	['228 Thompson St', 'New York, NY 10012']	$$	4.0	148
+62	Kum Kau	-73.966702	40.693573	465 Myrtle Ave	Brooklyn	11205	NY	['465 Myrtle Ave', 'Brooklyn, NY 11205']	$$	3.5	248
+63	Wing Cheong Restaurant	-73.945514	40.680375	1389 Fulton St	Brooklyn	11216	NY	['1389 Fulton St', 'Brooklyn, NY 11216']	$	4.0	52
+64	Dim Sum Palace	-73.98986	40.7259	59 2nd Ave	New York	10003	NY	['59 2nd Ave', 'New York, NY 10003']	$$	4.5	120
+65	Nyonya	-73.9968228	40.7190148	199 Grand St	New York	10013	NY	['199 Grand St', 'New York, NY 10013']	$$	4.0	2048
+66	Hardee's	-73.9305902612873	40.6716833260603	209 Utica Ave	Crown Heights	11213	NY	['209 Utica Ave', 'Crown Heights, NY 11213']	$	4.0	36
+67	Sup Crab	-73.99502	40.71733	97 Bowery	New York	10002	NY	['97 Bowery', 'New York, NY 10002']		4.0	192
+68	Pig Heaven	-73.95686	40.77544	1420 3rd Ave	New York	10028	NY	['1420 3rd Ave', 'New York, NY 10028']	$$	4.0	357
+69	China Garden	-73.92577	40.74166	39-20 47th Ave	Sunnyside	11104	NY	['39-20 47th Ave', 'Sunnyside, NY 11104']	$	4.0	63
+70	Win Son	-73.94339	40.70747	159 Graham Ave	Brooklyn	11206	NY	['159 Graham Ave', 'Brooklyn, NY 11206']	$$	4.0	441
+71	Buddakan	-74.0048000961542	40.7422762672197	75 9th Ave	New York	10011	NY	['75 9th Ave', 'New York, NY 10011']	$$$	4.0	3892
+72	Thai sidewalk	-73.9866872	40.702424	Jay Street And Front St	Brooklyn	11201	NY	['Jay Street And Front St', 'Brooklyn, NY 11201']		4.5	24
+73	886	-73.98873	40.72877	26 Saint Marks Pl	New York	10003	NY	['26 Saint Marks Pl', 'New York, NY 10003']	$$	4.0	316
+74	Clay Pot - West Village	-74.00319	40.73138	270 Bleeker St	New York	10014	NY	['270 Bleeker St', 'New York, NY 10014']	$$	4.5	50
+75	M Noodle Shop	-73.988659	40.720348	92 Rivington St	New York	10002	NY	['92 Rivington St', 'New York, NY 10002']		4.5	19
+76	Shanghai 21	-73.99889	40.7144199	21 Mott St	New York	10013	NY	['21 Mott St', 'New York, NY 10013']	$$	4.0	1607
+77	Thank You Come Again	-73.98331	40.69121	445 Albee Square W	Brooklyn	11201	NY	['445 Albee Square W', 'Brooklyn, NY 11201']		4.0	21
+78	Lucky Garden	-73.91221	40.7003	305L Wyckoff Ave	Brooklyn	11237	NY	['305L Wyckoff Ave', 'Brooklyn, NY 11237']	$	4.5	12
+79	Chen's Buffet Bar	-74.00845	40.70712	32 Cedar St	New York	10038	NY	['32 Cedar St', 'New York, NY 10038']	$	4.0	37
+80	Wo Hop	-73.9988691693115	40.7142239034582	17 Mott St	New York	10013	NY	['17 Mott St', 'New York, NY 10013']	$$	3.5	1406
+81	Silky Kitchen	-73.98829	40.73297	137 E 13th St	New York	10003	NY	['137 E 13th St', 'New York, NY 10003']	$$	4.5	196
+82	Good Chinese Restaurant	-73.9116479761463	40.6951122106303	663 Knickerbocker Ave	Brooklyn	11221	NY	['663 Knickerbocker Ave', 'Brooklyn, NY 11221']	$	3.5	128
+83	Yu Kitchen	-73.9693099	40.79759	2656 Broadway	New York	10025	NY	['2656 Broadway', 'New York, NY 10025']	$$	4.5	85
+84	Food Sing	-73.961257	40.714324	172 Grand St	Brooklyn	11211	NY	['172 Grand St', 'Brooklyn, NY 11211']	$	3.5	47
+85	Fong On	-73.9937	40.71417	81 Division St	New York	10002	NY	['81 Division St', 'New York, NY 10002']	$	4.5	46
+86	Old Xi'an	-74.00747	40.70591	164 Pearl St	New York	10005	NY	['164 Pearl St', 'New York, NY 10005']	$$	4.5	182
+87	99 Favor Taste	-73.99249	40.7176199	285 Grand St	New York	10002	NY	['285 Grand St', 'New York, NY 10002']	$$	4.0	1789
+88	King Wah Restaurant	-73.8989976712028	40.7099237520059	6417 Fresh Pond Rd	Ridgewood	11385	NY	['6417 Fresh Pond Rd', 'Ridgewood, NY 11385']	$	3.5	74
+89	Chung Chun Kitchen	-73.973	40.69314	338 Myrtle Ave	Brooklyn	11205	NY	['338 Myrtle Ave', 'Brooklyn, NY 11205']	$	4.0	21
+90	Haidilao Hotpot	-73.8280301	40.7612633	138-23 39th Ave	Flushing	11354	NY	['138-23 39th Ave', 'Flushing, NY 11354']		4.5	425
+91	New China Wok Chinese Kitchen	-73.97927	40.68257	57 4th Ave	Brooklyn	11217	NY	['57 4th Ave', 'Brooklyn, NY 11217']	$	4.0	25
+92	Congee Village	-73.99031	40.7187	100 Allen St	New York	10002	NY	['100 Allen St', 'New York, NY 10002']	$$	3.5	1554
+93	Little Tong Noodle Shop	-73.98424	40.72937	177 1st Ave	New York	10003	NY	['177 1st Ave', 'New York, NY 10003']	$$	4.0	254
+94	Chef Tan Newport 蜀湘门第	-74.0344276659991	40.7283333339534	558 Washington Blvd	Jersey City	07310	NJ	['558 Washington Blvd', 'Jersey City, NJ 07310']	$$	3.5	130
+95	Uluh	-73.9866071	40.7293403	152 2nd Ave	New York	10003	NY	['152 2nd Ave', 'Ste A', 'New York, NY 10003']	$$$	4.5	238
+96	Xi'an Famous Foods	-73.9808	40.75606	24 W 45th St	New York	10036	NY	['24 W 45th St', 'New York, NY 10036']	$	4.0	1639
+97	Excellent Dumpling House	-73.995028194335	40.7440494396358	165 W 23rd St	New York	10011	NY	['165 W 23rd St', 'New York, NY 10011']	$$	4.0	576
+98	Wok Wok	-73.99883	40.71406	11 Mott St	New York	10013	NY	['11 Mott St', 'New York, NY 10013']	$$	4.0	893
+99	Jade Garden	-73.9389026440374	40.8418951405518	4028 Broadway	New York	10032	NY	['4028 Broadway', 'New York, NY 10032']	$	3.5	81
+100	Grand Sichuan	-74.001052	40.747413	229 9th Ave	New York	10001	NY	['229 9th Ave', 'New York, NY 10001']	$$	3.5	448
+101	Monarch Theater Restaurant	-73.96222	40.71595	146 Metropolitan Ave	Brooklyn	11249	NY	['146 Metropolitan Ave', 'Brooklyn, NY 11249']	$$	5.0	49
+102	Ho May Kitchen	-73.94072	40.7186	100 Woodpoint Rd	Brooklyn	11211	NY	['100 Woodpoint Rd', 'Brooklyn, NY 11211']		4.0	13
+103	Panda Chinese Restaurant	-73.8569718	40.717395	73-03 Yellowstone Blvd	Forest Hills	11375	NY	['73-03 Yellowstone Blvd', 'Forest Hills, NY 11375']	$	4.0	50
+104	Golden Dragon Kitchen	-73.955184	40.713829	394 Metropolitan Ave	Brooklyn	11211	NY	['394 Metropolitan Ave', 'Brooklyn, NY 11211']	$	3.5	18
+105	Mission Chinese Food	-73.92315	40.70933	599 Johnson Ave	Brooklyn	11237	NY	['599 Johnson Ave', 'Brooklyn, NY 11237']	$$	3.5	60
+106	YunShang Rice Noodle House	-73.99765	40.71525	53 Bayard St	New York	10013	NY	['53 Bayard St', 'New York, NY 10013']	$$	4.0	167
+107	Hunan House	-73.97653	40.76292	40 W 56th St	New York	10019	NY	['40 W 56th St', 'New York, NY 10019']	$$	3.5	257
+108	Tang Hotpot	-73.99435	40.71866	135 Bowery	New York	10002	NY	['135 Bowery', 'New York, NY 10002']	$$$	4.0	216
+109	21 Shanghai House	-73.9964454932541	40.7140138244835	21 Division St	New York	10002	NY	['21 Division St', 'New York, NY 10002']	$$	4.0	424
+110	Spy C Cuisine	-73.84249	40.71903	72-06 Austin	Forest Hills	11375	NY	['72-06 Austin', 'Forest Hills, NY 11375']	$$	4.0	170
+111	Happy Hot Hunan	-73.96466	40.80133	969 Amsterdam Ave	New York	10025	NY	['969 Amsterdam Ave', 'New York, NY 10025']	$$	3.5	147
+112	Lotus Express	-73.9246	40.86627	4840 Broadway	Manhattan	10034	NY	['4840 Broadway', 'Manhattan, NY 10034']	$	4.0	60
+113	U Like	-73.949259	40.694007	602 Marcy Ave	Brooklyn	11206	NY	['602 Marcy Ave', 'Brooklyn, NY 11206']	$	4.0	47
+114	No Pork Halal Kitchen	-73.97936	40.68332	50 4th Ave	Brooklyn	11217	NY	['50 4th Ave', 'Brooklyn, NY 11217']	$	4.0	116
+115	Spicy Moon	-73.98722	40.72674	328 E 6th St	New York	10003	NY	['328 E 6th St', 'New York, NY 10003']	$$	4.5	215
+116	King's Kitchen	-73.9367651939392	40.6913483887911	158 Lewis Ave	Brooklyn	11221	NY	['158 Lewis Ave', 'Brooklyn, NY 11221']		5.0	5
+117	Asian Taste	-73.9829911834261	40.7228795731505	199 E 3rd St	New York	10009	NY	['199 E 3rd St', 'New York, NY 10009']		4.5	11
+118	Spicy Village	-73.99327	40.71695	68 Forsyth St	New York	10002	NY	['68 Forsyth St', 'Ste B', 'New York, NY 10002']	$	4.0	634
+119	Wok 88	-73.95322	40.78042	1570 3rd Ave	New York	10128	NY	['1570 3rd Ave', 'New York, NY 10128']	$$	3.5	276
+120	Hardee	-73.9109	40.67941	126 Hull St	Brooklyn	11233	NY	['126 Hull St', 'Brooklyn, NY 11233']		5.0	2
+121	Auntie Guan's Kitchen 108	-73.9974148512518	40.7377213477598	108 W 14th St	New York	10011	NY	['108 W 14th St', 'New York, NY 10011']	$$	3.5	333
+122	Pinch Chinese	-74.0018	40.72645	177 Prince St	New York	10012	NY	['177 Prince St', 'New York, NY 10012']	$$	4.0	324
+123	Junzi Kitchen	-74.004978	40.726138	30 Vandam St	New York	10013	NY	['30 Vandam St', 'New York, NY 10013']		5.0	1
+124	Big Wong	-73.99842	40.71624	67 Mott St	New York	10013	NY	['67 Mott St', 'New York, NY 10013']	$	3.5	1402
+125	New Choi Hee II	-73.9079299	40.72083	5907 Grand Ave	Maspeth	11378	NY	['5907 Grand Ave', 'Maspeth, NY 11378']		4.0	5
+126	Vanessa's Dumpling House	-73.9917399	40.71839	118A Eldridge St	New York	10002	NY	['118A Eldridge St', 'New York, NY 10002']	$	4.0	2580
+127	Bund On Broadway	-73.9282292	40.7631578922095	25-08 Broadway	Astoria	11106	NY	['25-08 Broadway', 'Astoria, NY 11106']	$$	4.0	142
+128	Le Sia	-73.989841	40.728886	11 E 7th St	New York	10003	NY	['11 E 7th St', 'New York, NY 10003']	$$	4.0	231
+129	MáLà Project	-73.98542	40.72713	122 1st Ave	New York	10009	NY	['122 1st Ave', 'New York, NY 10009']	$$	4.0	605
+130	Wan's Garden	-73.901421	40.702864	6826 Forest Ave	Ridgewood	11385	NY	['6826 Forest Ave', 'Ridgewood, NY 11385']	$	4.0	25
+131	The Bao	-73.9889199	40.72939	13 St Marks Pl	New York	10003	NY	['13 St Marks Pl', 'New York, NY 10003']	$$	3.5	1114
+132	Chong Qing Xiao Mian	-73.98753	40.76513	796 9th Ave	New York	10019	NY	['796 9th Ave', 'New York, NY 10019']	$$	4.0	300
+133	Hakkasan	-73.989961	40.758619	311 W 43rd St	New York	10036	NY	['311 W 43rd St', 'New York, NY 10036']	$$$$	3.5	901
+134	Noodle Fun	-73.9470367431641	40.7795333862305	1744 1st Ave	New York	10128	NY	['1744 1st Ave', 'New York, NY 10128']	$$	4.0	145
+135	Spice Symphony	-73.9715347290039	40.7558937072754	150 E 50th St	New York	10022	NY	['150 E 50th St', 'New York, NY 10022']	$$	4.5	435
+136	Great NY Noodle Town	-73.9971172437072	40.7150363828814	28 Bowery	New York	10013	NY	['28 Bowery', 'New York, NY 10013']	$	3.5	1278
+137	Tri Dim West	-73.97368	40.78412	467 Columbus Ave	New York	10024	NY	['467 Columbus Ave', 'New York, NY 10024']	$$	4.5	61
+138	Yummy City	-73.948986355818	40.7879244458184	1557 Lexington Ave	New York	10029	NY	['1557 Lexington Ave', 'New York, NY 10029']	$	4.0	43
+139	PACIFIC MOON	-73.90269	40.75119	59-02 Broadway	Woodside	11377	NY	['59-02 Broadway', 'Woodside, NY 11377']	$	4.0	74
+140	China Garden	-73.921517	40.703364	133 Irving Ave	Brooklyn	11237	NY	['133 Irving Ave', 'Brooklyn, NY 11237']	$	5.0	11
+141	Super Taste	-73.99341	40.71513	26 Eldridge St	New York	10002	NY	['26 Eldridge St', 'New York, NY 10002']	$	4.0	541
+142	Delicious Wok	-73.896705	40.700328	5952 Summerfield St	Ridgewood	11385	NY	['5952 Summerfield St', 'Ridgewood, NY 11385']	$	4.5	27
+143	Tomorrow	-74.004785	40.707425	200 Pearl St	New York	10038	NY	['200 Pearl St', 'New York, NY 10038']	$	4.0	102
+144	Bao Bao Cafe	-74.01367	40.70854	106 Greenwich St	New York	10006	NY	['106 Greenwich St', 'New York, NY 10006']	$	4.0	170
+145	M Shanghai Bistro & Garden	-73.95757	40.71293	292 Grand St	Brooklyn	11211	NY	['292 Grand St', 'Brooklyn, NY 11211']	$$	3.5	421
+146	Yaso Tangbao	-73.9863992364001	40.6918206366101	148 Lawrence St	Brooklyn	11201	NY	['148 Lawrence St', 'Brooklyn, NY 11201']	$$	3.5	742
+147	Dim Sum Bar	-73.961346	40.714735	167 Grand St	Brooklyn	11249	NY	['167 Grand St', 'Brooklyn, NY 11249']	$$	4.0	187
+148	Macao trading	-74.003904	40.719623	311 Church St	New York	10013	NY	['311 Church St', 'New York, NY 10013']	$$$	4.0	732
+149	Legend 72	-73.9796901	40.77796	127 W 72nd St	New York	10023	NY	['127 W 72nd St', 'New York, NY 10023']	$$	3.5	218
+150	Real Kung Fu Little Steamed Buns Ramen	-73.9868181646996	40.7616286634162	811 8th Ave	New York	10019	NY	['811 8th Ave', 'New York, NY 10019']	$$	3.5	977
+151	Empire Szechuan Garden	-73.9186565	40.7442226	4342 46th St	Sunnyside	11104	NY	['4342 46th St', 'Sunnyside, NY 11104']	$	3.5	42
+152	Di Di Restaurant	-73.94729	40.62813	2318 Nostrand Ave	Brooklyn	11210	NY	['2318 Nostrand Ave', 'Brooklyn, NY 11210']	$	4.0	37
+153	Red Bowl	-73.958762175149	40.7170493866292	208 Bedford Ave	Brooklyn	11211	NY	['208 Bedford Ave', 'Brooklyn, NY 11211']	$$	3.5	253
+154	Xi'an Famous Foods	-73.98551	40.72782	81 St Marks Pl	New York	10003	NY	['81 St Marks Pl', 'New York, NY 10003']	$$	4.0	1589
+155	Chinese Musician Restaurant	-73.9537321	40.7303597	151 Greenpoint Ave	Brooklyn	11222	NY	['151 Greenpoint Ave', 'Brooklyn, NY 11222']	$	3.0	124
+156	New China	-73.93612	40.69701	1135 Myrtle Ave	Brooklyn	11206	NY	['1135 Myrtle Ave', 'Brooklyn, NY 11206']	$	3.5	13
+157	Tuome	-73.9828906263924	40.72412482724	536 E 5th St	New York	10009	NY	['536 E 5th St', 'New York, NY 10009']	$$$	4.5	474
+158	Little Alley	-73.97728	40.74744	550 3rd Ave	New York	10016	NY	['550 3rd Ave', 'New York, NY 10016']	$$	4.0	339
+159	Hunan Slurp	-73.98563	40.72669	112 1st Ave	New York	10009	NY	['112 1st Ave', 'New York, NY 10009']	$$$	4.0	206
+160	Little Pepper	-73.84618	40.78245	18-24 College Point Blvd	College Point	11356	NY	['18-24 College Point Blvd', 'College Point, NY 11356']	$$	4.0	309
+161	Xi'an Famous Foods	-73.9867	40.69212	54 Willoughby St	Brooklyn	11201	NY	['54 Willoughby St', 'Brooklyn, NY 11201']		4.0	11
+162	Fortune Place	-73.9585	40.70849	286 Broadway	Brooklyn	11211	NY	['286 Broadway', 'Brooklyn, NY 11211']	$	3.5	16
+163	King's Kitchen	-73.99367	40.71399	92 E Broadway	New York	10002	NY	['92 E Broadway', 'New York, NY 10002']	$	4.0	254
+164	House Special 甘來飯店	-73.9967999	40.71785	171 Hester St	New York	10013	NY	['171 Hester St', 'New York, NY 10013']		4.0	51
+165	Golden Wok	-73.921549	40.745129	4218 43rd Ave	Sunnyside	11104	NY	['4218 43rd Ave', 'Sunnyside, NY 11104']	$	3.0	46
+166	Da Tang Szechuan	-73.98376	40.75128	18 W 38th St	New York	10018	NY	['18 W 38th St', 'New York, NY 10018']	$$	4.5	192
+167	Shanghai	-73.958381	40.768291	1388 2nd Ave	New York	10021	NY	['1388 2nd Ave', 'New York, NY 10021']	$	4.0	92
+168	JJ Kitchen	-73.96627	40.69354	475 B Myrtle Ave	Brooklyn	11205	NY	['475 B Myrtle Ave', 'Brooklyn, NY 11205']		4.5	12
+169	Peng's Noodle Folk	-73.94932	40.77726	1659 1st Ave	New York	10028	NY	['1659 1st Ave', 'New York, NY 10028']	$$	4.5	419
+170	Hai Sun Chinese Restaurant	-73.9600143432617	40.6575736999512	651 Flatbush Ave	Brooklyn	11225	NY	['651 Flatbush Ave', 'Brooklyn, NY 11225']	$	3.5	40
+171	Red Peony Chinese Cuisine	-73.97589	40.76278	24 W 56th St	New York	10019	NY	['24 W 56th St', 'New York, NY 10019']	$$	4.0	65
+172	J J Chan's Garden	-73.8922443	40.7587084	7521 31st Ave	East Elmhurst	11370	NY	['7521 31st Ave', 'East Elmhurst, NY 11370']	$$	3.5	114
+173	Tiny Shanghai	-73.99795	40.71781	122 Mulberry St	New York	10013	NY	['122 Mulberry St', 'New York, NY 10013']	$$	4.0	242
+174	Hunan House I	-74.06242	40.72857	382 Summit Ave	Jersey City	07306	NJ	['382 Summit Ave', 'Jersey City, NJ 07306']	$	4.5	31
+175	Xi’an Famous Foods	-74.009347	40.709193	8 Liberty Pl	New York	10038	NY	['8 Liberty Pl', 'New York, NY 10038']	$$	4.0	100
+176	Good Taste	-73.9335449	40.7543728	3801 29th St	Long Island City	11101	NY	['3801 29th St', 'Long Island City, NY 11101']	$	3.5	46
+177	King Wok	-74.0050399	40.72904	222 Varick St	New York	10014	NY	['222 Varick St', 'New York, NY 10014']	$	3.5	129
+178	WK Restaurant	-73.99836	40.7155	69 Bayard St	New York	10013	NY	['69 Bayard St', 'New York, NY 10013']	$	4.0	71
+179	Asian Garden	-73.8603101670742	40.6925863273397	84-17 Jamaica Ave	Jamaica	11421	NY	['84-17 Jamaica Ave', 'Jamaica, NY 11421']	$$	4.0	19
+180	Nan Xiang Xiao Long Bao	-73.8325853625656	40.7598810063385	39-16 Prince St	Flushing	11354	NY	['39-16 Prince St', 'Ste 104', 'Flushing, NY 11354']	$	4.0	3380
+181	Atlas Kitchen	-73.9668	40.80332	258 W 109th St	New York	10025	NY	['258 W 109th St', 'New York, NY 10025']	$$	3.5	94
+182	Authentic Szechuan	-73.9848930557056	40.6711753186162	384 5th Ave	Park Slope	11215	NY	['384 5th Ave', 'Park Slope, NY 11215']	$$	3.5	83
+183	Hunan Bistro	-73.9881	40.73234	96 3rd Ave	New York	10003	NY	['96 3rd Ave', 'New York, NY 10003']	$$	3.5	212
+184	The Dumpling Shop	-73.9877445929247	40.7281980640218	124 2nd Ave	New York	10003	NY	['124 2nd Ave', 'New York, NY 10003']		4.5	115
+185	Sammy's Noodle Shop & Grill	-73.998706	40.735129	453 6th Ave	New York	10011	NY	['453 6th Ave', 'New York, NY 10011']	$$	3.5	441
+186	Golden Dragon	-73.92097	40.76287	3406 31st Ave	Astoria	11106	NY	['3406 31st Ave', 'Astoria, NY 11106']	$	3.5	76
+187	Málà Project	-73.98056	40.75693	41 W 46th St	New York	10036	NY	['41 W 46th St', 'New York, NY 10036']	$$	4.0	281
+188	Spice Spirit	-74.0650781984882	40.7299773848248	900 Bergen Ave	Jersey City	07306	NJ	['900 Bergen Ave', 'Jersey City, NJ 07306']		4.5	43
+189	Xu's Public House	-73.9917	40.73589	15 Union Square W	New York	10003	NY	['15 Union Square W', 'New York, NY 10003']	$$$	4.0	82
+190	Shu Han Ju	-73.99843	40.73558	465 6th Ave	New York	10011	NY	['465 6th Ave', 'New York, NY 10011']	$$	3.5	159
+191	New Asian Cuisine	-73.9210213	40.7393524	44-20 48th Ave	Woodside	11377	NY	['44-20 48th Ave', 'Woodside, NY 11377']	$	4.0	25
+192	Fu Run Dong Bei	-73.831712	40.758782	40-09 Prince St	Flushing	11354	NY	['40-09 Prince St', 'Flushing, NY 11354']	$$	4.0	454
+193	Forever Taste	-73.98979	40.71294	27 Rutgers St	New York	10002	NY	['27 Rutgers St', 'New York, NY 10002']	$	4.0	37
+194	Christopher's Golden Woks	-74.00836	40.73284	159 Christopher St	New York	10014	NY	['159 Christopher St', 'New York, NY 10014']	$	3.5	53
+195	Szechuan Delight Restaurant	-73.97706	40.67254	152 7th Ave	Brooklyn	11215	NY	['152 7th Ave', 'Brooklyn, NY 11215']	$$	3.0	100
+196	Lichee Nut	-73.9928131	40.694149	162 Montague St	Brooklyn	11201	NY	['162 Montague St', 'Brooklyn, NY 11201']	$	3.0	262
+197	Hop Kee	-73.998889	40.714458	21 Mott St	New York	10013	NY	['21 Mott St', 'New York, NY 10013']	$$	3.5	786
+198	Xi'an Famous Foods	-73.95452	40.77197	328 E 78th St	New York	10075	NY	['328 E 78th St', 'New York, NY 10075']	$	4.0	499
+199	Delicious chinese take out	-73.8993319496512	40.6421039784519	1584 Rockaway Pkwy	Canarsie	11236	NY	['1584 Rockaway Pkwy', 'Canarsie, NY 11236']		4.5	4
+200	M&J Asian Cuisine	-73.9780369922164	40.7292851717997	600 E 14th St	New York	10009	NY	['600 E 14th St', 'New York, NY 10009']	$	4.0	40
+201	Very Fresh Noodles	-74.00625	40.7423387008486	425 W 15th St	New York	10011	NY	['425 W 15th St', 'New York, NY 10011']	$$	4.5	922
+202	Lin's Garden	-73.9090729	40.7034531	652 Seneca Ave	Ridgewood	11385	NY	['652 Seneca Ave', 'Ridgewood, NY 11385']	$	4.0	44
+203	Original Buddha Bodai Kosher Vegetarian Restaurant	-73.9989484	40.7138543	5 Mott St	New York	10013	NY	['5 Mott St', 'New York, NY 10013']	$$	4.0	969
+204	Yun Nan Flavor Garden	-74.004509	40.639996	5121 8th Ave	Brooklyn	11220	NY	['5121 8th Ave', 'Brooklyn, NY 11220']	$	4.0	299
+205	Happy Garden Chinese Restaurant	-74.02678	40.63314	7211 3rd Ave	Brooklyn	11209	NY	['7211 3rd Ave', 'Brooklyn, NY 11209']	$	4.0	37
+206	Junzi Kitchen	-74.00061	40.72878	170 Bleecker St	New York	10012	NY	['170 Bleecker St', 'New York, NY 10012']	$$	4.5	158
+207	Caridad China	-73.94264	40.7049499	108 Graham Ave	Williamsburg	11206	NY	['108 Graham Ave', 'Williamsburg, NY 11206']	$$	4.0	95
+208	China Jade	-73.95239	40.77747	1643 2nd Ave	New York	10028	NY	['1643 2nd Ave', 'New York, NY 10028']	$$	3.5	142
+209	Mr Chow	-74.0087721	40.7201045	121 Hudson St	New York	10013	NY	['121 Hudson St', 'New York, NY 10013']	$$$$	3.0	383
+210	Hop Lee Kitchen	-73.95455	40.7329099	992 Manhattan Ave	Brooklyn	11222	NY	['992 Manhattan Ave', 'Brooklyn, NY 11222']	$	3.5	39
+211	China Delight	-73.996885	40.661844	722 4th Ave	Brooklyn	11232	NY	['722 4th Ave', 'Brooklyn, NY 11232']	$	4.0	17
+212	Da Yu Hot Pot 大渝火锅	-73.995379	40.716733	81 Bowery	New York	10002	NY	['81 Bowery', 'New York, NY 10002']	$$$	4.0	106
+213	Kung Fu Kitchen	-73.9907654374838	40.7555654203146	610 8th Ave	New York	10018	NY	['610 8th Ave', 'New York, NY 10018']	$$	3.5	396
+214	Yummy 88	-73.92605	40.70075	130 Wilson Ave	Brooklyn	11237	NY	['130 Wilson Ave', 'Brooklyn, NY 11237']		3.5	21
+215	Dim Sum Palace	-73.97681	40.76259	47 W 55th St	New York	10019	NY	['47 W 55th St', 'New York, NY 10019']	$$	4.0	250
+216	RJR Yummy Kitchen	-73.8783152	40.7601665	9021 31st Ave	East Elmhurst	11369	NY	['9021 31st Ave', 'East Elmhurst, NY 11369']	$	4.0	28
+217	Philippe By Philippe Chow	-73.97039	40.76409	33 E 60th St	New York	10065	NY	['33 E 60th St', 'New York, NY 10065']	$$$	3.5	678
+218	Hua Long Chinese Restaurant	-73.9737319946289	40.6857872009277	706 Fulton St	Brooklyn	11217	NY	['706 Fulton St', 'Brooklyn, NY 11217']	$	3.5	25
+219	New Wah On Restaurant	-73.882299	40.671097	986 Sutter Ave	Brooklyn	11208	NY	['986 Sutter Ave', 'Brooklyn, NY 11208']	$	4.5	8
+220	A & C Kitchen	-73.978	40.72501	136 Avenue C	New York	10009	NY	['136 Avenue C', 'Ste A', 'New York, NY 10009']	$	3.5	33
+221	J's Wong	-73.95661	40.67402	717 Franklin Ave	Brooklyn	11238	NY	['717 Franklin Ave', 'Brooklyn, NY 11238']	$	3.5	65
+222	Wok Express	-73.939417	40.798202	2133 3rd Ave	New York	10035	NY	['2133 3rd Ave', 'New York, NY 10035']	$	4.0	12
+223	Wa Jeal Sichuan Chili House	-73.95317	40.77536	1588 2nd Ave	New York	10028	NY	['1588 2nd Ave', 'New York, NY 10028']	$$	3.5	391
+224	Wing Hing Chinese Restaurant	-73.953918	40.665832	312 Rogers Ave	Brooklyn	11225	NY	['312 Rogers Ave', 'Brooklyn, NY 11225']	$	4.0	13
+225	Chef Yu	-73.99217	40.75365	520 8th Ave	New York	10018	NY	['520 8th Ave', 'New York, NY 10018']	$$	3.0	571
+226	Grace Kitchen	-73.96569	40.6933	484 Myrtle Ave	Brooklyn	11205	NY	['484 Myrtle Ave', 'Brooklyn, NY 11205']	$	3.0	28
+227	Splendid China	-73.940437	40.835598	2038 Amsterdam Ave	New York	10032	NY	['2038 Amsterdam Ave', 'New York, NY 10032']	$	3.5	29
+228	Happy Garden	-73.92279	40.76725	2926 30th Ave	Astoria	11102	NY	['2926 30th Ave', 'Astoria, NY 11102']	$	3.5	67
+229	Sing Hing Chinese Restaurant	-73.948715	40.710937	576 Grand St	Brooklyn	11211	NY	['576 Grand St', 'Brooklyn, NY 11211']	$	3.5	30
+230	A+ Express	-73.9405366	40.6996699	794 Broadway	Brooklyn	11206	NY	['794 Broadway', 'Brooklyn, NY 11206']	$$	3.0	21
+231	Chairman Sun 国色天湘	-73.95375	40.74465	47-30 Vernon Blvd	Long Island City	11101	NY	['47-30 Vernon Blvd', 'Long Island City, NY 11101']		4.0	113
+232	New King Wok Restaurant	-73.9498444	40.8064728	2025 7th Ave	New York	10027	NY	['2025 7th Ave', 'New York, NY 10027']	$	4.0	17
+233	Grand Sichuan Eastern	-73.96636	40.75831	1049 2nd Ave	New York	10022	NY	['1049 2nd Ave', 'New York, NY 10022']	$$	3.5	243
+234	Yin Ji Chang Fen Rice Roll	-73.999336	40.71583	91 Bayard St	New York	10013	NY	['91 Bayard St', 'New York, NY 10013']	$$	3.5	97
+235	Hong Kong Express	-73.904721	40.69617	989 Wyckoff Ave	Ridgewood	11385	NY	['989 Wyckoff Ave', 'Ridgewood, NY 11385']	$	4.0	42
+236	Empire Kitchen	-73.925008	40.67206	1575 Park Pl	Crown Heights	11233	NY	['1575 Park Pl', 'Crown Heights, NY 11233']		4.0	4
+237	Red Hot Szechuan	-73.98191	40.666088	349 7th Ave	Brooklyn	11215	NY	['349 7th Ave', 'Brooklyn, NY 11215']	$$	3.0	178
+238	8 Dragon & Phoenix Restaurant	-73.911422342062	40.7754678279161	22-17 31st St	Astoria	11105	NY	['22-17 31st St', 'Astoria, NY 11105']	$	4.0	149
+239	Autumn Asian Restaurant	-73.9721409	40.677148	349 Flatbush Ave	Brooklyn	11238	NY	['349 Flatbush Ave', 'Brooklyn, NY 11238']	$	3.5	44
+240	Three Times	-73.985209	40.718271	90 Clinton St	New York	10002	NY	['90 Clinton St', 'New York, NY 10002']		3.5	7
+241	Dynasty Dim Sum	-73.98087	40.74148	381 3rd Ave	New York	10016	NY	['381 3rd Ave', 'New York, NY 10016']	$$	4.0	135
+242	Chuan Tian Xia 川天下	-74.009131	40.6397	5502 7th Ave	Brooklyn	11220	NY	['5502 7th Ave', 'Brooklyn, NY 11220']	$$	4.5	125
+243	Lucky Chen - 五锦轩	-73.83159	40.7634	13553 Northern Blvd	Flushing	11354	NY	['13553 Northern Blvd', 'Flushing, NY 11354']	$$	4.5	131
+244	100% Mr Lin	-73.9833099022508	40.6910201049104	445 Albee Square W	Brooklyn	11201	NY	['445 Albee Square W', 'Brooklyn, NY 11201']		4.0	16
+245	Jasmine Restaurant	-73.97057	40.75467	216 E 49th St	New York	10017	NY	['216 E 49th St', 'New York, NY 10017']	$$	3.5	247
+246	Faith Chinese Food	-73.94308	40.70756	170 Graham Ave	Brooklyn	11206	NY	['170 Graham Ave', 'Brooklyn, NY 11206']		5.0	1
+247	No 1 Flower Drum House	-73.908463	40.777674	21-05 31st St	Astoria	11105	NY	['21-05 31st St', 'Astoria, NY 11105']	$	4.0	82
+248	LaoMa Spicy	-73.9934402704239	40.7308968437954	58 E 8th St	New York	10003	NY	['58 E 8th St', 'New York, NY 10003']	$$	4.0	125
+249	China River 川聚院	-73.9883149042726	40.7581711239604	258 W 44th St	New York	10036	NY	['258 W 44th St', 'New York, NY 10036']	$$	4.0	164
+250	Charley Mom Restaurant	-73.9481582641602	40.7740287780762	1580 York Ave	New York	10028	NY	['1580 York Ave', 'New York, NY 10028']	$$	3.5	86
+251	Hood Hing Restaurant	-73.967072	40.6747	198 Underhill Ave	Brooklyn	11238	NY	['198 Underhill Ave', 'Brooklyn, NY 11238']	$	3.5	21
+252	New Hardee Chinese Restaurant	-73.94299	40.69244	835 Dekalb Ave	Brooklyn	11221	NY	['835 Dekalb Ave', 'Brooklyn, NY 11221']	$	3.5	27
+253	Green Garden Village	-73.995878	40.7189831	216 Grand St	New York	10013	NY	['216 Grand St', 'New York, NY 10013']	$$	4.0	19
+254	Great Wall	-73.935684	40.795074	2234 1st Ave	New York	10029	NY	['2234 1st Ave', 'New York, NY 10029']	$	4.0	13
+255	Hunan Delight	-73.951296	40.770678	1467 York Ave	New York	10075	NY	['1467 York Ave', 'New York, NY 10075']	$$	3.5	176
+256	Chuan Yue	-74.01091	40.63236	842 64th St	Brooklyn	11220	NY	['842 64th St', 'Brooklyn, NY 11220']		4.5	32
+257	Gem Bing Shop	-73.9891	40.72946	9 Saint Marks Pl	New York	10003	NY	['9 Saint Marks Pl', 'New York, NY 10003']	$	4.0	47
+258	Xian Famous Foods	-73.983901	40.747844	14 E 34th St	New York	10016	NY	['14 E 34th St', 'New York, NY 10016']	$$	4.0	722
+259	Jardin De China	-73.8700722	40.7506089	3737 Junction Blvd	Corona	11368	NY	['3737 Junction Blvd', 'Corona, NY 11368']	$$	4.0	221
+260	Red Apple Restaurant	-74.002834	40.684446	225 Columbia St	Brooklyn	11231	NY	['225 Columbia St', 'Brooklyn, NY 11231']	$	3.5	21
+261	99 Favor Taste	-73.988094	40.728833	37 St Marks Pl	New York	10003	NY	['37 St Marks Pl', 'New York, NY 10003']	$$	4.0	582
+262	Calle Dao - Chelsea	-74.0037312	40.7476515	461 W 23rd St	New York	10011	NY	['461 W 23rd St', 'New York, NY 10011']	$$	4.5	535
+263	E Noodle 粥麵館 - Chinatown	-73.99731	40.71379	5 Catherine St	New York	10038	NY	['5 Catherine St', 'New York, NY 10038']	$	4.0	82
+264	Wu's Wonton King	-73.9899386554248	40.7139415501646	165 E Broadway	New York	10002	NY	['165 E Broadway', 'New York, NY 10002']	$$	3.5	242
+265	New Golden Star	-73.9362273	40.8498685	4247 Broadway	New York	10033	NY	['4247 Broadway', 'New York, NY 10033']	$$	3.5	86
+266	Good Luck Kitchen	-73.795443	40.758266	171-03 Northern Blvd	Flushing	11358	NY	['171-03 Northern Blvd', 'Flushing, NY 11358']		4.0	4
+267	Good Friend 1	-73.9499699	40.65314	1376 Nostrand Ave	Brooklyn	11226	NY	['1376 Nostrand Ave', 'Brooklyn, NY 11226']	$	3.5	19
+268	New Apolo	-73.95076	40.71078	508 Grand St	Brooklyn	11211	NY	['508 Grand St', 'Brooklyn, NY 11211']	$$	3.5	133
+269	Lee Good Taste	-73.8729380071163	40.6751870148044	2686 Pitkin Ave	Brooklyn	11208	NY	['2686 Pitkin Ave', 'Brooklyn, NY 11208']	$	4.5	13
+270	Michael & Ping's Modern Chinese Take-Out	-73.990177	40.672501	437 3rd Ave	Brooklyn	11215	NY	['437 3rd Ave', 'Brooklyn, NY 11215']	$$	3.5	249
+271	Oh Dumplings	-73.9929996	40.6875754	6 Bergen St	Brooklyn	11201	NY	['6 Bergen St', 'Brooklyn, NY 11201']		4.0	63
+272	Fast Wok	-73.9187199	40.808	260 Brook Ave	Bronx	10454	NY	['260 Brook Ave', 'Bronx, NY 10454']		4.0	8
+273	Flavor Restaurant	-74.00515	40.62229	7109 13th Ave	Brooklyn	11228	NY	['7109 13th Ave', 'Brooklyn, NY 11228']		4.0	1
+274	Trinidad Golden Place Restaurant	-73.950525317791	40.6718291030037	788 Nostrand Ave	Brooklyn	11216	NY	['788 Nostrand Ave', 'Brooklyn, NY 11216']	$	4.5	122
+275	Ding Asian Szechuan Hot Pot Restaurant	-73.98635	40.76064	234 W 48th St	New York	10036	NY	['234 W 48th St', 'New York, NY 10036']	$$	3.5	182
+276	小東北 Private Kitchen	-73.8311868	40.7624327	3635 Main St	Flushing	11354	NY	['3635 Main St', 'Flushing, NY 11354']	$$	4.0	68
+277	Double Chinese Restaurant	-73.893798	40.700626	61-10 Myrtle Ave	Queens	11385	NY	['61-10 Myrtle Ave', 'Queens, NY 11385']	$	4.0	7
+278	King's Chef	-73.910705	40.764358	4311 28th Ave	Astoria	11103	NY	['4311 28th Ave', 'Astoria, NY 11103']	$	3.5	48
+279	Xing Wang No. 1	-73.91	40.85421	62 W Burnside Ave	Morris Heights	10453	NY	['62 W Burnside Ave', 'Morris Heights, NY 10453']		5.0	3
+280	Lucky Garden	-73.946823	40.624759	2460 Nostrand Ave	Brooklyn	11210	NY	['2460 Nostrand Ave', 'Brooklyn, NY 11210']		4.0	22
+281	Spice Symphony	-73.981202	40.744722	182 Lexington Ave	New York	10016	NY	['182 Lexington Ave', 'New York, NY 10016']	$$	4.0	583
+282	New Chinatown Restaurant of New York	-73.978652	40.720527	11 Avenue D	New York	10009	NY	['11 Avenue D', 'New York, NY 10009']	$	4.0	12
+283	Tonii’s Fresh Rice Noodle	-73.99899	40.71572	85 Bayard St	New York	10013	NY	['85 Bayard St', 'New York, NY 10013']		4.0	26
+284	Main Noodle House	-73.986396	40.752143	1011 6th Ave	New York	10018	NY	['1011 6th Ave', 'New York, NY 10018']	$$	3.5	398
+285	Mr Wonton	-73.97481	40.67517	73 7th Ave	Brooklyn	11217	NY	['73 7th Ave', 'Brooklyn, NY 11217']	$$	3.5	186
+286	Joe’s Steam Rice Roll	-74.0008207038045	40.7190194496717	261 Canal St	New York	10013	NY	['261 Canal St', 'New York, NY 10013']	$	4.0	220
+287	Fei Ma	-73.9845239	40.725114	79 Ave A	New York	10009	NY	['79 Ave A', 'New York, NY 10009']	$	3.5	47
+288	Bo Hai Dumpling Town	-73.987381	40.714058	217 E Broadway	New York	10002	NY	['217 E Broadway', 'New York, NY 10002']	$	4.5	6
+289	A Shen Zhou Restaurant	-73.92469	40.70026	159 Wilson Ave	Brooklyn	11237	NY	['159 Wilson Ave', 'Brooklyn, NY 11237']	$	3.0	58
+290	Burp Bowl Cafe	-73.98271	40.74183	134 E 27th St	New York	10010	NY	['134 E 27th St', 'New York, NY 10010']	$	4.5	209
+291	New Apollo II	-73.9166564941406	40.6991691589355	1477 Myrtle Ave	Brooklyn	11237	NY	['1477 Myrtle Ave', 'Brooklyn, NY 11237']	$$	3.5	52
+292	King Garden Restaurant	-73.9346599	40.85188	4316 Broadway	New York	10033	NY	['4316 Broadway', 'New York, NY 10033']	$	4.0	15
+293	Dun Huang -  Grand Central	-73.97785	40.74922	320 Lexington Ave	New York	10016	NY	['320 Lexington Ave', 'New York, NY 10016']	$$	4.5	150
+294	Ningbo Cafe	-74.018318	40.7081329	21 S End Ave	New York	10280	NY	['21 S End Ave', 'New York, NY 10280']	$$	4.0	144
+295	Snacky	-73.9607	40.71439	187 Grand St	Brooklyn	11211	NY	['187 Grand St', 'Brooklyn, NY 11211']	$$	4.0	187
+296	Grand Sichuan NY II	-73.8557088375092	40.7274381816387	98-108 Queens Blvd	Rego Park	11374	NY	['98-108 Queens Blvd', 'Rego Park, NY 11374']	$$	4.0	223
+297	Chen's Garden	-73.8909008	40.6500633	11046 Flatlands Ave	Brooklyn	11207	NY	['11046 Flatlands Ave', 'Brooklyn, NY 11207']	$	4.0	11
+298	Golden Kitchen	-73.9190678626333	40.7704481038437	2921 Astoria Blvd	Astoria	11102	NY	['2921 Astoria Blvd', 'Astoria, NY 11102']	$	3.5	26
+299	Golden City Chinese Restaurant	-73.996643608314	40.753277148143	423 9th Ave	New York	10001	NY	['423 9th Ave', 'New York, NY 10001']	$	3.5	80
+300	Pearl Garden	-73.8219	40.786695	14508 14th Ave	Whitestone	11357	NY	['14508 14th Ave', 'Whitestone, NY 11357']	$	4.0	92
+301	Peking Express Chinese Rest	-73.804	40.6743	13412 Rockaway Blvd	South Ozone Park	11420	NY	['13412 Rockaway Blvd', 'South Ozone Park, NY 11420']	$$	3.5	34
+302	Rainbow Fang's Kitchen	-73.9128099	40.7444599	51-21 43rd Ave	Woodside	11377	NY	['51-21 43rd Ave', 'Woodside, NY 11377']	$	3.5	28
+303	Yummy Yummy Chinese Restaurant	-73.8440620312661	40.6765460997353	13206 Crossbay Blvd	Ozone Park	11417	NY	['13206 Crossbay Blvd', 'Ozone Park, NY 11417']	$	3.0	34
+304	The Cottage	-73.9793799398146	40.7820668155281	360 Amsterdam Ave	New York	10024	NY	['360 Amsterdam Ave', 'New York, NY 10024']	$$	3.0	327
+305	Yip's	-74.01238	40.70482	18 Beaver St	New York	10004	NY	['18 Beaver St', 'New York, NY 10004']	$	3.5	109
+306	Old Peking	-74.0683028	40.7255268	746 Montgomery St	Jersey City	07306	NJ	['746 Montgomery St', 'Jersey City, NJ 07306']	$	4.0	39
+307	Lee Garden Chinese Restaurant	-73.91904	40.70433	121 Wyckoff Ave	Brooklyn	11237	NY	['121 Wyckoff Ave', 'Brooklyn, NY 11237']	$	3.5	16
+308	Mr Chen	-73.8999599	40.70068	5905 Myrtle Ave	Ridgewood	11385	NY	['5905 Myrtle Ave', 'Ridgewood, NY 11385']	$	3.0	65
+309	Manting	-73.9829980954528	40.7601476826859	150 W 49th St	New York	10019	NY	['150 W 49th St', 'New York, NY 10019']	$$	3.5	244
+310	Mei Mei Chinese Restaurant	-73.9413834	40.5969532	3566 Nostrand Ave	Brooklyn	11229	NY	['3566 Nostrand Ave', 'Brooklyn, NY 11229']	$$	4.0	12
+311	Food King	-74.04568	40.72117	185 Newark Ave	Jersey City	07302	NJ	['185 Newark Ave', 'Jersey City, NJ 07302']	$	4.0	84
+312	Xi'an Famous Foods	-73.9509299397469	40.7243301734731	648 Manhattan Ave	Brooklyn	11222	NY	['648 Manhattan Ave', 'Brooklyn, NY 11222']	$$	4.0	214
+313	New Jin Shing	-73.909389	40.682073	1794 Broadway	Brooklyn	11207	NY	['1794 Broadway', 'Brooklyn, NY 11207']	$	4.0	31
+314	Wa Lung Kitchen	-73.980251	40.713919	557 Grand St	New York	10002	NY	['557 Grand St', 'New York, NY 10002']	$	3.0	61
+315	Tim Ho Wan - Hell's Kitchen	-73.99175	40.75935	610 9th Ave	New York	10036	NY	['610 9th Ave', 'New York, NY 10036']	$$	3.5	320
+316	Family Garden Chinese Food Take Out	-73.9776473	40.6357102	111A Ditmas Ave	Brooklyn	11218	NY	['111A Ditmas Ave', 'Brooklyn, NY 11218']	$	4.0	14
+317	La Salle Dumpling Room	-73.98951	40.7731596	35 W End Ave	New York	10023	NY	['35 W End Ave', 'New York, NY 10023']	$$	4.0	177
+318	China 1 Kitchen	-73.9490040654764	40.7632023290684	609 Main St	New York	10044	NY	['609 Main St', 'New York, NY 10044']	$	2.5	56
+319	China Chalet	-74.012940146627	40.7065032987417	47 Broadway	New York	10006	NY	['47 Broadway', 'New York, NY 10006']	$$	3.0	172
+320	Cheung Hsi Restaurant	-73.88318	40.7462	8148 Baxter Ave	Elmhurst	11373	NY	['8148 Baxter Ave', 'Elmhurst, NY 11373']		3.5	7
+321	Philippe Downtown	-74.0038	40.74213	355 W 16th St	New York	10011	NY	['355 W 16th St', 'New York, NY 10011']	$$$	3.5	66
+322	Mr Chow	-73.9643376320601	40.7588502019644	324 E 57th St	New York	10022	NY	['324 E 57th St', 'New York, NY 10022']	$$$$	3.0	349
+323	Radiance	-73.9703503944427	40.7555779423723	208 E 50th St	New York	10022	NY	['208 E 50th St', '2nd & 3rd Ave', 'New York, NY 10022']	$$	4.0	169
+324	SHI MIAODAO Yunnan Rice Noodle	-73.9881	40.72904	33 Saint Marks Pl	New York	10003	NY	['33 Saint Marks Pl', 'New York, NY 10003']	$$	4.0	90
+325	China House	-73.9087347686291	40.7131484469408	55-01 Metropolitan Ave	Maspeth	11385	NY	['55-01 Metropolitan Ave', 'Maspeth, NY 11385']		4.5	7
+326	DaDong New York	-73.98501	40.75475	3 Bryant Park	New York	10036	NY	['3 Bryant Park', 'New York, NY 10036']	$$$$	3.0	570
+327	Lilli & Loo	-73.967269	40.763858	792 Lexington Ave	New York	10065	NY	['792 Lexington Ave', 'New York, NY 10065']	$$	3.5	384
+328	Yummy Yummy Chinese Restaurant	-73.903965	40.646978	1349 Rockaway Pkwy	Brooklyn	11236	NY	['1349 Rockaway Pkwy', 'Brooklyn, NY 11236']	$	4.0	6
+329	Shanghai Mong	-73.9871597290039	40.7476119995117	30 W 32nd St	New York	10001	NY	['30 W 32nd St', 'New York, NY 10001']	$$	3.0	501
+330	Asian 83	-73.953269	40.77626	1605 2nd Ave	New York	10028	NY	['1605 2nd Ave', 'New York, NY 10028']		2.5	30
+331	Dumpling Town	-74.0106293	40.6340978	806 62nd St	Brooklyn	11220	NY	['806 62nd St', 'Brooklyn, NY 11220']		5.0	2
+332	A-Pou's Taste	-73.93616	40.71326	963 Grand St	Brooklyn	11211	NY	['963 Grand St', 'Brooklyn, NY 11211']	$	4.5	40
+333	New Hong Kong House	-73.96632	40.64009	1222 Cortelyou Rd	Brooklyn	11218	NY	['1222 Cortelyou Rd', 'Brooklyn, NY 11218']	$	3.5	19
+334	Foo-Hing Chinese Kitchen	-73.9222125	40.8135242	2706 3rd Ave	Bronx	10454	NY	['2706 3rd Ave', 'Bronx, NY 10454']	$	4.5	4
+335	Grain House	-73.9657538384199	40.800127673827	929 Amsterdam Ave	New York	10025	NY	['929 Amsterdam Ave', 'New York, NY 10025']		4.0	61
+336	Sunrise Chinese Restaurant	-73.923281	40.760806	3320 Broadway	Astoria	11106	NY	['3320 Broadway', 'Astoria, NY 11106']	$	3.5	44
+337	Asian 59	-73.96595	40.76153	207 E 59th St	New York	10022	NY	['207 E 59th St', 'New York, NY 10022']	$	3.5	73
+338	Fansway Teriyaki Kitchen	-73.9152270555496	40.6992860185837	1513A Myrtle Ave	Brooklyn	11237	NY	['1513A Myrtle Ave', 'Brooklyn, NY 11237']		4.5	11
+339	Ollie's Sichuan	-73.99319	40.75884	411 W 42nd St	New York	10036	NY	['411 W 42nd St', 'New York, NY 10036']	$$	3.0	481
+340	LoveMama	-73.9860613	40.7303859	174 2nd Ave	New York	10003	NY	['174 2nd Ave', 'New York, NY 10003']	$$	4.5	4726
+341	Mee Noodle Shop & Grill	-73.968518	40.754463	930 2nd Ave	New York	10022	NY	['930 2nd Ave', 'New York, NY 10022']	$	3.5	291
+342	Lee's Restaurant	-73.91177	40.69939	1546 Myrtle Ave	Brooklyn	11237	NY	['1546 Myrtle Ave', 'Brooklyn, NY 11237']	$$	3.5	50
+343	Hong Kong Station	-73.98372	40.75894	157 W 47th St	New York	10036	NY	['157 W 47th St', 'New York, NY 10036']	$$	3.5	118
+344	Long Cheng	-73.88503	40.68004	2977 Fulton St	Brooklyn	11208	NY	['2977 Fulton St', 'Brooklyn, NY 11208']	$	4.5	4
+345	Dim Sum Palace	-73.98676	40.7486	33 W 33rd St	New York	10001	NY	['33 W 33rd St', 'New York, NY 10001']	$$	4.0	52
+346	Ting Hua New Kitchen	-73.99488	40.679817	351 Smith St	Brooklyn	11231	NY	['351 Smith St', 'Brooklyn, NY 11231']	$	3.0	46
+347	Yi Ji Shi Mo Noodle Corp	-73.99583	40.71824	88 Elizabeth St	New York	10013	NY	['88 Elizabeth St', 'New York, NY 10013']		4.5	56
+348	Yaso Tangbao	-73.973	40.74998	220 E 42nd St	New York	10017	NY	['220 E 42nd St', 'New York, NY 10017']	$$	3.5	242
+349	Kings Wok Restaurant	-73.95421	40.67263	1473 Bedford Ave	Brooklyn	11216	NY	['1473 Bedford Ave', 'Brooklyn, NY 11216']	$	4.0	8
+350	New No 1 Chinese Restaurant	-73.96339	40.67502	770 Washington Ave	Brooklyn	11238	NY	['770 Washington Ave', 'Brooklyn, NY 11238']	$	3.0	16
+351	East Harbor Seafood Palace	-74.014343	40.633533	714 65th St	Brooklyn	11220	NY	['714 65th St', 'Brooklyn, NY 11220']	$$	4.0	663
+352	Golden Fountain Kitchen	-73.8350343704224	40.707262693702	11616 Metropolitan Ave	Richmond Hill	11418	NY	['11616 Metropolitan Ave', 'Richmond Hill, NY 11418']	$	3.5	101
+353	Mr Zeng Chinese Food	-73.82837	40.6854	11402 Liberty Ave	South Richmond Hill	11419	NY	['11402 Liberty Ave', 'South Richmond Hill, NY 11419']	$	4.0	21
+354	East Wind Snack Shop	-73.9799505	40.6603409	471 16th St	Brooklyn	11215	NY	['471 16th St', 'Brooklyn, NY 11215']	$$	4.5	181
+355	Lan Sheng Restaurant	-73.9883603449123	40.7517141867087	128 W 36th St	New York	10018	NY	['128 W 36th St', 'New York, NY 10018']	$$	4.0	144
+356	Xi'an Famous Foods	-74.0018838	40.730996	313 6th Ave	New York	10014	NY	['313 6th Ave', 'New York, NY 10014']	$	4.0	84
+357	New Sing Sheng Kitchen	-73.89175	40.74896	89-05-07 37th Ave	New York	11372	NY	['89-05-07 37th Ave', 'New York, NY 11372']	$	4.0	19
+358	New Neighbor Kitchen	-73.96507	40.64075	1404 Cortelyou Rd	Brooklyn	11226	NY	['1404 Cortelyou Rd', 'Brooklyn, NY 11226']	$	3.5	18
+359	Peking Duck House	-73.968109	40.756912	236 E 53rd St	New York	10022	NY	['236 E 53rd St', 'New York, NY 10022']	$$$	3.5	433
+360	Downtown Yummy	-73.9962	40.71345	39 E Broadway	New York	10002	NY	['39 E Broadway', 'New York, NY 10002']		4.0	38
+361	Oriental Palace Kitchen	-73.99729	40.57512	3030 Mermaid Ave	Brooklyn	11224	NY	['3030 Mermaid Ave', 'Brooklyn, NY 11224']	$	4.5	19
+362	Flor de Mayo	-73.969948	40.797859	2651 Broadway	New York	10025	NY	['2651 Broadway', 'New York, NY 10025']	$$	4.0	554
+363	Good Friend Chinese Resturant	-73.9401473999023	40.6922492980957	176 Macus Garvey Blvd	New York	11221	NY	['176 Macus Garvey Blvd', 'New York, NY 11221']		4.5	4
+364	Wong Kwong Hop	-73.88152	40.735727	85-27 Grand Ave	Elmhurst	11373	NY	['85-27 Grand Ave', 'Elmhurst, NY 11373']	$	4.5	73
+365	Bo Bo Kitchen	-73.96347	40.6419	1601 Cortelyou Rd	Brooklyn	11226	NY	['1601 Cortelyou Rd', 'Brooklyn, NY 11226']	$	2.5	29
+366	Jing Wah Chinese Resturant	-73.850712	40.679777	8720 Liberty Ave	Ozone Park	11417	NY	['8720 Liberty Ave', 'Ozone Park, NY 11417']	$	4.0	10
+367	Shanghai Lee	-73.9582099	40.7318	157 Franklin St	Brooklyn	11222	NY	['157 Franklin St', 'Brooklyn, NY 11222']	$	3.0	124
+368	Lucky Chinese Restaurant	-73.8960949	40.7367175	5008 69th St	Woodside	11377	NY	['5008 69th St', 'Woodside, NY 11377']	$	4.0	19
+369	Shui Mei Cafe	-73.9948386	40.7135318	67 E Broadway	New York	10002	NY	['67 E Broadway', 'New York, NY 10002']	$	4.5	40
+370	King Jade Garden	-73.96942	40.75947	141 E 55th St	New York	10022	NY	['141 E 55th St', 'New York, NY 10022']		4.0	23
+371	Wing Wah Restaurant	-73.85427	40.710773	9812 Metropolitan Ave	Forest Hills	11375	NY	['9812 Metropolitan Ave', 'Forest Hills, NY 11375']	$	4.0	33
+372	New China Tung	-73.97927	40.678642	140 5th Ave	Brooklyn	11217	NY	['140 5th Ave', 'Brooklyn, NY 11217']	$	3.5	47
+373	Ling Ling Kitchen	-73.99969	40.68387	508 Henry St	Brooklyn	11231	NY	['508 Henry St', 'Brooklyn, NY 11231']	$	3.0	21
+374	No.1 Chinese Restaurant	-74.0105490435282	40.7046671846472	10 S William St	New York	10004	NY	['10 S William St', 'New York, NY 10004']	$$	3.0	152
+375	S Wan Cafe 洋紫荆	-73.99254	40.71725	85 Eldridge St Lower E	New York	10002	NY	['85 Eldridge St Lower E', 'New York, NY 10002']	$	4.5	120
+376	403 Restaurant	-73.976409	40.644306	403 Church Ave	Brooklyn	11218	NY	['403 Church Ave', 'Brooklyn, NY 11218']	$	4.0	20
+377	Chinese Tuxedo	-73.99804	40.71433	5 Doyers St	New York	10013	NY	['5 Doyers St', 'New York, NY 10013']	$$$	3.5	254
+378	New Kim Restaurant	-73.8375916	40.5798191	11606 Rockaway Beach Blvd	Rockaway Park	11694	NY	['11606 Rockaway Beach Blvd', 'Rockaway Park, NY 11694']		4.5	8
+379	Ho Ho Garden	-73.84548	40.67998	9306 Liberty Ave	Ozone Park	11417	NY	['9306 Liberty Ave', 'Ozone Park, NY 11417']	$	4.0	21
+380	Hong Kong Chinese Restaurant	-73.904869	40.710983	6297 Forest Ave	Ridgewood	11385	NY	['6297 Forest Ave', 'Ridgewood, NY 11385']	$	4.0	22
+381	No 1 Wok	-73.913984	40.805913	262 Cypress Ave	Bronx	10454	NY	['262 Cypress Ave', 'Bronx, NY 10454']	$	2.0	9
+382	The Handpulled Noodle	-73.948674	40.828384	3600 Broadway	New York	10031	NY	['3600 Broadway', 'Ste 3', 'New York, NY 10031']	$$	4.0	674
+383	Grand Great Wall Restaurant	-73.9506657	40.8212837	1588 Amsterdam Ave	New York	10031	NY	['1588 Amsterdam Ave', 'New York, NY 10031']	$	3.5	25
+384	New Li Yuan	-73.9912518276348	40.754589387013	273 W 38th St	New York	10018	NY	['273 W 38th St', 'New York, NY 10018']	$	4.0	67
+385	New Peking	-73.8884253	40.7494475	7715 37th Ave	Jackson Heights	11372	NY	['7715 37th Ave', 'Jackson Heights, NY 11372']	$	3.5	57
+386	Chung Hing	-73.992521	40.688841	157 Court St	Brooklyn	11201	NY	['157 Court St', 'Brooklyn, NY 11201']	$	2.5	32
+387	Jiangnan Chinese Cuisine	-74.01408	40.70838	103 Washington St	New York	10006	NY	['103 Washington St', 'Fl 2', 'New York, NY 10006']	$$	3.5	52
+388	Chen Yuan Chinese Food	-73.9105729000734	40.6942395539858	714 Knickerbocker Ave	Bushwick	11221	NY	['714 Knickerbocker Ave', 'Bushwick, NY 11221']	$	4.0	14
+389	Carol's Bun	-73.9914554524045	40.7138317002555	139 E Broadway	New York	10002	NY	['139 E Broadway', 'New York, NY 10002']	$	4.0	31
+390	No 1 Chinese Restaurant	-73.92191	40.67289	479 Ralph Ave	Brooklyn	11233	NY	['479 Ralph Ave', 'Brooklyn, NY 11233']	$	3.0	19
+391	Taste of China	-73.9148019297323	40.7571451223932	4501 Broadway	Astoria	11103	NY	['4501 Broadway', 'Astoria, NY 11103']	$	3.5	28
+392	Heng Chang Corporation	-73.8890405	40.632915	2042 Rockaway Pkwy	Brooklyn	11236	NY	['2042 Rockaway Pkwy', 'Brooklyn, NY 11236']	$	4.5	7
+393	Panda Garden Restaurant	-73.9046854516638	40.7455887091084	5917 Roosevelt Ave	Woodside	11377	NY	['5917 Roosevelt Ave', 'Woodside, NY 11377']	$	3.5	23
+394	New Cheung Lee Kitchen	-73.94172	40.676	108 Kingston Ave	Brooklyn	11213	NY	['108 Kingston Ave', 'Brooklyn, NY 11213']	$	4.0	6
+395	Empire Express	-73.98567	40.66918	319 9th St	Brooklyn	11215	NY	['319 9th St', 'Brooklyn, NY 11215']	$	3.5	37
+396	Yang Garden Chinese Restaurant	-73.937759	40.855266	816 W 187th St	New York	10033	NY	['816 W 187th St', 'New York, NY 10033']	$	3.5	20
+397	Rego Garden Restaurant	-73.8636984	40.7282669	9303 63rd Dr	Rego Park	11374	NY	['9303 63rd Dr', 'Rego Park, NY 11374']	$	3.5	31
+398	Great Wall	-74.0539207	40.7171163	426 Grand St	Jersey City	07302	NJ	['426 Grand St', 'Jersey City, NJ 07302']	$	3.5	15
+399	Xing Xing	-73.8194803	40.5848875	9712 Rockaway Beach Blvd	New York	11693	NY	['9712 Rockaway Beach Blvd', 'New York, NY 11693']	$	3.0	12
+400	Taste Of North China	-74.0377625661521	40.7167868	75 Montgomery St	Jersey City	07302	NJ	['75 Montgomery St', 'Jersey City, NJ 07302']	$$	3.0	210
+401	May Wah Fast Food	-73.99842	40.71825	190 Hester St	New York	10013	NY	['190 Hester St', 'New York, NY 10013']	$	4.0	330
+402	Szechuan Garden	-73.9674267	40.7570698	251 E 53rd St	New York	10022	NY	['251 E 53rd St', 'New York, NY 10022']	$$	3.5	200
+403	Jing Hui	-73.9396286010742	40.8246154785156	255 W 148th St	New York	10039	NY	['255 W 148th St', 'New York, NY 10039']	$	3.0	20
+404	Sweet Garden	-73.8094051	40.7205633	79-22 Parsons Blvd	Flushing	11366	NY	['79-22 Parsons Blvd', 'Flushing, NY 11366']	$	4.0	39
+405	Mr. Wonton	-73.8639984	40.6919899	78-05 Jamaica Ave	Woodhaven	11421	NY	['78-05 Jamaica Ave', 'Woodhaven, NY 11421']	$	4.0	23
+406	Ming's Caffe	-73.990509	40.714321	28 Canal St	New York	10002	NY	['28 Canal St', 'New York, NY 10002']	$	4.0	113
+407	Chinatown Kitchen	-74.0158536518411	40.7885757502878	450 60th St	West New York	07093	NJ	['450 60th St', 'West New York, NJ 07093']	$	4.5	10
+408	Sun Wah Restaurant	-73.930066	40.756608	3016 36th Ave	Astoria	11106	NY	['3016 36th Ave', 'Astoria, NY 11106']	$	3.5	42
+409	South Of The Clouds	-73.99752	40.73264	16 W 8th St	New York	10011	NY	['16 W 8th St', 'New York, NY 10011']	$$	4.0	183
+410	Hunan Manor	-73.97707	40.74965	339 Lexington Ave	New York	10016	NY	['339 Lexington Ave', 'New York, NY 10016']	$$	3.5	293
+411	Wen Gee House	-74.010712	40.678898	287 Van Brunt St	New York	11231	NY	['287 Van Brunt St', 'New York, NY 11231']	$	3.5	13
+412	Moon Palace Kitchen	-73.90177	40.72222	63-12 Flushing Ave	Maspeth	11378	NY	['63-12 Flushing Ave', 'Maspeth, NY 11378']		3.0	20
+413	La Nueva Victoria	-73.971954	40.79372	2536 Broadway	New York	10025	NY	['2536 Broadway', 'New York, NY 10025']	$$	3.5	88
+414	Ho Wah Chinese Restaurant	-73.944796100731	40.6870242760585	551 Gates Ave	Brooklyn	11216	NY	['551 Gates Ave', 'Brooklyn, NY 11216']	$	4.0	5
+415	East Wind Snack Shop	-73.99275	40.68317	253 Smith St	New York	11231	NY	['253 Smith St', 'New York, NY 11231']		3.5	16
+416	New Golden Dragon Restaurant	-73.9455163	40.8242006	398 W 145th St	New York	10031	NY	['398 W 145th St', 'New York, NY 10031']	$	4.0	29
+417	Golden Empire Chinese Restaurant	-73.943611	40.826175	757 Saint Nicholas Ave	New York	10031	NY	['757 Saint Nicholas Ave', 'New York, NY 10031']	$	2.5	14
+418	Wu Liang Ye	-73.97994	40.75781	36 W 48th St	New York	10036	NY	['36 W 48th St', 'New York, NY 10036']	$$	3.5	498
+419	Annie 88 Express	-73.95103	40.667897	880 Nostrand Ave	Brooklyn	11225	NY	['880 Nostrand Ave', 'Brooklyn, NY 11225']	$	3.5	27
+420	Meet Noodles	-74.00546	40.63979	5216 8th Ave	Brooklyn	11220	NY	['5216 8th Ave', 'Brooklyn, NY 11220']	$$	4.0	100
+421	Rong Cheng House	-73.98286	40.76572	242 W 56th St	New York	10019	NY	['242 W 56th St', 'New York, NY 10019']	$$	4.0	45
+422	Jade Chinese Restaurant	-73.8306941	40.7080256	8159 Lefferts Blvd	Kew Gardens	11415	NY	['8159 Lefferts Blvd', 'Kew Gardens, NY 11415']	$	4.0	43
+423	Hunan Park	-73.96774	40.79221	721 Columbus Ave	New York	10025	NY	['721 Columbus Ave', 'New York, NY 10025']	$$	3.0	90
+424	Great Wall Chinese Take-Out Restaurant	-74.012235	40.628952	6820 Fort Hamilton Pkwy	Brooklyn	11219	NY	['6820 Fort Hamilton Pkwy', 'Brooklyn, NY 11219']	$	4.5	12
+425	Ollie's Noodle Shop & Grille	-73.96868	40.79942	2705 Broadway	New York	10025	NY	['2705 Broadway', 'New York, NY 10025']	$$	3.0	153
+426	Tim Ho Wan	-73.99007	40.73168	85 4th Ave	New York	10003	NY	['85 4th Ave', 'New York, NY 10003']	$$	3.5	1636
+427	Xing's Chef	-73.9021204913637	40.7701092079077	46-20 Ditmars Blvd	Astoria	11105	NY	['46-20 Ditmars Blvd', 'Astoria, NY 11105']	$	4.0	79
+428	China North Dumpling	-73.9898	40.7158	27 Essex St	New York	10002	NY	['27 Essex St', 'Ste A', 'New York, NY 10002']	$	4.0	301
+429	Norikoh	-73.99137	40.7433	43 W 24th St	New York	10010	NY	['43 W 24th St', 'New York, NY 10010']		4.5	18
+430	Happy Dragon	-73.8836	40.88045	3388 Jerome Ave	Bronx	10467	NY	['3388 Jerome Ave', 'Bronx, NY 10467']	$	4.0	17
+431	Great Wall Chinese Restaurant	-73.8816184	40.7638765	87-12 Astoria Blvd	East Elmhurst	11369	NY	['87-12 Astoria Blvd', 'East Elmhurst, NY 11369']	$	4.0	20
+432	Baili Restaurant	-73.951484	40.65047	2728 Church Ave	Brooklyn	11226	NY	['2728 Church Ave', 'Brooklyn, NY 11226']	$	4.0	30
+433	Our Place China Chalet	-73.9558029	40.7733383	242 E 79th St	New York	10075	NY	['242 E 79th St', 'New York, NY 10075']	$$	3.0	64
+434	Golden Chopstick	-73.957229	40.6718339	789 Franklin Ave	Brooklyn	11238	NY	['789 Franklin Ave', 'Brooklyn, NY 11238']	$	3.5	67
+435	China No 1	-73.915134	40.655589	9602 Church Ave	Brooklyn	11212	NY	['9602 Church Ave', 'Brooklyn, NY 11212']		2.5	3
+436	Wah Hing Kitchen	-73.8121199	40.6755799	12519 Rockaway Blvd	South Ozone Park	11420	NY	['12519 Rockaway Blvd', 'South Ozone Park, NY 11420']	$	4.0	8
+437	Ichiran - Times Square	-73.9833	40.76004	152 W 49th St	New York	10019	NY	['152 W 49th St', 'New York, NY 10019']	$$	4.0	229
+438	Number One Chinese Kitchen	-73.949873	40.674536	661 Nostrand Ave	Brooklyn	11216	NY	['661 Nostrand Ave', 'Brooklyn, NY 11216']	$	3.0	33
+439	Lao Bei Fang Dumpling House	-73.8796234130859	40.741153717041	8305 Broadway	Elmhurst	11373	NY	['8305 Broadway', 'Elmhurst, NY 11373']	$	4.0	562
+440	Jue Lan Club	-73.9934031	40.7409694	49 W 20th St	New York	10011	NY	['49 W 20th St', 'New York, NY 10011']	$$$	3.0	358
+441	Little Tong Noodle Shop	-73.96799	40.75721	235 E 53rd St	New York	10022	NY	['235 E 53rd St', 'New York, NY 10022']	$$	4.0	84
+442	Go Noodle Nine Moon	-73.96254	40.75932	1069 1st Ave	New York	10022	NY	['1069 1st Ave', 'New York, NY 10022']	$	3.0	54
+443	Woks Chinese Cuisine	-73.8868197	40.7496084	7921 37th Ave	Jackson Heights	11372	NY	['7921 37th Ave', 'Jackson Heights, NY 11372']	$	4.0	20
+444	Li Wan Restaurant	-73.8961334228516	40.7122917175293	6428 Metropolitan Ave	Middle Village	11379	NY	['6428 Metropolitan Ave', 'Middle Village, NY 11379']	$$	4.0	26
+445	Wah King Kitchen	-73.8608	40.68501	79-15 Atlantic Ave	Woodhaven	11421	NY	['79-15 Atlantic Ave', 'Woodhaven, NY 11421']	$	3.0	10
+446	Junzi Kitchen	-73.9652019005902	40.8057641877461	2896 Broadway	New York	10025	NY	['2896 Broadway', 'New York, NY 10025']	$$	4.0	160
+447	Mr Bing	-73.99275	40.74688	152 W 28th St	New York	10001	NY	['152 W 28th St', 'New York, NY 10001']		3.5	25
+448	Xi'an Famous Foods	-73.9417967	40.7475637	26-19 Jackson Ave	Long Island City	11101	NY	['26-19 Jackson Ave', 'Long Island City, NY 11101']	$$	4.0	79
+449	King's Wok	-73.9499	40.82762	3575 Broadway	New York	10031	NY	['3575 Broadway', 'New York, NY 10031']	$	4.0	24
+450	Po Wong Restaurant	-74.044303	40.758224	617 Summit Ave	Union City	07087	NJ	['617 Summit Ave', 'Union City, NJ 07087']	$	3.5	24
+451	Mister Hotpot	-74.005859	40.6394	5306 8th Ave	Brooklyn	11220	NY	['5306 8th Ave', 'Brooklyn, NY 11220']	$$	4.0	443
+452	P.F. Chang's	-74.0095958081818	40.7802677928232	10 Port Imperial Blvd	West New York	07093	NJ	['10 Port Imperial Blvd', 'West New York, NJ 07093']	$$	3.0	440
+453	Wing Wah Restaurant	-73.933944	40.797466	2308 1st Ave	New York	10035	NY	['2308 1st Ave', 'New York, NY 10035']	$	3.0	15
+454	The Rice Noodle	-74.001525	40.729087	190 Bleecker St	New York	10012	NY	['190 Bleecker St', 'New York, NY 10012']	$	4.0	141
+455	Mee Noodle Shop & Grill	-73.983215	40.730968	223 1st Ave	New York	10003	NY	['223 1st Ave', 'New York, NY 10003']	$$	3.0	121
+456	Nuevo Jardin De China Restaurant	-73.9243148820204	40.7615513755699	3205 Broadway	Astoria	11106	NY	['3205 Broadway', 'Astoria, NY 11106']	$$	3.5	205
+457	King Wok Restaurant	-73.840868	40.718273	10829 Ascan Ave	Forest Hills	11375	NY	['10829 Ascan Ave', 'Forest Hills, NY 11375']	$	3.5	33
+458	Mission Chinese	-73.98966	40.71386	171 E Broadway	New York	10002	NY	['171 E Broadway', 'New York, NY 10002']	$$	3.0	752
+459	Joyo Asian	-73.87014	40.70302	79-17 Myrtle Ave	Glendale	11385	NY	['79-17 Myrtle Ave', 'Glendale, NY 11385']		4.5	13
+460	Yoan Ming Garden	-73.95315	40.78813	1407 Madison Ave	New York	10029	NY	['1407 Madison Ave', 'New York, NY 10029']	$	2.5	34
+461	Kamshing	-73.96099	40.62998	1608 Avenue H	Brooklyn	11230	NY	['1608 Avenue H', 'Brooklyn, NY 11230']	$	4.5	16
+462	Top's Chinese Kitchen	-73.8709538	40.680089	361 Crescent St	New York	11208	NY	['361 Crescent St', 'Brooklyn', 'New York, NY 11208']		5.0	2
+463	Hot Space Grilled Fish	-73.8326680277916	40.759759546171	39-07 Prince St	Flushing	11354	NY	['39-07 Prince St', 'Fl 1', 'Flushing, NY 11354']	$$	4.5	108
+464	Golden Kitchen	-73.86299	40.69224	7909 Jamaica Ave	Queens	11421	NY	['7909 Jamaica Ave', 'Queens, NY 11421']	$	3.5	9
+465	Yong Kang Street	-73.98874	40.74822	888 6th Ave	New York	10001	NY	['888 6th Ave', 'New York, NY 10001']	$$	4.0	68
+466	Fu Lai Kitchen	-74.01319	40.62763	7023 Fort Hamilton Pkwy	Brooklyn	11228	NY	['7023 Fort Hamilton Pkwy', 'Brooklyn, NY 11228']	$	4.0	29
+467	Hey Chong Qing Noodle	-73.9817453223043	40.74045	347 3rd Ave	New York	10010	NY	['347 3rd Ave', 'New York, NY 10010']		4.0	17
+468	China King	-73.983329	40.738249	285 3rd Ave	New York	10010	NY	['285 3rd Ave', 'New York, NY 10010']	$	3.5	39
+469	Eastern Style Chinese	-73.91509	40.83389	1233 Grant Ave	Bronx	10456	NY	['1233 Grant Ave', 'Bronx, NY 10456']	$	4.0	8
+470	Great Wok Chinese Restaurant	-74.04245	40.7606899	1101 Summit Ave	Union City	07087	NJ	['1101 Summit Ave', 'Union City, NJ 07087']	$	3.5	14
+471	New No. 1	-73.95494	40.68935	1011 Bedford Ave	Brooklyn	11205	NY	['1011 Bedford Ave', 'Brooklyn, NY 11205']	$	3.0	27
+472	Xi'an Famous Foods	-73.97732	40.7620999	37 W 54th St	New York	10019	NY	['37 W 54th St', 'New York, NY 10019']	$$	4.0	458
+473	Golden Dynasty Restaurant	-73.98086	40.61483	6316 Bay Pkwy	Brooklyn	11204	NY	['6316 Bay Pkwy', 'Brooklyn, NY 11204']	$	4.5	20
+474	Baybridge Szechuan Restaurant	-73.785357	40.78836	20806 Cross Island Pkwy	Bayside	11360	NY	['20806 Cross Island Pkwy', 'Ste 1', 'Bayside, NY 11360']	$$	4.0	49
+475	Kam-Wei Kitchen	-73.99392	40.76128	630 10th Ave	New York	10036	NY	['630 10th Ave', 'New York, NY 10036']	$	3.5	38
+476	Peking BBQ	-73.9062357614363	40.7456439082048	58-11 Woodside Ave	Woodside	11377	NY	['58-11 Woodside Ave', 'Woodside, NY 11377']	$	4.0	238
+477	Szechuan Mountain House	-73.8326038269836	40.7593930266428	39-16 Prince St	Flushing	11354	NY	['39-16 Prince St', 'Ste G03', 'Flushing, NY 11354']	$$	4.0	318
+478	Keilly Chinese Restaurant	-73.8360678	40.7863674867809	13211 B 14th Ave	College Point	11356	NY	['13211 B 14th Ave', 'College Point, NY 11356']	$$	3.0	41
+479	Yummy Yummy Chinese Restaurant	-73.8999307	40.7318717	5273 65th Pl	Maspeth	11378	NY	['5273 65th Pl', 'Maspeth, NY 11378']	$	3.5	39
+480	Fan Fried Rice Bar	-73.95587	40.69099	525 Dekalb Ave	Brooklyn	11205	NY	['525 Dekalb Ave', 'Brooklyn, NY 11205']	$	4.5	68
+481	Chan Yang Garden	-73.974586	40.680957	479 Bergen St	Brooklyn	11217	NY	['479 Bergen St', 'Brooklyn, NY 11217']	$	3.5	26
+482	Land of Plenty	-73.96664	40.76063	204E 58th St	New York	10022	NY	['204E 58th St', 'New York, NY 10022']	$$	3.5	305
+483	New Food King	-73.99217	40.76366	694 10th Ave	New York	10036	NY	['694 10th Ave', 'New York, NY 10036']	$	3.5	63
+484	The Dolar Shop	-73.83306	40.761057	36-36 Prince St	Flushing	11354	NY	['36-36 Prince St', 'Fl 1', 'Flushing, NY 11354']	$$$	4.5	725
+485	Bamboo Express	-73.95993	40.65395	772 Flatbush Ave	Brooklyn	11226	NY	['772 Flatbush Ave', 'Ste A', 'Brooklyn, NY 11226']	$$	4.0	31
+486	Long King House	-73.84591	40.78349	15-26 College Point Blvd	College Point	11356	NY	['15-26 College Point Blvd', 'College Point, NY 11356']	$$	5.0	36
+487	United Kitchen	-73.881523	40.676409	766 Liberty Ave	Brooklyn	11208	NY	['766 Liberty Ave', 'Brooklyn, NY 11208']	$	4.5	3
+488	M Noodle Shop	-73.950646	40.714257	549 Metropolitan Ave	Brooklyn	11211	NY	['549 Metropolitan Ave', 'Brooklyn, NY 11211']	$$	3.0	352
+489	China Taste	-73.9537757635117	40.7749559083727	1570 A 2nd Ave	New York	10028	NY	['1570 A 2nd Ave', 'New York, NY 10028']	$	3.0	67
+490	Grand Sichuan Eastern	-74.00026	40.74256	172 8th Ave	New York	10011	NY	['172 8th Ave', 'New York, NY 10011']	$$	3.0	117
+491	LULU Chinese	-73.8594402	40.6802989	78-06 101st Ave	Ozone Park	11416	NY	['78-06 101st Ave', 'Ozone Park, NY 11416']		4.0	55
+492	Deng Ji II	-73.995061	40.71416	51 Division St	New York	10002	NY	['51 Division St', 'New York, NY 10002']	$$	4.0	55
+493	Peking Express	-73.94279	40.725869	237 Nassau Ave	Brooklyn	11222	NY	['237 Nassau Ave', 'Brooklyn, NY 11222']	$	3.5	32
+494	U Like Chinese Take Out	-73.9215025	40.8674342	4926 Broadway	New York	10034	NY	['4926 Broadway', 'New York, NY 10034']	$	3.0	72
+495	Tasty Hand Pulled Noodles II	-73.9908619970083	40.7605202331697	648 9th Ave	New York	10036	NY	['648 9th Ave', 'New York, NY 10036']	$$	4.0	274
+496	Shanghai Asian Cuisine	-73.997383	40.7159077	14A Elizabeth St	New York	10013	NY	['14A Elizabeth St', 'New York, NY 10013']	$$	4.0	479
+497	Lucky Eight	-74.00509	40.639961	5204 8th Ave	Brooklyn	11220	NY	['5204 8th Ave', 'Brooklyn, NY 11220']	$$	3.5	201
+498	China King	-73.944572	40.794303	1759 Lexington Ave	New York	10029	NY	['1759 Lexington Ave', 'New York, NY 10029']	$	3.5	33
+499	Six Happiness Restaurant	-73.8295	40.84057	1378 Crosby Ave	Bronx	10461	NY	['1378 Crosby Ave', 'Bronx, NY 10461']	$$	4.0	20
+500	New Oriental House Chinese Restaurant	-73.8900005444884	40.854669603973	565 E 184th St	Bronx	10458	NY	['565 E 184th St', 'Bronx, NY 10458']	$	4.5	3
+501	Sea Star	-73.875337	40.75088	9121 37th Ave	Queens	11372	NY	['9121 37th Ave', 'Queens, NY 11372']	$	3.5	3
+502	Bamboo Village Fine Chinese Cuisine & Bar	-74.206023	40.892786	997 McBride Ave	Woodland Park	07424	NJ	['997 McBride Ave', 'Woodland Park, NJ 07424']		4.5	14
+503	New Kam Lai	-73.967015	40.7989112	890 Amsterdam Ave	New York	10025	NY	['890 Amsterdam Ave', 'New York, NY 10025']	$	4.0	29
+504	Yong Sheng	-73.93951	40.82645	2825 Frederick Douglass Blvd	New York	10039	NY	['2825 Frederick Douglass Blvd', 'New York, NY 10039']	$	4.0	12
+505	Hot Space	-74.00476	40.64068	774 51st St	Brooklyn	11220	NY	['774 51st St', 'Brooklyn, NY 11220']	$$	4.5	127
+506	Mi Noodle Bar	-73.981304	40.7377	391 2nd Ave	New York	10010	NY	['391 2nd Ave', 'New York, NY 10010']	$$	4.5	213
+507	Asian Kitchen	-73.8809509	40.7358398	8543 Grand Ave	Elmhurst	11373	NY	['8543 Grand Ave', 'Elmhurst, NY 11373']	$	4.0	29
+508	Jac Mao	-74.0929840380287	40.5859153194951	1771 Hylan Blvd	Staten Island	10305	NY	['1771 Hylan Blvd', 'Staten Island, NY 10305']	$$	3.5	141
+509	Taste of China	-73.892011	40.72762	7100 Grand Ave	Maspeth	11378	NY	['7100 Grand Ave', 'Maspeth, NY 11378']	$	3.5	52
+510	MoonHouse	-73.947502	40.788337	1810 3rd Ave	New York	10029	NY	['1810 3rd Ave', 'New York, NY 10029']	$	3.5	96
+511	New Sunny Chinese Food	-73.9302539892331	40.6766935252582	69 Utica Ave	Brooklyn	11213	NY	['69 Utica Ave', 'Brooklyn, NY 11213']	$	3.5	12
+512	King Wah	-73.9257651953376	40.7719699594225	21-04 Newtown Ave	Astoria	11102	NY	['21-04 Newtown Ave', 'Astoria, NY 11102']	$	3.5	45
+513	Joy Kitchen	-73.9857482910156	40.6614456176758	497 7th Ave	Brooklyn	11215	NY	['497 7th Ave', 'Brooklyn, NY 11215']	$	3.5	37
+514	King's Wok	-73.90741	40.76005	4912 30th Ave	Woodside	11377	NY	['4912 30th Ave', 'Woodside, NY 11377']	$	3.5	21
+515	Hunan Kitchen of Grand Sichuan	-73.8276521082348	40.7539652372941	42-47 Main St	Flushing	11355	NY	['42-47 Main St', 'Flushing, NY 11355']	$$	4.0	231
+516	Dun Huang - Upper West	-73.95818	40.81106	1268 Amsterdam Ave	New York	10027	NY	['1268 Amsterdam Ave', 'New York, NY 10027']	$$	3.5	70
+517	Yiwanmen	-73.9962630421457	40.7193132739237	150 Mott St	New York	10013	NY	['150 Mott St', 'New York, NY 10013']	$	4.0	133
+518	Hunan K Restaurant	-73.9043876	40.7411607	6014 Queens Blvd	Woodside	11377	NY	['6014 Queens Blvd', 'Woodside, NY 11377']	$	3.0	12
+519	Pic Up Stix	-73.95352	40.78259	1372 Lexington Ave	New York	10128	NY	['1372 Lexington Ave', 'New York, NY 10128']	$	3.0	64
+520	Grand Sichuan House	-74.02668	40.62075	8701 5th Ave	Brooklyn	11209	NY	['8701 5th Ave', 'Brooklyn, NY 11209']	$$	4.0	226
+521	Happy Garden	-73.9979148	40.6875151	402 Henry St	Brooklyn	11201	NY	['402 Henry St', 'Brooklyn, NY 11201']	$$	3.0	13
+522	Mr Wonton	-73.9202633	40.743636	4411 Queens Blvd	Sunnyside	11104	NY	['4411 Queens Blvd', 'Sunnyside, NY 11104']	$	3.0	54
+523	Laojie Hotpot	-74.0046846944427	40.6389709339157	811 53rd St	Brooklyn	11220	NY	['811 53rd St', 'Brooklyn, NY 11220']	$$	4.5	527
+524	Stick To My Pot Potsticker	-73.99121	40.75202	224 W 35th St	New York	10001	NY	['224 W 35th St', 'New York, NY 10001']	$	4.5	88
+525	Jumbo Chinese Kitchen	-73.8353577	40.6976891	113-04 Jamaica Ave	New York	11418	NY	['113-04 Jamaica Ave', 'New York, NY 11418']	$	4.0	22
+526	Good Friends Chinese Restaurant	-73.9450487000608	40.6887136147671	270 Tompkins Ave	Brooklyn	11216	NY	['270 Tompkins Ave', 'Brooklyn, NY 11216']	$	3.0	18
+527	East Palace	-73.9716644287109	40.7510528564453	819 2nd Ave	New York	10017	NY	['819 2nd Ave', 'New York, NY 10017']	$	3.0	84
+528	Panko Express	-73.91409	40.6345	7802 Flatlands Ave	Brooklyn	11236	NY	['7802 Flatlands Ave', 'Brooklyn, NY 11236']	$	3.5	11
+529	Great Dragon	-73.999779	40.645264	4224 8th Ave	Brooklyn	11232	NY	['4224 8th Ave', 'Brooklyn, NY 11232']	$	4.0	13
+530	Tang's Garden	-73.9589547	40.7722574	1328 3rd Ave	New York	10021	NY	['1328 3rd Ave', 'New York, NY 10021']	$$	3.0	97
+531	New Szechuan House	-73.9140785	40.7459596	5008 Skillman Ave	Woodside	11377	NY	['5008 Skillman Ave', 'Woodside, NY 11377']	$	2.5	46
+532	Golden Fried Dumpling	-73.9843697100878	40.6925117969513	192 Duffield St	Brooklyn	11201	NY	['192 Duffield St', 'Brooklyn, NY 11201']	$	3.5	345
+533	Asia Express	-73.97891	40.74094	493 2nd Ave	New York	10016	NY	['493 2nd Ave', 'New York, NY 10016']	$	3.0	61
+534	Kong Sihk Tong 港食堂	-73.99813	40.71542	65 Bayard St	New York	10013	NY	['65 Bayard St', 'New York, NY 10013']	$	4.0	200
+535	Mee Noodle Shop	-73.9879042	40.7653751	795 9th Ave	New York	10019	NY	['795 9th Ave', 'New York, NY 10019']	$$	3.0	494
+536	Mama Lee	-73.767415	40.755368	213-12 48th Ave	Bayside	11364	NY	['213-12 48th Ave', 'Bayside, NY 11364']	$$	4.5	466
+537	Homei Restaurant	-73.9298324584961	40.6854858398438	222 Malcolm X Blvd	Brooklyn	11221	NY	['222 Malcolm X Blvd', 'Brooklyn, NY 11221']	$	4.0	12
+538	La Preciosa China Restaurant	-73.940803527832	40.7985954284668	163 E 116th St	New York	10029	NY	['163 E 116th St', 'New York, NY 10029']	$$	3.0	24
+539	Peking Delite Chinese Restaurant	-74.08479	40.71689	466 W Side Ave	Jersey City	07304	NJ	['466 W Side Ave', 'Jersey City, NJ 07304']	$	3.5	21
+540	King Wah	-73.89701	40.754592	6911 Northern Blvd	Woodside	11377	NY	['6911 Northern Blvd', 'Woodside, NY 11377']	$	3.5	37
+541	Fong Kwan Kitchen	-73.894299	40.712351	6548 Metropolitan Ave	Middle Village	11379	NY	['6548 Metropolitan Ave', 'Middle Village, NY 11379']	$	3.0	23
+542	Good Taste Chinese Restaurant	-73.917702	40.825765	281 E 161st St	Bronx	10451	NY	['281 E 161st St', 'Bronx, NY 10451']	$	3.5	7
+543	Vanessa's Dumpling House	-73.961983	40.713795	310 Bedford Ave	Brooklyn	11211	NY	['310 Bedford Ave', 'Brooklyn, NY 11211']	$	3.5	503
+544	No 1 Chinese Restaurant	-73.982139	40.732437	265 1st Ave	New York	10003	NY	['265 1st Ave', 'New York, NY 10003']	$	2.5	41
+545	ICHIRAN Midtown	-73.99062	40.74839	132 W 31st St	New York	10001	NY	['132 W 31st St', 'New York, NY 10001']	$$	4.0	681
+546	Happy Wok Chinese Restaurant	-73.957571	40.672592	762 Franklin Ave	Brooklyn	11238	NY	['762 Franklin Ave', 'Brooklyn, NY 11238']	$	3.0	15
+547	Happy Fortune Chinese Restaurant	-73.918381	40.739413	47-57 47th St	Queens	11377	NY	['47-57 47th St', 'Queens, NY 11377']	$	3.5	22
+548	95 HomeDish	-73.99422	40.71776	95 Chrystie St	New York	10002	NY	['95 Chrystie St', 'New York, NY 10002']		4.0	11
+549	Szechuan Garden Kitchen	-73.956726	40.802006	2076 8th Ave	New York	10026	NY	['2076 8th Ave', 'New York, NY 10026']	$	4.0	17
+550	Xi'an Famous Foods	-73.997342	40.715082	45 Bayard St	New York	10013	NY	['45 Bayard St', 'New York, NY 10013']	$	4.0	976
+551	Hyo Dong Gak	-73.9862269	40.7501219	51 W 35th St	New York	10001	NY	['51 W 35th St', 'New York, NY 10001']	$$	3.5	403
+552	Chef Quang Guyanese Chinese Express	-73.872071	40.681229	3360 Atlantic Ave	Brooklyn	11208	NY	['3360 Atlantic Ave', 'Brooklyn, NY 11208']	$	3.5	48
+553	Crispy Bamboo Village	-73.9466381763074	40.8160789713508	2526 Frederick Douglass B	New York	10030	NY	['2526 Frederick Douglass B', 'New York, NY 10030']	$	4.0	21
+554	Number 1 Chinese Restaurant	-73.89898	40.74965	6308 Broadway	Woodside	11377	NY	['6308 Broadway', 'Woodside, NY 11377']	$	3.5	39
+555	New Sze's Garden	-73.9197599887848	40.7082630466795	201 Cypress Ave	Ridgewood	11385	NY	['201 Cypress Ave', 'Ridgewood, NY 11385']	$	4.0	23
+556	Uncle Chop Chop	-74.0016427455464	40.7316883151894	7 Cornelia St	New York	10014	NY	['7 Cornelia St', 'New York, NY 10014']		4.5	60
+557	Great Sichuan	-73.98127	40.74082	363 3rd Ave	New York	10016	NY	['363 3rd Ave', 'New York, NY 10016']	$$	3.0	183
+558	Chef 28	-73.98493	40.74393	29 E 28th St	New York	10016	NY	['29 E 28th St', 'New York, NY 10016']	$$	3.5	164
+559	Thy’s Noodles	-73.9827849547527	40.7419297393756	97 Lexington Ave	New York	10010	NY	['97 Lexington Ave', 'New York, NY 10010']		4.5	79
+560	Dun Huang	-74.00896	40.6353649	817 60th St	Brooklyn	11220	NY	['817 60th St', 'Fl 1', 'Brooklyn, NY 11220']		4.0	46
+561	Koong Wing Restaurant	-74.0188984071407	40.6406285685895	6011 4th Ave	New York	11220	NY	['6011 4th Ave', 'New York, NY 11220']	$	3.5	13
+562	Great Wall Chinese	-73.98763	40.7165	384 Grand St	New York	10002	NY	['384 Grand St', 'New York, NY 10002']	$	3.5	83
+563	Szechuan Garden	-73.98508	40.662378	463 7th Ave	Brooklyn	11215	NY	['463 7th Ave', 'Brooklyn, NY 11215']	$$	3.5	72
+564	Xi'an Famous Foods	-73.96934	40.79847	2675 Broadway	New York	10025	NY	['2675 Broadway', 'New York, NY 10025']	$	4.0	377
+565	Best Kitchen Time	-73.95035	40.65659	1250 Nostrand Ave	Brooklyn	11225	NY	['1250 Nostrand Ave', 'Brooklyn, NY 11225']		4.0	7
+566	Lin's Kitchen	-73.8955064	40.75051	70-24 35th Ave	Jackson Heights	11372	NY	['70-24 35th Ave', 'Jackson Heights, NY 11372']	$	3.5	40
+567	Taste of Oriental	-73.99369	40.66492	614 4th Ave	Brooklyn	11215	NY	['614 4th Ave', 'Brooklyn, NY 11215']	$	3.5	21
+568	Dynasty Chinese Restaurant	-73.944	40.630418	1669 Flatbush Ave	Brooklyn	11210	NY	['1669 Flatbush Ave', 'Brooklyn, NY 11210']	$	3.0	43
+569	Jin Da Lai	-73.8281665929767	40.7645446214285	35-30 Union St	Flushing	11354	NY	['35-30 Union St', 'Flushing, NY 11354']	$$	4.5	21
+570	Number 1 Chinese Restaurant	-73.90689	40.692001	824 Knickerbocker Ave	Brooklyn	11207	NY	['824 Knickerbocker Ave', 'Brooklyn, NY 11207']		4.0	3
+571	Baoburg	-73.9503321851175	40.7234929271998	614 Manhattan Ave	Brooklyn	11222	NY	['614 Manhattan Ave', 'Brooklyn, NY 11222']	$$	4.0	202
+572	Dragon Gate Chinese Cuisine	-73.9026148701016	40.778622	1944 37th St	Astoria	11105	NY	['1944 37th St', 'Astoria, NY 11105']	$$	3.5	23
+573	Golden Way	-73.842849	40.67507	13309 Cross Bay Blvd	Ozone Park	11417	NY	['13309 Cross Bay Blvd', 'Ozone Park, NY 11417']	$	3.5	54
+574	East Garden Chinese Restaurant	-73.94902	40.77793	1685 1st Ave	New York	10128	NY	['1685 1st Ave', 'New York, NY 10128']	$	3.5	52
+575	Chuang Chef Chinese Restaurant	-73.8535555915395	40.7407207021367	55-27 108th St	Corona	11368	NY	['55-27 108th St', 'Corona, NY 11368']	$	4.0	4
+576	Home's Kitchen Chinese Restaurant	-73.98913	40.73944	22 E 21st St	New York	10010	NY	['22 E 21st St', 'New York, NY 10010']	$$	3.5	182
+577	Fu Xing House	-73.8726119995117	40.6837615966797	3335 Fulton St	Brooklyn	11208	NY	['3335 Fulton St', 'Brooklyn, NY 11208']	$	3.5	4
+578	Good Joy	-73.97067	40.68942	216 Dekalb Ave	Brooklyn	11205	NY	['216 Dekalb Ave', 'Brooklyn, NY 11205']	$	3.0	25
+579	Chelsea Golden Wok	-73.999824	40.74401	209 8th Ave	New York	10011	NY	['209 8th Ave', 'New York, NY 10011']	$	3.0	52
+580	Double Dragon	-73.94061	40.78919	2037 1st Ave	New York	10029	NY	['2037 1st Ave', 'New York, NY 10029']		3.5	4
+581	Hing Wong	-74.02434	40.62609	7922 5th Ave	Brooklyn	11209	NY	['7922 5th Ave', 'Brooklyn, NY 11209']	$	2.5	31
+582	Chong Qing Lao Zao	-73.83304	40.76065	37-04 Prince St	Flushing	11354	NY	['37-04 Prince St', 'Flushing, NY 11354']	$$$	4.0	73
+583	King Dragon	-73.91249	40.84323	120 Mt Eden Ave	Bronx	10452	NY	['120 Mt Eden Ave', 'Bronx, NY 10452']	$	4.5	7
+584	Dragon China	-74.028869	40.627994	7917 3rd Ave	Brooklyn	11209	NY	['7917 3rd Ave', 'Brooklyn, NY 11209']	$	3.0	44
+585	Jade Garden Restaurant	-73.839629	40.674301	9627 Linden Blvd	Ozone Park	11417	NY	['9627 Linden Blvd', 'Ozone Park, NY 11417']	$$	2.5	29
+586	New China Fresh	-73.831141	40.705728	11924 Metropolitan Ave	Kew Gardens	11415	NY	['11924 Metropolitan Ave', 'Kew Gardens, NY 11415']	$	3.0	40
+587	Noodles 28	-73.97997	40.74261	417 3rd Ave	New York	10016	NY	['417 3rd Ave', 'New York, NY 10016']	$$	3.0	199
+588	Golden Star Chinese Restaurant	-74.083366	40.603137	2110 Clove Rd	Staten Island	10305	NY	['2110 Clove Rd', 'Staten Island, NY 10305']	$	3.0	27
+589	East Garden	-73.9285962	40.7560263	32-10 36th Ave	Astoria	11106	NY	['32-10 36th Ave', 'Astoria, NY 11106']	$	3.5	44
+590	Junzi Kitchen	-73.985688	40.754886	135 W 41st St	New York	10036	NY	['135 W 41st St', 'New York, NY 10036']	$$	4.0	87
+591	The Best Sichuan一品成都	-73.98459	40.75266	47 W 39th St	New York	10018	NY	['47 W 39th St', 'New York, NY 10018']	$$	4.0	28
+592	Lucky Lee's	-73.99347	40.73292	67 University Pl	New York	10003	NY	['67 University Pl', 'New York, NY 10003']		3.0	94
+593	La Salle Dumpling Room	-73.95983	40.81403	3141 Broadway	New York	10027	NY	['3141 Broadway', 'New York, NY 10027']	$$	4.0	236
+594	A-jiao	-73.948244	40.783159	1817 2nd Ave	New York	10128	NY	['1817 2nd Ave', 'New York, NY 10128']	$$	3.5	121
+595	Cheong Fun Cart	-73.9963736857056	40.7176279773311	159 Hester St.	New York	10013	NY	['159 Hester St.', 'New York, NY 10013']	$	4.5	74
+596	Dong Fang Kitchen	-73.921806	40.674346	433A Ralph Ave	Crown Heights	11233	NY	['433A Ralph Ave', 'Crown Heights, NY 11233']		4.5	2
+597	#1 Garden Chinese	-73.980313	40.660046	221 Prospect Park W	Brooklyn	11215	NY	['221 Prospect Park W', 'Brooklyn, NY 11215']	$	3.5	57
+598	Green Leaf	-73.87957	40.71244	72-60 Metropolitan Ave	Middle Village	11379	NY	['72-60 Metropolitan Ave', 'Middle Village, NY 11379']	$	3.5	41
+599	Auntie Guan's Kitchen	-73.98201	40.73852	219 E 23rd St	New York	10011	NY	['219 E 23rd St', 'New York, NY 10011']	$	3.5	131
+600	Sum Fung	-73.90649	40.75361	5401 Northern Blvd	Woodside	11377	NY	['5401 Northern Blvd', 'Woodside, NY 11377']	$	3.0	11
+601	Bei Jing Chinese Foods	-73.98851	40.768619	860 10th Ave	New York	10019	NY	['860 10th Ave', 'New York, NY 10019']	$	3.5	20
+602	RedFarm	-73.980415	40.782051	2170 Broadway	New York	10024	NY	['2170 Broadway', 'New York, NY 10024']	$$$	3.5	595
+603	JeJu Noodle Bar	-74.00734	40.73304	679 Greenwich St	New York	10014	NY	['679 Greenwich St', 'New York, NY 10014']	$$	4.5	484
+604	Li's Kitchen	-73.8584642	40.8634617	2515 Williamsbridge Rd	Bronx	10469	NY	['2515 Williamsbridge Rd', 'Bronx, NY 10469']	$$	4.0	33
+605	Jing Fu House	-73.8700999	40.74928	9549 Roosevelt Ave	Jackson Heights	11372	NY	['9549 Roosevelt Ave', 'Jackson Heights, NY 11372']	$	3.5	10
+606	Shun Wang Restaurant	-73.8830413818359	40.7431373596191	81-25 Broadway	Elmhurst	11373	NY	['81-25 Broadway', 'Elmhurst, NY 11373']	$	4.0	158
+607	Double Happy	-73.8583450317383	40.6923332214355	8518 Jamaica Ave	Woodhaven	11421	NY	['8518 Jamaica Ave', 'Woodhaven, NY 11421']	$	3.5	16
+608	Corgi Jianbing 可吉煎饼	-73.9433018	40.7474918	4405 Hunter St	Long Island City	11101	NY	['4405 Hunter St', 'Long Island City, NY 11101']		5.0	14
+609	Ju Feng Chinese Restaurant	-73.94454	40.6156999	2809 Nostrand Ave	Brooklyn	11229	NY	['2809 Nostrand Ave', 'Brooklyn, NY 11229']	$	3.5	12
+610	Good Taste Restaurant	-73.9543845	40.8214624	3371 Broadway	New York	10031	NY	['3371 Broadway', 'New York, NY 10031']	$	4.0	52
+611	Wong's Kitchen	-73.948287	40.63378	1525 Flatbush Ave	Brooklyn	11210	NY	['1525 Flatbush Ave', 'Brooklyn, NY 11210']	$	4.0	10
+612	Green Lake Restaurant	-73.95922	40.65323	795 Flatbush Ave	Brooklyn	11226	NY	['795 Flatbush Ave', 'Brooklyn, NY 11226']	$	3.0	54
+613	Bao Bao Cafe	-73.983474	40.740829	61 Lexington Ave	New York	10010	NY	['61 Lexington Ave', 'Unit B', 'New York, NY 10010']	$	4.0	447
+614	Lucky Garden	-74.09481	40.64134	143 Lafayette Ave	Staten Island	10301	NY	['143 Lafayette Ave', 'Staten Island, NY 10301']	$$	4.5	6
+615	Zongzi lady	-73.9938466	40.7181661	Chrystie St Grand St	New York	10002	NY	['Chrystie St Grand St', 'New York, NY 10002']	$	4.5	21
+616	Hak Box	-73.99439	40.714	88 E Broadway	New York	10002	NY	['88 E Broadway', 'Unit 106', 'Located Outside on Forsyth Street', 'New York, NY 10002']		4.5	40
+617	Zhen Good Taste	-73.89278	40.72182	5961 69th St	Maspeth	11378	NY	['5961 69th St', 'Maspeth, NY 11378']	$	3.5	30
+618	Mei Wei Restaurant	-73.91199	40.6368	765 E 82nd St	Brooklyn	11236	NY	['765 E 82nd St', 'Brooklyn, NY 11236']	$$	4.0	7
+619	Ruby Kitchen	-73.9730239659548	40.6775678694248	162 Park Pl	Brooklyn	11217	NY	['162 Park Pl', 'Brooklyn, NY 11217']	$	3.5	30
+620	Yeung Hing Restuarant	-73.897977132935	40.8837815547919	3650 Bailey Ave	Bronx	10463	NY	['3650 Bailey Ave', 'Bronx, NY 10463']		4.5	4
+621	Pearls	-73.9692167	40.7958833	796 Amsterdam Ave	New York	10025	NY	['796 Amsterdam Ave', 'New York, NY 10025']	$$	3.0	151
+622	Duck Wong	-73.9904	40.6002	2341 86th St	Brooklyn	11214	NY	['2341 86th St', 'Brooklyn, NY 11214']	$	4.0	172
+623	Chung Ching Restaurant	-73.92476	40.81019	262 Alexander Ave	Bronx	10454	NY	['262 Alexander Ave', 'Bronx, NY 10454']		4.0	9
+624	Cheung Hing Kitchen	-73.7543865	40.596772	243 Beach 20th St	New York	11691	NY	['243 Beach 20th St', 'New York, NY 11691']	$	3.5	7
+625	Baodega	-73.99178	40.74014	7 W 20th St	New York	10011	NY	['7 W 20th St', 'New York, NY 10011']	$$	3.5	83
+626	Hop Won Restaurant	-73.97399	40.75322	139 E 45th St	New York	10017	NY	['139 E 45th St', 'New York, NY 10017']	$	3.0	149
+627	Radiance Tea House and Books	-73.98065	40.7639799	158 W 55th St	New York	10019	NY	['158 W 55th St', 'New York, NY 10019']	$$	4.0	843
+628	Golden Z	-73.956928	40.598533	1410 Ave U	Brooklyn	11229	NY	['1410 Ave U', 'Brooklyn, NY 11229']	$	4.0	80
+629	New Lin Wang Restaurant	-73.897255	40.63772	9417 Ave L	Brooklyn	11236	NY	['9417 Ave L', 'Brooklyn, NY 11236']	$	3.0	8
+630	Pu Gui Ren	-74.00456	40.64086	773 51st St	Brooklyn	11220	NY	['773 51st St', 'Fl 1', 'Brooklyn, NY 11220']		5.0	1
+631	Kung Fu Little Steamed Buns Ramen	-73.9694294705987	40.7592514705491	146 E 55th St	New York	10022	NY	['146 E 55th St', 'New York, NY 10022']	$$	3.5	300
+632	Far East	-73.986855	40.668091	471 A 5th Ave	Brooklyn	11215	NY	['471 A 5th Ave', 'Brooklyn, NY 11215']	$	3.0	24
+633	Yang Kee 1 Chinese	-73.862278	40.679894	7501 101st Ave	Ozone Park	11416	NY	['7501 101st Ave', 'Ozone Park, NY 11416']	$	3.5	10
+634	2 In 1 Restaurant	-73.93255	40.61844	2108 Flatbush Ave	Brooklyn	11234	NY	['2108 Flatbush Ave', 'Brooklyn, NY 11234']		4.5	7
+635	China Gourmet	-73.98524	40.76381	877 8th Ave	New York	10019	NY	['877 8th Ave', 'New York, NY 10019']	$	2.5	216
+636	Xin Lin Chinese Restaurant	-74.0187399	40.77735	4507 Park Ave	Union City	07087	NJ	['4507 Park Ave', 'Ste A', 'Union City, NJ 07087']	$	4.0	16
+637	Xiang Xiang Noodle	-73.98587	40.73982	110-112 E 23rd St	New York	10010	NY	['110-112 E 23rd St', 'New York, NY 10010']	$$	4.0	90
+638	Wonton Noodle Garden	-73.998189	40.7157921	56 Mott St	New York	10013	NY	['56 Mott St', 'New York, NY 10013']	$	3.5	438
+639	86 Noodles	-74.02878	40.6226399	8608 4th Ave	Brooklyn	11209	NY	['8608 4th Ave', 'Brooklyn, NY 11209']	$$	3.5	200
+640	Panda Chinese Restaurant	-73.7909336577637	40.6737209940604	14611 Rockaway Blvd	Jamaica	11436	NY	['14611 Rockaway Blvd', 'Jamaica, NY 11436']	$$	3.5	29
+641	A A Jing	-73.99041	40.762	689 9th Ave	New York	10036	NY	['689 9th Ave', 'New York, NY 10036']	$$	3.5	289
+642	Long Won Chinese Food	-73.89333	40.6373	1845 Rockaway Pkwy	Brooklyn	11236	NY	['1845 Rockaway Pkwy', 'Brooklyn, NY 11236']	$	3.0	9
+643	Garden Tortilla & Chinese Exp	-74.00568	40.62219	7120 13th Ave	Brooklyn	11228	NY	['7120 13th Ave', 'Brooklyn, NY 11228']	$	3.5	19
+644	Wok To Walk	-73.9889749516819	40.7361928480486	42 Union Sq E	New York	10003	NY	['42 Union Sq E', 'New York, NY 10003']	$	4.0	222
+645	Rose Flower Restaurant	-73.88383	40.86797	383 Bedford Park Blvd	Bronx	10458	NY	['383 Bedford Park Blvd', 'Bronx, NY 10458']	$	4.0	12
+646	New Star	-73.947705	40.592772	2212 Ave X	Brooklyn	11235	NY	['2212 Ave X', 'Brooklyn, NY 11235']	$	3.5	39
+647	ChopStix Sheepshead Bay	-73.9403	40.59116	3790 Nostrand Ave	Brooklyn	11235	NY	['3790 Nostrand Ave', 'Brooklyn, NY 11235']	$$	3.5	274
+648	Grill On Lee	-73.9587070047855	40.7044641162683	108 Lee Ave	New York	11211	NY	['108 Lee Ave', 'New York, NY 11211']	$$	4.0	13
+649	Mao’s Bao	-74.004706248683	40.7480714928872	4059 High Line	New York	10011	NY	['4059 High Line', 'New York, NY 10011']		3.5	9
+650	Taiwan Pork Chop House	-73.99799	40.71424	3 Doyers St	New York	10013	NY	['3 Doyers St', 'New York, NY 10013']	$	4.0	436
+651	Wing Hua	-73.999031	40.676475	508 Court St	Brooklyn	11231	NY	['508 Court St', 'Brooklyn, NY 11231']	$	3.5	37
+652	Profit Chinese Restaurant II	-73.9755799	40.74565	643 2nd Ave	New York	10016	NY	['643 2nd Ave', 'New York, NY 10016']	$	3.0	35
+653	Chinacity Restaurant	-73.93626	40.6974	914 Broadway	Brooklyn	11206	NY	['914 Broadway', 'Brooklyn, NY 11206']		3.5	6
+654	Bite Of Hong Kong	-73.99437	40.7174007	81 Chrystie St	New York	10002	NY	['81 Chrystie St', 'New York, NY 10002']	$$	3.5	95
+655	Guan Fu Sichuan	-73.832271	40.759112	39-16 Prince St	Flushing	11354	NY	['39-16 Prince St', 'G01', 'Flushing, NY 11354']	$$$	4.0	196
+656	RedFarm	-74.00652	40.7342	529 Hudson St	New York	10014	NY	['529 Hudson St', 'New York, NY 10014']	$$$	3.5	654
+657	China One	-73.992790222168	40.6616096496582	677 5th Ave	Brooklyn	11215	NY	['677 5th Ave', 'Brooklyn, NY 11215']	$	3.0	16
+658	Peking Duck House	-73.99871	40.71461	28 Mott St	New York	10013	NY	['28 Mott St', 'Ste A', 'New York, NY 10013']	$$$	3.5	819
+659	No 1 Chinese Restaurant	-73.9394706	40.8513816	825 W 181st St	New York	10033	NY	['825 W 181st St', 'New York, NY 10033']	$	3.5	114
+660	Grand Sichuan	-74.04252	40.72047	342 Grove St	Jersey City	07302	NJ	['342 Grove St', 'Jersey City, NJ 07302']	$$	3.0	451
+661	Feng Shun Chang Kitchen	-73.9492035	40.7974815	2 W 111th St	New York	10026	NY	['2 W 111th St', 'New York, NY 10026']		4.0	2
+662	Wing Hua 2	-73.97763	40.6438	223 Church Ave	Brooklyn	11218	NY	['223 Church Ave', 'Brooklyn, NY 11218']	$	3.0	37
+663	New Fun Sing	-73.94349	40.70191	689 Broadway	Brooklyn	11206	NY	['689 Broadway', 'Brooklyn, NY 11206']	$	3.5	12
+664	Lee's Chinese Restaurant	-73.92398	40.67888	1884 Fulton St	Brooklyn	11233	NY	['1884 Fulton St', 'Brooklyn, NY 11233']		3.5	3
+665	China Wok	-73.97747	40.72216	63 Ave D	New York	10009	NY	['63 Ave D', 'New York, NY 10009']		2.0	8
+666	Prosperity Noodle	-74.0044088	40.6539818	947 4th Ave	Brooklyn	11232	NY	['947 4th Ave', 'Brooklyn, NY 11232']	$	3.5	19
+667	Ho Wan Restaurant	-73.83095	40.68508	111-05 Liberty Ave	Richmond Hill	11419	NY	['111-05 Liberty Ave', 'Richmond Hill, NY 11419']	$$	3.5	95
+668	Win Hing Chinese Restaurant	-73.88852	40.63395	9718 Seaview Ave	Brooklyn	11236	NY	['9718 Seaview Ave', 'Brooklyn, NY 11236']	$	3.5	9
+669	Teng Dragon	-73.9525201544166	40.8188500278556	1516 Amsterdam Ave	New York	10031	NY	['1516 Amsterdam Ave', 'New York, NY 10031']		5.0	1
+670	Fu Zhou Wei Zhong Wei Jia Xiang Feng Wei	-73.99414	40.713837	88 E Broadway	New York	10002	NY	['88 E Broadway', 'Stall B45', 'New York, NY 10002']	$	4.0	24
+671	Fu Hing Restaurant	-74.10673	40.67709	874 Broadway	Bayonne	07002	NJ	['874 Broadway', 'Bayonne, NJ 07002']	$	3.5	23
+672	China Royal	-73.99939	40.62489	1377 65th St	Brooklyn	11219	NY	['1377 65th St', 'Brooklyn, NY 11219']	$	4.0	17
+673	Friendly Restaurant	-73.9424634196434	40.7559963313064	1205 40th Ave	Long Island City	11101	NY	['1205 40th Ave', 'Long Island City, NY 11101']	$	3.5	60
+674	Sushumai Asian Fusion	-73.9872866123915	40.7211610690848	112 Stanton St	New York	10002	NY	['112 Stanton St', 'New York, NY 10002']	$$	4.5	173
+675	New Dragon Restaurant	-73.97533	40.69643	47 N Oxford St	Brooklyn	11205	NY	['47 N Oxford St', 'Brooklyn, NY 11205']		2.5	3
+676	Gem Bistro	-74.144834	40.748554	10 Schuyler Ave	Kearny	07032	NJ	['10 Schuyler Ave', 'Kearny, NJ 07032']	$$	4.5	24
+677	Green Tea Chinese	-74.07695	40.6441	54 Richmond Terrace	Staten Island	10301	NY	['54 Richmond Terrace', 'Staten Island, NY 10301']		4.0	1
+678	Hortus NYC	-73.98652	40.74545	271 5th Ave	New York	10016	NY	['271 5th Ave', 'New York, NY 10016']		4.5	156
+679	New Aroma Chinese Restaurant	-73.9557037353516	40.8132171630859	465 W 125th St	New York	10027	NY	['465 W 125th St', 'New York, NY 10027']	$	3.5	29
+680	New King's Wok Kitchen	-73.89681	40.91044	6669 Broadway	Bronx	10471	NY	['6669 Broadway', 'Bronx, NY 10471']	$	4.0	19
+681	Szechuan Gourmet 98	-73.9706060932133	40.7959450101726	2596 Broadway	New York	10025	NY	['2596 Broadway', 'New York, NY 10025']	$$	3.5	19
+682	New 888 Kitchen	-73.9043	40.72064	6092 Flushing Ave	Maspeth	11378	NY	['6092 Flushing Ave', 'Maspeth, NY 11378']	$	2.5	15
+683	Happy Garden	-73.92717	40.83655	1150 Ogden Ave	Bronx	10452	NY	['1150 Ogden Ave', 'Bronx, NY 10452']		4.5	2
+684	Panda Delight	-73.989601	40.687602	121 Smith St	Brooklyn	11201	NY	['121 Smith St', 'Brooklyn, NY 11201']	$$	2.5	29
+685	New Chin Chin Wu Restaurant	-73.96446	40.64904	1615 Church Ave	Brooklyn	11226	NY	['1615 Church Ave', 'Brooklyn, NY 11226']		4.5	7
+686	I Fortune Cookie	-73.947319	40.7476578	44-69 21st St	Long Island City	11101	NY	['44-69 21st St', 'Long Island City, NY 11101']	$	3.0	49
+687	Cafe Evergreen	-73.9556	40.76891	1367 1st Ave	New York	10021	NY	['1367 1st Ave', 'New York, NY 10021']	$$	3.5	169
+688	China Kettle	-73.9106508	40.6173427	6606 Ave U	Brooklyn	11234	NY	['6606 Ave U', 'Brooklyn, NY 11234']	$$	3.5	38
+689	Randy's Chinese Food	-73.906774	40.700336	1693 Putnam Ave	Ridgewood	11385	NY	['1693 Putnam Ave', 'Ridgewood, NY 11385']	$	3.0	50
+690	First Choice Chinese Kitchen	-73.9425	40.83778	3893 Broadway	New York	10032	NY	['3893 Broadway', 'New York, NY 10032']	$	3.0	49
+691	Ming Wok	-73.883957862854	40.7555390072011	8418A Northern Blvd	Jackson Heights	11372	NY	['8418A Northern Blvd', 'Jackson Heights, NY 11372']	$	4.0	15
+692	Jianbing Company	-73.95736	40.67758	899 Bergen St	Brooklyn	11238	NY	['899 Bergen St', 'Brooklyn, NY 11238']		4.0	1
+693	Wai Kang Restaurant	-73.8882446289062	40.8726463317871	39 Bedford Park Blvd	New York	10468	NY	['39 Bedford Park Blvd', 'New York, NY 10468']	$	3.5	11
+694	Double Dragon Restaurant	-73.898079	40.867191	2647 Jerome Ave	New York	10468	NY	['2647 Jerome Ave', 'New York, NY 10468']	$	3.5	18
+695	Chef's Garden	-73.8041	40.7211799	8009 164th St	Jamaica	11432	NY	['8009 164th St', 'Jamaica, NY 11432']	$	3.5	20
+696	Welcome Chili	-73.9902359	40.643718	3806 Fort Hamilton Pkwy	Brooklyn	11218	NY	['3806 Fort Hamilton Pkwy', 'Brooklyn, NY 11218']		5.0	1
+697	Imperial Taste	-73.7550127	40.7492825	22142 Horace Harding Expy	Oakland Gardens	11364	NY	['22142 Horace Harding Expy', 'Oakland Gardens, NY 11364']	$	3.5	89
+698	China New Star	-73.929765	40.615961	2212 Flatbush Ave	Brooklyn	11234	NY	['2212 Flatbush Ave', 'Brooklyn, NY 11234']	$$	3.5	119
+699	Happy Town Chinese Kitchen	-73.8456757	40.783018	1803 College Point Blvd	College Point	11356	NY	['1803 College Point Blvd', 'College Point, NY 11356']	$	3.5	13
+700	Sun Luck Kitchen	-73.9800262451172	40.676628112793	197 5th Ave	Brooklyn	11217	NY	['197 5th Ave', 'Brooklyn, NY 11217']	$	3.0	55
+701	Pho New York Restaurant	-73.99925	40.71623	73 Mulberry St	New York	10013	NY	['73 Mulberry St', 'New York, NY 10013']		4.5	8
+702	La Dinastia	-73.98022	40.77833	145 W 72nd St	New York	10023	NY	['145 W 72nd St', 'New York, NY 10023']	$$	3.5	160
+703	New Sunny East 88	-73.94825	40.777902	1680 1st Ave	New York	10128	NY	['1680 1st Ave', 'New York, NY 10128']	$	3.5	64
+704	Red House Chinese Restaurant	-73.90354	40.83069	1229 Franklin Ave	Bronx	10456	NY	['1229 Franklin Ave', 'Bronx, NY 10456']		4.0	1
+705	Sing Wok Chinese Restaurant	-73.87771	40.872337	353 E 204th Street	Bronx	10467	NY	['353 E 204th Street', 'Bronx, NY 10467']		4.0	3
+706	Happy Garden Chinese Restaurant	-73.923601	40.69921	188 Wilson Ave	Brooklyn	11221	NY	['188 Wilson Ave', 'Brooklyn, NY 11221']	$	3.5	16
+707	New General Tso's Restaurant	-73.8621299	40.83117	1215 White Plains Rd	Bronx	10472	NY	['1215 White Plains Rd', 'Bronx, NY 10472']	$	4.0	15
+708	La Vie en Szechuan	-73.9843980932541	40.7473584983999	14 E 33rd St	New York	10016	NY	['14 E 33rd St', 'New York, NY 10016']	$$	3.0	432
+709	Empire Szechuan	-73.980178	40.775683	193 Columbus Ave	New York	10023	NY	['193 Columbus Ave', 'New York, NY 10023']	$$	2.5	222
+710	Empire 19	-73.9174023270607	40.8787697553635	19A Knolls Crescent	Bronx	10463	NY	['19A Knolls Crescent', 'Bronx, NY 10463']	$	3.0	31
+711	BaoHaus	-73.9857136011124	40.7324690923782	238 E 14th St	New York	10003	NY	['238 E 14th St', 'New York, NY 10003']	$$	3.5	1925
+712	Fortune Cookie Chinese Kitchen	-73.9507	40.72338	611 Manhattan Ave	Brooklyn	11222	NY	['611 Manhattan Ave', 'Brooklyn, NY 11222']	$	3.0	45
+713	Brooklyn Chop House	-74.00597	40.7115099	150 Nassau St	New York	10038	NY	['150 Nassau St', 'New York, NY 10038']	$$$	3.5	284
+714	Fu Xing	-73.9911292120814	40.7546132717404	273 W 38th St	New York	10018	NY	['273 W 38th St', 'New York, NY 10018']		4.0	2
+715	Xun Yu Si Kao	-74.0095	40.63879	5609 7th Ave	Brooklyn	11220	NY	['5609 7th Ave', 'Brooklyn, NY 11220']		4.5	18
+716	TAO Uptown	-73.97147	40.76269	42 E 58th St	New York	10022	NY	['42 E 58th St', 'New York, NY 10022']	$$$	3.5	2531
+717	Xi'an Famous Foods	-73.98744	40.74033	38 E 23rd St	New York	10010	NY	['38 E 23rd St', 'New York, NY 10010']	$$	4.0	189
+718	Ten Full Restaurant	-73.92511	40.74018	39-49 48th Ave	Sunnyside	11104	NY	['39-49 48th Ave', 'Sunnyside, NY 11104']	$	3.0	62
+719	East Met West	-73.94392	40.71446	752 Metropolitan Ave	Brooklyn	11211	NY	['752 Metropolitan Ave', 'Brooklyn, NY 11211']	$	3.0	48
+720	Evergreen On 38	-73.98199	40.75041	10 E 38th St	New York	10016	NY	['10 E 38th St', 'New York, NY 10016']	$$	3.5	239
+721	Yeung II Sushi Asian Cuisine	-74.02716	40.75079	1120 Washington St	Hoboken	07030	NJ	['1120 Washington St', 'Hoboken, NJ 07030']	$$	3.5	188
+722	China Dragon	-73.976654	40.631248	4320 18th Ave	Kensington	11218	NY	['4320 18th Ave', 'Kensington, NY 11218']	$	3.0	8
+723	Foo Lee	-73.88784	40.67871	2892 Fulton St	Brooklyn	11207	NY	['2892 Fulton St', 'Brooklyn, NY 11207']	$	3.5	5
+724	Weng Garden	-73.920722	40.685707	872 Hancock St	Brooklyn	11233	NY	['872 Hancock St', 'Brooklyn, NY 11233']	$	4.0	13
+725	J East	-73.98587	40.7347899	175 3rd Ave	New York	10003	NY	['175 3rd Ave', 'New York, NY 10003']	$	3.0	64
+726	Long Spring Garden	-73.901984	40.745848	62-05 Roosevelt Ave	Woodside	11377	NY	['62-05 Roosevelt Ave', 'Woodside, NY 11377']	$	3.5	26
+727	Imperial Palace	-73.830619	40.761867	13613 37th Ave	Flushing	11354	NY	['13613 37th Ave', 'Flushing, NY 11354']	$$	4.0	421
+728	Alley 41	-73.828	40.75911	136-45 41st Ave	Flushing	11355	NY	['136-45 41st Ave', 'Flushing, NY 11355']	$$	4.0	156
+729	New Peking House	-73.869846	40.684095	3408 Fulton St	Brooklyn	11208	NY	['3408 Fulton St', 'Brooklyn, NY 11208']	$	3.5	5
+730	Asian Taste	-73.994533	40.660945	718 5th Ave	Brooklyn	11215	NY	['718 5th Ave', 'Brooklyn, NY 11215']	$	3.0	55
+731	Shanghai You Garden	-73.83056	40.75895	135-33 40th Rd	Flushing	11354	NY	['135-33 40th Rd', 'Flushing, NY 11354']	$$	4.0	1018
+732	88 Dragon & Phoenix	-74.1099625	40.67416	787 Broadway	Bayonne	07002	NJ	['787 Broadway', 'Bayonne, NJ 07002']	$	3.5	29
+733	New Garden	-73.951049	40.662142	1060 Nostrand Ave	New York	11225	NY	['1060 Nostrand Ave', 'New York, NY 11225']	$	3.0	6
+734	Ye Garden	-73.8952	40.70169	71-02 Fresh Pond Rd	Ridgewood	11385	NY	['71-02 Fresh Pond Rd', 'Ridgewood, NY 11385']	$	3.5	21
+735	Pa Pa Thai Cuisine	-73.9624154842934	40.7593778206059	1069 1st Ave	New York	10022	NY	['1069 1st Ave', 'New York, NY 10022']	$$	4.5	194
+736	Mei Yu Spring	-73.9971762470746	40.7125753536096	29 Catherine St	New York	10002	NY	['29 Catherine St', 'New York, NY 10002']	$	4.0	78
+737	Keming Restaurant	-74.02772	40.74893	1006 Washington St	Hoboken	07030	NJ	['1006 Washington St', 'Hoboken, NJ 07030']	$$	3.5	135
+738	Farmers Restaurant	-74.0053	40.60855	1692 86th St	Brooklyn	11214	NY	['1692 86th St', 'Brooklyn, NY 11214']	$$	3.0	73
+739	Tang Pavilion	-73.977189	40.762849	65 W 55th St	New York	10019	NY	['65 W 55th St', 'New York, NY 10019']	$$	3.5	302
+740	No 1 Restaurant	-73.9245299622416	40.6584302118089	1007 Clarkson Ave	Brooklyn	11212	NY	['1007 Clarkson Ave', 'Brooklyn, NY 11212']	$	4.5	4
+741	Wok City	-73.983876645396	40.7752417820046	153 Amsterdam Ave	New York	10023	NY	['153 Amsterdam Ave', 'New York, NY 10023']	$	3.0	82
+742	Wah Lung Chinese Food	-73.9537711246306	40.6104668294336	1932 Kings Hwy	Brooklyn	11229	NY	['1932 Kings Hwy', 'Brooklyn, NY 11229']	$	3.5	11
+743	No 1 Fusion	-73.909462	40.7000923	16-35 Woodbine St	Queens	11385	NY	['16-35 Woodbine St', 'Queens, NY 11385']		4.5	2
+744	Yummy Chinese Resturant	-73.950804	40.664311	985 Nostrand Ave	Brooklyn	11225	NY	['985 Nostrand Ave', 'Brooklyn, NY 11225']		4.0	1
+745	Hong Kong Chinese Restaurant	-73.98146	40.7444	174 Lexington Ave	New York	10016	NY	['174 Lexington Ave', 'New York, NY 10016']	$	3.0	34
+746	Hunger Pang	-73.9696960449219	40.6470565795898	1021 Church Ave	Flatbush	11218	NY	['1021 Church Ave', 'Flatbush, NY 11218']	$$	4.5	300
+747	Xiun Wei Restaurant	-73.8422789131359	40.8403242531329	124 Westchester Square	Bronx	10461	NY	['124 Westchester Square', 'Store 3', 'Bronx, NY 10461']		5.0	1
+748	Super Bowl	-73.906413	40.725644	5560 60th St	Maspeth	11378	NY	['5560 60th St', 'Maspeth, NY 11378']	$	3.5	11
+749	Rice Noodle Cart	-74.000283	40.717931	153 Centre St	New York	10013	NY	['153 Centre St', 'New York, NY 10013']	$	4.5	142
+750	New Happy Garden Company	-73.81274	40.70234	8907 139th St	Jamaica	11435	NY	['8907 139th St', 'Jamaica, NY 11435']		4.5	9
+751	New Hong Wong Seafood Restaurant	-73.995498	40.717796	100 Bowery	New York	10013	NY	['100 Bowery', 'New York, NY 10013']	$$	3.5	28
+752	Asia Restaurant	-73.8784215	40.748088	8802 Roosevelt Ave	Jackson Heights	11372	NY	['8802 Roosevelt Ave', 'Jackson Heights, NY 11372']	$	4.0	6
+753	Shun Li Chinese Restaurant	-73.9174987560195	40.6687382633411	1523 Pitkin Ave	Brooklyn	11212	NY	['1523 Pitkin Ave', 'Brooklyn, NY 11212']		2.5	2
+754	Lucky Star Restaurant	-73.87443	40.76309	9419 Astoria Blvd	East Elmhurst	11369	NY	['9419 Astoria Blvd', 'East Elmhurst, NY 11369']	$	3.0	9
+755	Golden China	-73.8814392	40.6715889	1013 Sutter Ave	East New York	11208	NY	['1013 Sutter Ave', 'East New York, NY 11208']	$	4.5	2
+756	Shanghai Dumpling	-73.99721	40.71726	100 Mott St	New York	10013	NY	['100 Mott St', 'New York, NY 10013']	$	3.5	2124
+757	China Garden	-73.930877	40.67453	130 Utica Ave	Brooklyn	11213	NY	['130 Utica Ave', 'Brooklyn, NY 11213']	$$	3.5	3
+758	Mama's Noodle House	-73.9930436387658	40.6168614546041	1782 Bay Ridge Ave	Brooklyn	11204	NY	['1782 Bay Ridge Ave', 'Brooklyn, NY 11204']	$	4.5	60
+759	Szechun Express	-73.984444908711	40.8243995817555	639 Palisade Ave	Cliffside Park	07010	NJ	['639 Palisade Ave', 'Cliffside Park, NJ 07010']	$$	4.0	45
+760	ChowTime	-73.982036	40.576542	1418 Mermaid Ave	Brooklyn	11224	NY	['1418 Mermaid Ave', 'Brooklyn, NY 11224']	$	4.5	50
+761	New City	-73.9258919279945	40.7029774649578	236 Knickerbocker Ave	Brooklyn	11237	NY	['236 Knickerbocker Ave', 'Brooklyn, NY 11237']		3.0	17
+762	Lagman House	-73.95548	40.58756	2612 E 14th St	Brooklyn	11235	NY	['2612 E 14th St', 'Brooklyn, NY 11235']	$$	4.5	93
+763	King Dragon	-73.95035	40.79287	1548 Madison Ave	New York	10029	NY	['1548 Madison Ave', 'New York, NY 10029']	$	2.5	10
+764	Family Garden	-73.960987	40.635335	1709 Foster Ave	Brooklyn	11230	NY	['1709 Foster Ave', 'Brooklyn, NY 11230']	$	4.0	26
+765	Golden House	-73.91789	40.76497	3512 30th Ave	Astoria	11103	NY	['3512 30th Ave', 'Astoria, NY 11103']	$	2.5	90
+766	Shun Lee West & Cafe	-73.9811626	40.7727826	43 W 65th St	New York	10023	NY	['43 W 65th St', 'New York, NY 10023']	$$$	3.0	474
+767	New Wok Chinese Restaurant	-73.9160164	40.8134011	481 Brook Ave	Bronx	10455	NY	['481 Brook Ave', 'Bronx, NY 10455']		2.0	2
+768	Good Taste Chinese	-73.966433	40.629664	1015 Ave H	Brooklyn	11230	NY	['1015 Ave H', 'Brooklyn, NY 11230']	$$	3.5	6
+769	Good Friend	-73.89593	40.63794	9528 Avenue L	Brooklyn	11236	NY	['9528 Avenue L', 'Brooklyn, NY 11236']		3.5	4
+770	The Bund	-73.8532474276788	40.7264404960967	100-30 Queens Blvd	Forest Hills	11375	NY	['100-30 Queens Blvd', 'Forest Hills, NY 11375']	$$	3.5	244
+771	Ming Hing Restaurant	-73.97354	40.6086	380 Ave P	Brooklyn	11204	NY	['380 Ave P', 'Brooklyn, NY 11204']	$	3.0	17
+772	Ollies To Go	-73.955451	40.771918	307 E 77th St	New York	10075	NY	['307 E 77th St', 'New York, NY 10075']		4.0	28
+773	Taste of China	-73.8842849731445	40.7446556091309	8026 Baxter Ave	Elmhurst	11373	NY	['8026 Baxter Ave', 'Elmhurst, NY 11373']	$	4.0	8
+774	China Express	-73.93767	40.6415	4106 Ave D	Brooklyn	11203	NY	['4106 Ave D', 'Brooklyn, NY 11203']	$	2.0	1
+775	Xing & Hui Linda's Kitchen	-73.81824	40.82022	4006 E Tremont Ave	Bronx	10465	NY	['4006 E Tremont Ave', 'Bronx, NY 10465']		4.5	4
+776	Good Luck Chinese Restaurant	-73.9197625899353	40.7392043166647	4516 48th Ave	Woodside	11377	NY	['4516 48th Ave', 'Woodside, NY 11377']	$	4.0	11
+777	Hot Kitchen Skewer Hotpot & BBQ	-73.98816	40.72741	104 2nd Ave	New York	10003	NY	['104 2nd Ave', 'New York, NY 10003']	$$	3.5	433
+778	Traditional Chinese Food Cart	-73.995937	40.7293724	35 W 4th St	New York	10014	NY	['35 W 4th St', 'New York, NY 10014']		4.0	7
+779	Chef Hong's Kitchen	-74.07759	40.6381	55 Victory Blvd	Staten Island	10301	NY	['55 Victory Blvd', 'Staten Island, NY 10301']	$	4.0	12
+780	Fay Da Bakery	-74.00176	40.73115	321 W 6th Ave	New York	10012	NY	['321 W 6th Ave', 'New York, NY 10012']	$	4.0	222
+781	Wah Yeung's Kitchen	-73.9207394	40.745041	43-24 43rd Ave	Sunnyside	11104	NY	['43-24 43rd Ave', 'Sunnyside, NY 11104']	$	3.0	23
+782	Silver Palace	-73.9526	40.82303	3438 Broadway	New York	10031	NY	['3438 Broadway', 'New York, NY 10031']		3.5	6
+783	Golden Wok	-73.946723	40.827003	1770 Amsterdam Ave	New York	10031	NY	['1770 Amsterdam Ave', 'New York, NY 10031']	$	3.5	52
+784	China House	-73.7590898	40.7210974	206-18 Hillside Ave	Queens Village	11427	NY	['206-18 Hillside Ave', 'Queens Village, NY 11427']	$	3.5	31
+785	Chang Hong Chinese Restaurant	-73.910232	40.696949	409 Irving Ave	Brooklyn	11237	NY	['409 Irving Ave', 'Brooklyn, NY 11237']	$$	3.5	6
+786	China Delight	-74.0045899	40.65043	4009 5th Ave	Brooklyn	11232	NY	['4009 5th Ave', 'Brooklyn, NY 11232']	$	3.5	45
+787	Hardee	-73.9153899997473	40.6618899485811	771 Saratoga Ave	Brooklyn	11212	NY	['771 Saratoga Ave', 'Brooklyn, NY 11212']	$$	4.5	8
+788	Jade Seneca	-73.9081073	40.7028933	688 Seneca Ave	Ridgewood	11385	NY	['688 Seneca Ave', 'Ridgewood, NY 11385']	$	2.5	20
+789	Super China Pagoda	-73.9091797	40.7610039	4720 30th Ave	Astoria	11103	NY	['4720 30th Ave', 'Astoria, NY 11103']	$	3.5	43
+790	Hardee Lee	-73.922707	40.670403	1645 St John's Pl	Brooklyn	11233	NY	"[""1645 St John's Pl"", 'Brooklyn, NY 11233']"		4.0	1
+791	Lucky Star	-73.89594	40.81684	807 Southern Blvd	Bronx	10459	NY	['807 Southern Blvd', 'Bronx, NY 10459']		5.0	1
+792	Mayflower Chinese Restaurant	-74.12074	40.634538	1151 Castleton Ave	Staten Island	10310	NY	['1151 Castleton Ave', 'Staten Island, NY 10310']		4.5	4
+793	Grand Fortune Chinese Cuisine	-73.9766693115234	40.5963516235352	202 Avenue U	Brooklyn	11223	NY	['202 Avenue U', 'Brooklyn, NY 11223']	$	3.5	20
+794	Perfect Taste	-73.99157	40.71508	51B Canal St	New York	10002	NY	['51B Canal St', 'New York, NY 10002']		4.5	71
+795	China Wok	-73.9418902248144	40.8124997466803	454-A Lenox Ave	New York	10037	NY	['454-A Lenox Ave', 'New York, NY 10037']	$	4.0	14
+796	KROK Brooklyn	-74.0013	40.68761	117 Columbia St	Brooklyn	11231	NY	['117 Columbia St', 'Brooklyn, NY 11231']	$$	4.5	57
+797	Feng's Garden	-73.8393932	40.7190535	11054 Queens Blvd	Forest Hills	11375	NY	['11054 Queens Blvd', 'Forest Hills, NY 11375']	$	3.5	64
+798	Tao Hong Bakery	-73.9945679	40.71735	79 Chrystie St	New York	10002	NY	['79 Chrystie St', 'New York, NY 10002']	$	4.5	36
+799	Proong Noodle Bar	-73.98003	40.73528	347 1st Ave	New York	10010	NY	['347 1st Ave', 'New York, NY 10010']	$$	4.5	138
+800	Oriental Chinese Restaruant	-73.9447835513302	40.8337324320757	3774 Broadway	New York	10032	NY	['3774 Broadway', 'New York, NY 10032']	$	2.5	8
+801	Yang No 1 Asian Restaurant	-73.97423	40.68596	109 S Portland Ave	Brooklyn	11217	NY	['109 S Portland Ave', 'Brooklyn, NY 11217']	$	3.0	19
+802	Golden Village Chinese Kitchen	-73.91935	40.63401	5912 Glenwood Rd	Brooklyn	11234	NY	['5912 Glenwood Rd', 'Brooklyn, NY 11234']		4.0	11
+803	No 1 Chinese Restaurant	-74.029036	40.767345	2504 Palisade Ave	Weehawken	07086	NJ	['2504 Palisade Ave', 'Weehawken, NJ 07086']	$	3.5	43
+804	Chef Wang	-73.6761173068364	40.7345381905188	1902 Jericho Tpke	New Hyde Park	11040	NY	['1902 Jericho Tpke', 'New Hyde Park, NY 11040']	$$	4.0	332
+805	XIN	-74.03067	40.62518	8320 3rd Ave	Brooklyn	11209	NY	['8320 3rd Ave', 'Brooklyn, NY 11209']	$$	3.5	80
+806	H K Wonton Garden	-73.9992752075195	40.7164688110352	79 Mulberry St	New York	10013	NY	['79 Mulberry St', 'New York, NY 10013']	$	3.5	730
+807	Chop Shop II	-73.99123	40.74324	41 W 24th St	New York	10010	NY	['41 W 24th St', 'New York, NY 10010']	$$	3.5	216
+808	New Kam Lai Chinese	-73.97133	40.79303	708 Amsterdam Ave	New York	10025	NY	['708 Amsterdam Ave', 'New York, NY 10025']	$	3.0	56
+809	August Gatherings	-74.0011004	40.7186556	266 Canal St	New York	10013	NY	['266 Canal St', 'New York, NY 10013']	$$$	3.5	236
+810	Amy's Restaurant	-73.92097	40.86701	586 W 207th St	New York	10034	NY	['586 W 207th St', 'New York, NY 10034']	$$	3.5	109
+811	Flame	-73.90127	40.88279	5740 Broadway	Bronx	10463	NY	['5740 Broadway', 'Unit 5', 'Bronx, NY 10463']		4.5	64
+812	Lo-Fatt-Chow	-74.0378006521148	40.7474615723213	720 Monroe St C-103	Hoboken	07030	NJ	['720 Monroe St C-103', '(Monroe & 8th St)', 'Hoboken, NJ 07030']	$	4.0	104
+813	Wo Hop Chinese Restaurant	-73.878592	40.681608	3150 Fulton St	Brooklyn	11208	NY	['3150 Fulton St', 'Brooklyn, NY 11208']	$	2.5	12
+814	Teng Dragon	-73.9349899291992	40.7961006164551	2260 1st Ave	New York	10035	NY	['2260 1st Ave', 'New York, NY 10035']	$	3.0	20
+815	Double Dragon	-74.00907	40.65012	4318 4th Ave	Brooklyn	11232	NY	['4318 4th Ave', 'Brooklyn, NY 11232']	$	3.0	7
+816	New Sheng Chinese Restaurant	-73.888199	40.826996	1029 E 167th St	Foxhurst	10459	NY	['1029 E 167th St', 'Foxhurst, NY 10459']		4.0	1
+817	Di An Di	-73.958244	40.729526	68 Greenpoint Ave	Brooklyn	11222	NY	['68 Greenpoint Ave', 'Ground Fl', 'Brooklyn, NY 11222']	$$$$	4.0	144
+818	Hong Garden	-73.9383544921875	40.8219299316406	2515 Adam Clayton Powell	New York	10039	NY	['2515 Adam Clayton Powell', 'New York, NY 10039']	$	3.5	8
+819	Northern Tiger	-74.0160110541061	40.7126462901984	225 Liberty St	New York	10281	NY	['225 Liberty St', 'Hudson Eats', 'New York, NY 10281']	$$	3.0	147
+820	Wahdo Restaurant	-73.92334	40.6560599	395 Remsen Ave	Brooklyn	11212	NY	['395 Remsen Ave', 'Brooklyn, NY 11212']	$	4.5	4
+821	Lucky Family 1 Takeout Kitchn	-73.9562399	40.68114	1120 Fulton St	Brooklyn	11238	NY	['1120 Fulton St', 'Brooklyn, NY 11238']		4.0	2
+822	Ollie's To Go	-73.9752417	40.7904902	2425 Broadway	New York	10024	NY	['2425 Broadway', 'New York, NY 10024']	$$	2.5	145
+823	Fairview Chinese Restaurant	-74.00097	40.81084	363 Fairview Ave	Fairview	07022	NJ	['363 Fairview Ave', 'Fairview, NJ 07022']	$	4.0	126
+824	Xing Shun Da	-73.8222449272871	40.7533664256334	44-18 Kissena Blvd	Flushing	11355	NY	['44-18 Kissena Blvd', 'Flushing, NY 11355']	$$	4.0	17
+825	Taiwanese Gourmet	-73.878766	40.739713	8402 Broadway	Elmhurst	11373	NY	['8402 Broadway', 'Elmhurst, NY 11373']	$$	3.5	349
+826	Mandarin Wok Restaurant	-73.8511595766225	40.8723498946071	1232 E Gun Hill Rd	New York	10469	NY	['1232 E Gun Hill Rd', 'New York, NY 10469']	$$	3.5	7
+827	New King's Garden	-73.872556	40.760402	9606 31st Ave	E Elmhurst	11369	NY	['9606 31st Ave', 'E Elmhurst, NY 11369']	$	5.0	1
+828	Hunts Point Chinese Restaurant	-73.89302	40.81965	901 Southern Blvd	Bronx	10459	NY	['901 Southern Blvd', 'Bronx, NY 10459']		4.0	4
+829	Jumbo Chinese Restaurants	-73.930541	40.649898	942 Utica Ave	Brooklyn	11203	NY	['942 Utica Ave', 'Brooklyn, NY 11203']		5.0	1
+830	Broadway China Station	-73.9258757	40.7616886	3212 31st St	Astoria	11106	NY	['3212 31st St', 'Astoria, NY 11106']	$	3.5	36
+831	XO Kitchen	-73.9960411841547	40.717449983677	148 Hester St	New York	10013	NY	['148 Hester St', 'New York, NY 10013']	$	3.5	511
+832	King's Kitchen	-73.9969891682267	40.6040020469898	2051 86th St	Brooklyn	11214	NY	['2051 86th St', 'Brooklyn, NY 11214']	$	3.0	167
+833	Mr Tong Restaurant	-73.97821	40.64837	2926 Fort Hamilton Pkwy	Brooklyn	11218	NY	['2926 Fort Hamilton Pkwy', 'Brooklyn, NY 11218']	$	3.0	49
+834	Fresh Wok	-73.94698	40.78065	1777 1st Ave	New York	10128	NY	['1777 1st Ave', 'New York, NY 10128']	$	3.0	31
+835	New Red Star Chinese Kitchen	-73.8965443	40.8162034	795 Southern Blvd	Bronx	10455	NY	['795 Southern Blvd', 'Bronx, NY 10455']	$	3.5	4
+836	Yi Hong	-73.899573	40.6360717	9103 Ave L	Brooklyn	11236	NY	['9103 Ave L', 'Brooklyn, NY 11236']	$	4.5	4
+837	Zen Vegetarian House	-73.95937	40.65396	773 Flatbush Ave	Brooklyn	11226	NY	['773 Flatbush Ave', 'Brooklyn, NY 11226']	$$	4.0	270
+838	Mei Chung Mei Restaurant	-73.902961730957	40.8784523010254	157 W 231st St	Bronx	10463	NY	['157 W 231st St', 'Bronx, NY 10463']	$$	4.0	18
+839	New Shun Hing Chinese Restaurnt	-73.8866494596004	40.6534782797098	1111 Pennsylvania Ave	Brooklyn	11207	NY	['1111 Pennsylvania Ave', 'Brooklyn, NY 11207']		4.5	4
+840	KungFu Noodle House	-73.8827301	40.7414872	8202 45th Ave	Queens	11373	NY	['8202 45th Ave', 'Ste 25', 'Queens, NY 11373']		5.0	1
+841	China New Star Restaurant	-74.14344	40.62479	1640 Forest Ave	Staten Island	10302	NY	['1640 Forest Ave', 'Staten Island, NY 10302']	$$	3.5	45
+842	Joong Koog Jip	-73.81533	40.76193	149-08 41st Ave	Flushing	11355	NY	['149-08 41st Ave', 'Flushing, NY 11355']	$$	4.0	204
+843	Xiang Hotpot-Brooklyn	-74.00467	40.6339	5816 Fort Hamilton Pkwy	Brooklyn	11219	NY	['5816 Fort Hamilton Pkwy', 'Brooklyn, NY 11219']	$$$	3.5	95
+844	Dunhuang BBQ 敦煌烤肉	-73.8319349907461	40.7612449831908	13351 37th Ave	Flushing	11354	NY	['13351 37th Ave', 'Fl 1st', 'Flushing, NY 11354']	$$	4.5	123
+845	Yip Szechuan Gourmet	-73.88921	40.70143	6541 Myrtle Ave	Glendale	11385	NY	['6541 Myrtle Ave', 'Glendale, NY 11385']	$	3.0	11
+846	New Great Wall Chinese Restaurant	-73.8950799	40.74282	6913 Woodside Ave	Woodside	11377	NY	['6913 Woodside Ave', 'Woodside, NY 11377']		4.0	13
+847	Number 1 Chinese Kitchen	-74.0289899	40.7446399	642 Washington St	Hoboken	07030	NJ	['642 Washington St', 'Hoboken, NJ 07030']	$	3.5	48
+848	Grace	-73.903023	40.69976	952 Seneca Ave	Ridgewood	11385	NY	['952 Seneca Ave', 'Ridgewood, NY 11385']		3.5	3
+849	New Win Hing	-74.0664883	40.6143029	1180 Bay St	Staten Island	10305	NY	['1180 Bay St', 'Staten Island, NY 10305']	$	3.5	27
+850	New Hong Kong	-73.8068619	40.7924004	10-17 154th St	Whitestone	11357	NY	['10-17 154th St', 'Whitestone, NY 11357']		3.5	11
+851	Wing Wah Restaurant	-73.8203	40.67603	11720 Rockaway Blvd	South Ozone Park	11420	NY	['11720 Rockaway Blvd', 'South Ozone Park, NY 11420']	$	3.5	12
+852	Asian Yummy House	-73.9395595889549	40.6992196817664	824 Broadway	Brooklyn	11206	NY	['824 Broadway', 'Brooklyn, NY 11206']	$	2.5	14
+853	Rasa	-73.9975674	40.7327654	25 W 8th St	New York	10011	NY	['25 W 8th St', 'New York, NY 10011']	$$	4.0	685
+854	Taste Good	-73.9901636441803	40.7433836718734	18 W 25th St	New York	10010	NY	['18 W 25th St', 'New York, NY 10010']	$	3.5	96
+855	High Pearl Queens	-73.8825862	40.7415032	8222 45th Ave	Elmhurst	11373	NY	['8222 45th Ave', 'Elmhurst, NY 11373']	$$	4.0	116
+856	Culinary Noodle Kitchen ​	-73.913247	40.762911	4202 30th Ave	Astoria	11103	NY	['4202 30th Ave', 'Astoria, NY 11103']	$$	4.0	43
+857	Harvest Chinese & Thai Cuisine	-73.9526672	40.7718201	1502 1st Ave	New York	10075	NY	['1502 1st Ave', 'New York, NY 10075']	$$	3.5	80
+858	Liu's Shanghai	-74.0038766549142	40.6026411895768	1869 Bath Ave	Brooklyn	11214	NY	['1869 Bath Ave', 'Brooklyn, NY 11214']	$$	4.5	361
+859	Joe's Steam Rice Roll	-73.82941	40.76012	136-21 Roosevelt Ave	Flushing	11354	NY	['136-21 Roosevelt Ave', 'Flushing, NY 11354']	$	4.5	548
+860	Yaso Noodle Bar	-73.994044	40.730208	289 Mercer St	New York	10003	NY	['289 Mercer St', 'New York, NY 10003']		4.0	29
+861	Malaysia Grill	-73.96775	40.79948	224 W 104th St	New York	10024	NY	['224 W 104th St', 'New York, NY 10024']	$$	4.0	279
+862	Fu Xing Chinese Resturant	-73.87492	40.83135	1270 Morrison Ave	Bronx	10472	NY	['1270 Morrison Ave', 'Bronx, NY 10472']	$$	4.0	5
+863	New Wong Rest	-73.9931488	40.7135887	103 E Broadway	New York	10002	NY	['103 E Broadway', 'New York, NY 10002']	$	3.5	41
+864	Lisa's Dumplings	-73.9824067136363	40.7689469190942	57th St & 8th Ave	New York	10019	NY	['57th St & 8th Ave', 'New York, NY 10019']		4.0	28
+865	Shun Lee Palace	-73.96907	40.75945	155 E 55th St	New York	10022	NY	['155 E 55th St', 'New York, NY 10022']	$$$	3.0	300
+866	Grand Wok	-73.93171	40.60935	3510 Ave S	Brooklyn	11234	NY	['3510 Ave S', 'Brooklyn, NY 11234']	$	3.5	14
+867	Great China Restaurant	-73.95344	40.81696	1461 Amsterdam Ave	New York	10027	NY	['1461 Amsterdam Ave', 'New York, NY 10027']	$	5.0	3
+868	Hang Shing Kitchen	-73.8485997417336	40.7102074072038	104-09 Metropolitan Ave	Forest Hills	11375	NY	['104-09 Metropolitan Ave', 'Forest Hills, NY 11375']	$	4.0	26
+869	China Star	-73.88366	40.64664	1370 Pennsylvania Ave	Brooklyn	11239	NY	['1370 Pennsylvania Ave', 'Brooklyn, NY 11239']	$	1.5	15
+870	Jimmy's House	-73.98256	40.74016	162 E 25th St	New York	10010	NY	['162 E 25th St', 'New York, NY 10010']	$	3.5	121
+871	Halal Kitchen	-73.9408185787398	40.7930498507672	2135 2nd Ave	New York	10029	NY	['2135 2nd Ave', 'New York, NY 10029']	$	3.5	15
+872	Mr. Fulton	-73.9498954584064	40.6802691945888	1274 Fulton St	Brooklyn	11216	NY	['1274 Fulton St', 'Brooklyn, NY 11216']		4.5	3
+873	Ping's Seafood	-73.998636	40.714442	22 Mott St	New York	10013	NY	['22 Mott St', 'New York, NY 10013']	$$	3.5	652
+874	Golden City Restaurant	-73.88884	40.85387	2324 Arthur Ave	Bronx	10458	NY	['2324 Arthur Ave', 'Bronx, NY 10458']	$	3.0	16
+875	Beijing Dumpling House	-73.8091804	40.7043147	88-38 Sutphin Blvd	Jamaica	11435	NY	['88-38 Sutphin Blvd', 'Jamaica, NY 11435']	$	4.5	269
+876	Zou's Restaurant	-73.930656	40.670791	233 Utica Ave	Crown Heights	11213	NY	['233 Utica Ave', 'Crown Heights, NY 11213']		4.5	2
+877	China Star	-73.80267	40.71423	8436 164th St	Jamaica	11432	NY	['8436 164th St', 'Jamaica, NY 11432']	$	3.5	16
+878	La Caridad 78	-73.9807337	40.7832592	2197 Broadway	New York	10024	NY	['2197 Broadway', 'New York, NY 10024']	$$	3.5	244
+879	Empire Restaurant	-73.90673	40.690147	617 Wilson Ave	Brooklyn	11207	NY	['617 Wilson Ave', 'Brooklyn, NY 11207']	$	2.5	25
+880	Beijing Chinese	-73.9861382	40.733059	223 E 14th St	New York	10003	NY	['223 E 14th St', 'New York, NY 10003']	$	3.0	20
+881	So Pho 88	-73.9619940842959	40.7136312934058	314 Bedford Ave	Brooklyn	11211	NY	['314 Bedford Ave', 'Brooklyn, NY 11211']		4.0	16
+882	Wah-Sing Restaurant	-73.91064	40.67787	143 Rockaway Ave	Brooklyn	11233	NY	['143 Rockaway Ave', 'Brooklyn, NY 11233']		4.0	2
+883	Jing Fong Restaurant	-73.9971831076206	40.7159552385198	20 Elizabeth St	New York	10013	NY	['20 Elizabeth St', 'New York, NY 10013']	$$	3.5	2305
+884	Tasty House	-73.974708	40.597064	253 Avenue U	Brooklyn	11223	NY	['253 Avenue U', 'Brooklyn, NY 11223']	$	4.0	9
+885	Golden Unicorn	-73.997163364418	40.7136770496642	18 E Broadway	New York	10002	NY	['18 E Broadway', 'New York, NY 10002']	$$	3.5	1741
+886	China House Restaurant	-73.8407242	40.6902426	10408 Atlantic Ave	Ozone Park	11416	NY	['10408 Atlantic Ave', 'Ozone Park, NY 11416']	$	4.0	15
+887	Hung Sang	-74.0285907	40.7729837	3404 Bergenline Ave	Union City	07087	NJ	['3404 Bergenline Ave', 'Union City, NJ 07087']	$	3.5	14
+888	Mr Wonton Chinese Restaurant	-73.942103	40.747068	2604 Jackson Ave	Long Island City	11101	NY	['2604 Jackson Ave', 'Long Island City, NY 11101']	$	2.0	44
+889	Yummy Chinese Restaurant	-73.9055549	40.7004412	1717 Cornelia St	Ridgewood	11385	NY	['1717 Cornelia St', 'Ridgewood, NY 11385']		3.0	11
+890	Peking Garden	-73.9592896	40.8149986	3163 Broadway	New York	10027	NY	['3163 Broadway', 'New York, NY 10027']	$	3.5	32
+891	Famous Sichuan	-73.99758	40.71487	10 Pell St	New York	10013	NY	['10 Pell St', 'New York, NY 10013']	$$	3.5	392
+892	Jing Fong	-73.9789128775797	40.7827096147799	380 Amsterdam Ave	New York	10024	NY	['380 Amsterdam Ave', 'New York, NY 10024']	$$	3.0	189
+893	Nb Wing Wong	-73.99672	40.71554	42 Bowery	New York	10013	NY	['42 Bowery', 'New York, NY 10013']		4.0	16
+894	Empire Corner II	-73.9463817825413	40.800489	1415 5th Ave	New York	10029	NY	['1415 5th Ave', 'New York, NY 10029']	$	2.5	19
+895	OBAO	-73.991332	40.7606544	647 9th Ave	New York	10036	NY	['647 9th Ave', 'New York, NY 10036']	$$	4.0	2444
+896	Food King	-73.99401	40.71173	56 Market St	New York	10002	NY	['56 Market St', 'New York, NY 10002']	$	4.0	15
+897	Wu & Nussbaum	-73.9657058939338	40.8061199195632	2897 Broadway	New York	10025	NY	['2897 Broadway', 'New York, NY 10025']	$$	3.5	31
+898	Good Year Chinese Cuisine	-74.04701	40.74883	416 Central Ave	Jersey City	07307	NJ	['416 Central Ave', 'Jersey City, NJ 07307']	$	3.5	99
+899	Dumpling D’Or	-73.9393073	40.7509344	25-15 Queens Plz N	Long Island City	11101	NY	['25-15 Queens Plz N', 'Fl 2', 'Long Island City, NY 11101']		3.5	40
+900	Hong Cheong Kitchen	-73.949928	40.812366	2393 Frederick Douglass B	New York	10027	NY	['2393 Frederick Douglass B', 'New York, NY 10027']		5.0	2
+901	Great Wall Chinese Food	-73.9384686	40.8508169	800 W 181st St	New York	10033	NY	['800 W 181st St', 'New York, NY 10033']	$	3.0	42
+902	Tamra Teahouse	-73.932873	40.675003	1524 Bergen St	Brooklyn	11213	NY	['1524 Bergen St', 'Brooklyn, NY 11213']	$$	4.5	96
+903	King House	-73.85612	40.75122	10870 Roosevelt Ave	Corona	11368	NY	['10870 Roosevelt Ave', 'Corona, NY 11368']	$	3.0	3
+904	Red Star	-73.9381714	40.8224602	2529 Adam Clayton Powell	New York	10039	NY	['2529 Adam Clayton Powell', 'New York, NY 10039']	$	2.5	16
+905	Tofubox	-73.9468	40.71125	632 Grand St	Brooklyn	11211	NY	['632 Grand St', 'Brooklyn, NY 11211']		5.0	74
+906	The New People Kitchen	-73.94111	40.68016	1505 Fulton St	Brooklyn	11216	NY	['1505 Fulton St', 'Brooklyn, NY 11216']	$	3.5	17
+907	Beijing Chinese & Japanese Food	-73.9090576171875	40.7071113586426	551 Woodward Ave	Ridgewood	11385	NY	['551 Woodward Ave', 'Ridgewood, NY 11385']		3.5	25
+908	China One	-73.873277	40.878592	334 E Gun Hill Rd	Bronx	10467	NY	['334 E Gun Hill Rd', 'Bronx, NY 10467']		4.0	4
+909	Chinese Fast Wok - Eat In & Take Out	-73.995704	40.744525	230 7th Ave	New York	10011	NY	['230 7th Ave', 'New York, NY 10011']	$	2.5	64
+910	Ugly Kitchen	-73.9862178981476	40.7266856651479	103 1st Ave	New York	10003	NY	['103 1st Ave', 'New York, NY 10003']	$$	4.0	610
+911	Quality Chef Chinese Restaurant	-73.824882	40.829662	3573 E Tremont Ave	Bronx	10465	NY	['3573 E Tremont Ave', 'Bronx, NY 10465']	$	2.5	13
+912	Ozi Dumplings	-73.933159	40.70381	19 Bogart St	Brooklyn	11206	NY	['19 Bogart St', 'Brooklyn, NY 11206']	$$	4.0	124
+913	Empire Garden	-73.9621864229434	40.7985736262374	911 Columbus Ave	New York	10025	NY	['911 Columbus Ave', 'New York, NY 10025']	$	2.0	33
+914	Mr Chan's Restaurant	-73.92576	40.65232	5422 Church Ave	Brooklyn	11203	NY	['5422 Church Ave', 'Brooklyn, NY 11203']		4.0	1
+915	New Sunny Wok Chinese Restaurant	-74.04298	40.75914	810 Summit Ave	Union City	07087	NJ	['810 Summit Ave', 'Union City, NJ 07087']	$	3.5	8
+916	New Natural Chinese Restaurant	-73.9303283691406	40.6702613830566	1448 Saint Johns Pl	Brooklyn	11213	NY	['1448 Saint Johns Pl', 'Brooklyn, NY 11213']		4.0	1
+917	Cha Chan Tang 茶餐廳	-73.99896	40.7153	45 Mott St	New York	10013	NY	['45 Mott St', 'New York, NY 10013']	$	3.0	1016
+918	New Peking Restaurant	-73.96057	40.66123	1137 Washington Ave	Brooklyn	11225	NY	['1137 Washington Ave', 'Brooklyn, NY 11225']	$	3.0	22
+919	Peking Kitchen	-73.96012	40.68874	344 Classon Ave	Brooklyn	11238	NY	['344 Classon Ave', 'Brooklyn, NY 11238']	$	3.0	9
+920	Bo Ky Restaurant	-73.99867	40.71579	80 Bayard St	New York	10013	NY	['80 Bayard St', 'New York, NY 10013']	$	3.5	721
+921	Mei Mei Restaurant	-73.8916917516366	40.8699376483647	2833 Grand Concourse	Bronx	10468	NY	['2833 Grand Concourse', 'Bronx, NY 10468']	$	3.5	49
+922	Golden Harbor	-73.8738655	40.7221665	8216 63rd Ave	Middle Village	11379	NY	['8216 63rd Ave', 'Middle Village, NY 11379']	$$	3.0	38
+923	Donburiya	-73.98326	40.76528	253 W 55th St	New York	10019	NY	['253 W 55th St', 'New York, NY 10019']	$$	4.0	320
+924	Long River	-74.01701	40.63888	6104 5th Ave	Brooklyn	11220	NY	['6104 5th Ave', 'Brooklyn, NY 11220']	$	4.0	9
+925	Hometown Hotpot & BBQ	-73.99689	40.71931	194 Grand St	New York	10013	NY	['194 Grand St', 'New York, NY 10013']	$$	4.0	1178
+926	Island Garden Chinese Restaurant	-74.063476	40.610015	1372 Bay St	Staten Island	10305	NY	['1372 Bay St', 'Staten Island, NY 10305']	$	3.0	15
+927	Mon Hing Chinese Kitchen	-73.93987	40.66285	497 Albany Ave	Brooklyn	11203	NY	['497 Albany Ave', 'Brooklyn, NY 11203']		3.0	1
+928	Veggie Lin Garden	-73.9124395	40.7557407	4814 Broadway	Astoria	11103	NY	['4814 Broadway', 'Astoria, NY 11103']		4.0	4
+929	Charm Kao	-73.9863216751898	40.6892229764259	193 Schermerhorn St	Brooklyn	11201	NY	['193 Schermerhorn St', 'Brooklyn, NY 11201']	$$	4.0	46
+930	China Wok	-73.91841	40.6155	5813 Avenue T	Brooklyn	11234	NY	['5813 Avenue T', 'Brooklyn, NY 11234']	$	3.5	7
+931	Golden Rich	-73.99786	40.64651	4001 8th Ave	Brooklyn	11232	NY	['4001 8th Ave', 'Brooklyn, NY 11232']	$$	4.0	90
+932	China Sea	-73.92718	40.86477	200 Dyckman St	Manhattan	10040	NY	['200 Dyckman St', 'Manhattan, NY 10040']	$	2.5	16
+933	Mama’s Kitchen 老地方	-73.8827377181548	40.7415872384194	82-02 45th Ave	Elmhurst	11373	NY	['82-02 45th Ave', 'Elmhurst, NY 11373']		4.5	6
+934	First Wok	-74.04002	40.7727099	2608 Paterson Plank Rd	North Bergen	07047	NJ	['2608 Paterson Plank Rd', 'North Bergen, NJ 07047']	$	3.0	34
+935	Ocean Restaurant	-73.94356	40.81086	393 Malcolm X Blvd	New York	10027	NY	['393 Malcolm X Blvd', 'New York, NY 10027']	$$	2.5	18
+936	Emperor House	-74.11467	40.62925	767 Forest Ave	Staten Island	10310	NY	['767 Forest Ave', 'Staten Island, NY 10310']	$$$	4.0	19
+937	BoCaphe	-73.997557	40.722046	222 Lafayette St	New York	10012	NY	['222 Lafayette St', 'New York, NY 10012']	$$	4.0	1367
+938	Grace Chinese Food II	-73.94286	40.70615	136 Graham Ave	Brooklyn	11206	NY	['136 Graham Ave', 'Brooklyn, NY 11206']	$	3.5	16
+939	China City	-73.94664	40.69579	903 Myrtle Ave	Brooklyn	11206	NY	['903 Myrtle Ave', 'Brooklyn, NY 11206']	$	2.5	21
+940	Asia Harbor	-73.9763473	40.643948	402 Church Ave	Kensington	11218	NY	['402 Church Ave', 'Kensington, NY 11218']	$$	4.0	82
+941	China Pavilion	-73.84374	40.8563	2102 Eastchester Rd	Bronx	10461	NY	['2102 Eastchester Rd', 'Bronx, NY 10461']	$	4.0	30
+942	Mr Kam Restaurant	-73.9158039693715	40.6194783302756	6342 Veterans Ave	Brooklyn	11234	NY	['6342 Veterans Ave', 'Brooklyn, NY 11234']	$	3.0	23
+943	New Grand China Kitchen	-73.893997	40.72645	6942 Grand Ave	Maspeth	11378	NY	['6942 Grand Ave', 'Maspeth, NY 11378']	$	3.5	8
+944	Taste Kitchen	-73.99342	40.75374	316 W 36th St	New York	10018	NY	['316 W 36th St', 'New York, NY 10018']	$$	3.5	41
+945	Number One Great Wall	-73.9066217	40.6680863	446 Mother Gaston Blvd	Brooklyn	11212	NY	['446 Mother Gaston Blvd', 'Brooklyn, NY 11212']	$	3.0	6
+946	Number 1 Chinese Restaurant	-73.87842	40.87305	301 E 204th St	Bronx	10467	NY	['301 E 204th St', 'Bronx, NY 10467']	$	4.0	7
+947	Super Kew Garden	-73.832256	40.7157	11649 Queens Blvd	Forest Hills	11375	NY	['11649 Queens Blvd', 'Forest Hills, NY 11375']	$	3.5	48
+948	Nora Thai	-73.95625	40.71864	176 N 9th St	Brooklyn	11211	NY	['176 N 9th St', 'Brooklyn, NY 11211']	$$	4.0	43
+949	New Golden Chopstick Chinese Restaurant	-74.01049	40.70404	77 Pearl St	New York	10004	NY	['77 Pearl St', 'New York, NY 10004']	$	3.0	36
+950	China Wang	-73.910505	40.874602	109 W 225th St	Bronx	10463	NY	['109 W 225th St', 'Bronx, NY 10463']	$$	3.5	10
+951	Hing Hung Kitchen	-73.94981	40.67583	619 Nostrand Ave	Brooklyn	11216	NY	['619 Nostrand Ave', 'Brooklyn, NY 11216']	$	3.0	11
+952	China Fun	-74.0930023	40.7111223	226 W Side Ave	Jersey City	07305	NJ	['226 W Side Ave', 'Jersey City, NJ 07305']	$	3.0	10
+953	Golden Palace	-74.006646797061	40.6099450232105	1619 86th St	Brooklyn	11214	NY	['1619 86th St', 'Brooklyn, NY 11214']	$$	3.0	72
+954	Good Taste Chinese Restaurant	-73.9033050537109	40.8118019104004	863 E 149th St	Bronx	10455	NY	['863 E 149th St', 'Bronx, NY 10455']		2.5	3
+955	Hudson Hutong	-74.018361574	40.7082510651	21 South End Ave	New York	10280	NY	['21 South End Ave', 'New York, NY 10280']		5.0	1
+956	Happy Garden Chinese Restaurant	-73.9430299	40.70529	103 Graham Ave	Brooklyn	11206	NY	['103 Graham Ave', 'Brooklyn, NY 11206']	$	3.0	8
+957	99 Favor Taste	-74.114185	40.572994	201 New Dorp Ln	Staten Island	10306	NY	['201 New Dorp Ln', 'Staten Island, NY 10306']	$$	4.5	37
+958	Tung Tung Restaurant	-73.99075	40.61893	6512 18th Ave	Brooklyn	11204	NY	['6512 18th Ave', 'Brooklyn, NY 11204']		3.0	32
+959	Long Hing Kitchen	-73.836169	40.682126	10422 Liberty Ave	Ozone Park	11417	NY	['10422 Liberty Ave', 'Ozone Park, NY 11417']	$	3.0	14
+960	White Bear	-73.83163	40.758783	135-02 Roosevelt Ave	Flushing	11354	NY	['135-02 Roosevelt Ave', 'Ste 5', 'Flushing, NY 11354']	$	4.0	928
+961	Foliage Garden	-74.00865	40.7858	6014 Park Ave	West New York	07093	NJ	['6014 Park Ave', 'West New York, NJ 07093']	$	3.5	50
+962	New King's Wok	-74.006386	40.604237	1761 Bath Ave	Brooklyn	11214	NY	['1761 Bath Ave', 'Brooklyn, NY 11214']	$	5.0	5
+963	Jin Guang House	-73.93091	40.69361	1086 Dekalb Ave	Brooklyn	11221	NY	['1086 Dekalb Ave', 'Brooklyn, NY 11221']	$	3.5	12
+964	Sweet Yummy House	-73.87938	40.74095	83-13 Broadway	Elmhurst	11373	NY	['83-13 Broadway', 'Elmhurst, NY 11373']	$$	3.5	70
+965	Hong Kong Kei One	-74.1503651	40.5376089	4207 Hylan Blvd	Staten Island	10308	NY	['4207 Hylan Blvd', 'Staten Island, NY 10308']	$	4.5	59
+966	New King Garden	-74.0102157744411	40.6179021577721	7901 13th Ave	Brooklyn	11228	NY	['7901 13th Ave', 'Brooklyn, NY 11228']	$$	4.0	12
+967	7 Days Restaurant	-74.075980490841	40.6339041085454	364 Bay St	Staten Island	10301	NY	['364 Bay St', 'Ste D', 'Staten Island, NY 10301']	$	3.0	18
+968	Deluxe Green Bo	-73.9981645926656	40.715540215765	66 Bayard St	New York	10013	NY	['66 Bayard St', 'New York, NY 10013']	$	3.5	617
+969	Brothers Restaurant	-73.91692	40.82868	993 Morris Ave	Bronx	10456	NY	['993 Morris Ave', 'Bronx, NY 10456']		4.0	2
+970	624 Kam Hai Chinese	-73.97378	40.64753	624 Caton Ave	Brooklyn	11218	NY	['624 Caton Ave', 'Brooklyn, NY 11218']	$	2.5	46
+971	Lili Chinese Restaurants	-73.88375	40.73313	8306 Grand Ave	Elmhurst	11373	NY	['8306 Grand Ave', 'Elmhurst, NY 11373']	$	3.0	12
+972	Shanghai Zhen Gong Fu 上海真功夫	-73.87735	40.73599	86-16 Queens Blvd	Elmhurst	11373	NY	['86-16 Queens Blvd', 'Elmhurst, NY 11373']	$$	4.0	132
+973	Six Happiness	-73.97408	40.7475499	711 2nd Ave	New York	10016	NY	['711 2nd Ave', 'New York, NY 10016']	$	2.5	113
+974	Golden Panda	-73.8903538239955	40.678014390681	2824 Fulton St	Cypress Hills	11207	NY	['2824 Fulton St', 'Cypress Hills, NY 11207']	$	3.0	2
+975	King's Wok Kitchen	-73.9362669759561	40.6702712127592	261 Troy Ave	Brooklyn	11213	NY	['261 Troy Ave', 'Brooklyn, NY 11213']	$$	4.5	3
+976	Linda Asian Kitchen	-73.940589	40.692363	882 Dekalb Ave	Brooklyn	11221	NY	['882 Dekalb Ave', 'Brooklyn, NY 11221']		3.0	23
+977	Wah Yoan Chinese Kitchen	-73.82717	40.83134	3486 E Tremont Ave	Bronx	10465	NY	['3486 E Tremont Ave', 'Bronx, NY 10465']	$	4.5	8
+978	Chopsticks	-73.8256182	40.6857552	11716 Liberty Ave	South Richmond Hill	11419	NY	['11716 Liberty Ave', 'South Richmond Hill, NY 11419']	$$	3.5	57
+979	China Experience	-73.9367712289095	40.6685301661491	302 Troy Ave	Brooklyn	11213	NY	['302 Troy Ave', 'Brooklyn, NY 11213']		5.0	1
+980	Hungry?	-73.952406	40.7253533	77 Norman Ave	Brooklyn	11222	NY	['77 Norman Ave', 'Store 1', 'Brooklyn, NY 11222']	$$	4.0	106
+981	Lee Panda	-73.90103	40.71531	60-63 Fresh Pond Rd	Maspeth	11378	NY	['60-63 Fresh Pond Rd', 'Maspeth, NY 11378']		2.5	6
+982	New Ruan's Restaurant	-73.999018	40.605279	1955 86th St	Brooklyn	11214	NY	['1955 86th St', 'Brooklyn, NY 11214']	$$	3.5	103
+983	Chengdu1	-74.039612951068	40.7323552298113	166 15th St	Jersey City	07310	NJ	['166 15th St', 'Jersey City, NJ 07310']	$$	3.5	78
+984	China Xing Restaurant	-73.994064	40.640064	4419 New Utrecht Ave	Brooklyn	11219	NY	['4419 New Utrecht Ave', 'Brooklyn, NY 11219']	$	3.5	3
+985	West Place	-73.957693	40.8116735	1288 Amsterdam Ave	New York	10027	NY	['1288 Amsterdam Ave', 'New York, NY 10027']	$	3.0	56
+986	Lin's Gourmet	-73.965187	40.759891	1097 2nd Ave	New York	10022	NY	['1097 2nd Ave', 'New York, NY 10022']	$	3.5	62
+987	New Yoan Fong Chinese Su	-74.091621	40.69844	6 Rose Ave	Jersey City	07305	NJ	['6 Rose Ave', 'Ste A', 'Jersey City, NJ 07305']	$	4.5	5
+988	Hot Spot Nabe	-73.9946	40.61515	7204 18th Ave	Brooklyn	11204	NY	['7204 18th Ave', 'Brooklyn, NY 11204']	$$$	3.5	88
+989	Number One Chinese Restaurant	-74.00513	40.78975	6514 Park Ave	West New York	07093	NJ	['6514 Park Ave', 'West New York, NJ 07093']	$	4.0	18
+990	Guh Song Chinese Restaurant	-73.76903	40.75899	45-46 Bell Blvd	Bayside	11361	NY	['45-46 Bell Blvd', 'Bayside, NY 11361']	$$	4.0	176
+991	Red Sun Chinese Restaurant	-73.9898376	40.6130486	7108 20th Ave	Bensonhurst	11204	NY	['7108 20th Ave', 'Bensonhurst, NY 11204']		4.5	6
+992	Liuyishou Hotpot	-73.8276729	40.7607682	136-76 39th Ave	Flushing	11354	NY	['136-76 39th Ave', 'Flushing, NY 11354']		4.0	203
+993	iRestaurant	-74.00953	40.63572	5922 8th Ave	Brooklyn	11220	NY	['5922 8th Ave', 'Brooklyn, NY 11220']		5.0	2
+994	Hua Ji Pork Chop Fast Food	-73.99307	40.71481	7 Allen St	New York	10002	NY	['7 Allen St', 'New York, NY 10002']	$	4.0	73
+995	The Market	-73.9604237030468	40.6887759766071	372 Lafayette Ave	Clinton Hill	11238	NY	['372 Lafayette Ave', 'Clinton Hill, NY 11238']	$$	4.0	133
+996	King's Chef Chinese Restaurant	-73.809207604069	40.7876885412263	15327 Cross Island Pkwy	Whitestone	11357	NY	['15327 Cross Island Pkwy', 'Whitestone, NY 11357']	$$	3.5	44
+997	Dragon Yuan	-73.92282	40.8168999	526 Morris Ave	Bronx	10451	NY	['526 Morris Ave', 'Bronx, NY 10451']		2.5	2
+998	Golden Palace Chinese Restaurant	-73.84817	40.82097	682 Castle Hill Ave	Bronx	10473	NY	['682 Castle Hill Ave', 'Bronx, NY 10473']	$$	3.5	13
+999	Lee's Chinese Restaurant	-74.0468573	40.7543291	1151 Summit Ave	Jersey City	07307	NJ	['1151 Summit Ave', 'Jersey City, NJ 07307']	$	3.5	19
