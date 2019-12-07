@@ -1,0 +1,1001 @@
+	name	Longitude	Latitude	address1	city	zip_code	state	display_address	price	rating	review_count
+0	Nowon	-73.98334	40.72532	507 East 6th St	New York	10009	NY	['507 East 6th St', 'New York, NY 10009']		4.5	11
+1	Woorijip	-73.98648	40.74747	12 W 32nd St	New York	10001	NY	['12 W 32nd St', 'New York, NY 10001']	$	4.0	2601
+2	Barn Joo 35	-73.98582	40.74964	34 W 35th St	New York	10001	NY	['34 W 35th St', 'New York, NY 10001']	$$	4.5	1841
+3	Zusik	-74.00029	40.73864	202 W14th St	New York	10011	NY	['202 W14th St', 'New York, NY 10011']	$$	4.5	124
+4	Chingoo Restaurant	-73.944733	40.715796	373 Graham Ave	Brooklyn	11211	NY	['373 Graham Ave', 'Brooklyn, NY 11211']		4.5	9
+5	Barn Joo	-73.99069	40.73684	35 Union Sq W	New York	10003	NY	['35 Union Sq W', 'New York, NY 10003']	$$	4.0	1561
+6	SSAM	-73.991274	40.68594	170 Smith St	Brooklyn	11201	NY	['170 Smith St', 'Brooklyn, NY 11201']	$$	3.5	391
+7	Cho Dang Gol Korean Restaurant	-73.986198425293	40.7502365112305	55 W 35th St	New York	10001	NY	['55 W 35th St', 'New York, NY 10001']	$$	4.0	1052
+8	K'OOK	-73.98738	40.72682	324 E 6th St	New York	10003	NY	['324 E 6th St', 'New York, NY 10003']	$$	4.0	417
+9	Tofu Tofu	-73.9954301342368	40.7176299520983	96 Bowery	New York	10013	NY	['96 Bowery', 'New York, NY 10013']	$$	4.5	305
+10	JUA	-73.987832	40.739694	36 E 22nd St	New York	10010	NY	['36 E 22nd St', 'New York, NY 10010']		5.0	1
+11	Grand Seoul	-73.99435	40.7175	85 Chrystie St	New York	10002	NY	['85 Chrystie St', 'New York, NY 10002']	$$$	4.0	125
+12	Haenyeo	-73.98116	40.67519	239 5th Ave	Brooklyn	11215	NY	['239 5th Ave', 'Brooklyn, NY 11215']		4.0	98
+13	Five Senses	-73.9863122632311	40.747573158626	9 W 32nd St	New York	10001	NY	['9 W 32nd St', 'New York, NY 10001']	$$	4.0	1369
+14	GunBae	-74.010223	40.714683	67 Murray St	New York	10007	NY	['67 Murray St', 'New York, NY 10007']	$$	4.0	260
+15	Jongro BBQ	-73.986884	40.747514	22 W 32nd St	New York	10001	NY	['22 W 32nd St', 'Fl 2', 'New York, NY 10001']	$$	4.0	1849
+16	Thursday Kitchen	-73.9838	40.7275	424 E 9th St	New York	10009	NY	['424 E 9th St', 'New York, NY 10009']	$$	4.5	1275
+17	Yoon Haeundae Galbi	-73.98442	40.74997	8 W 36th St	New York	10018	NY	['8 W 36th St', 'New York, NY 10018']	$$$	4.5	349
+18	Sik Gaek	-73.9148356	40.743485	49-11 Roosevelt Ave	Woodside	11377	NY	['49-11 Roosevelt Ave', 'Woodside, NY 11377']	$$	4.0	560
+19	The Jin	-73.98874	40.76857	856 10th Ave	New York	10019	NY	['856 10th Ave', 'New York, NY 10019']	$$	4.5	197
+20	BCD Tofu House	-73.9862447208321	40.747503631444	5W 32nd St	New York	10001	NY	['5W 32nd St', 'New York, NY 10001']	$$	4.0	1970
+21	JeJu Noodle Bar	-74.00734	40.73304	679 Greenwich St	New York	10014	NY	['679 Greenwich St', 'New York, NY 10014']	$$	4.5	491
+22	Oiji	-73.98585	40.72727	119 1st Ave	New York	10003	NY	['119 1st Ave', 'New York, NY 10003']	$$$	4.5	496
+23	Itaewon	-73.9867554408843	40.7475125111924	28 W 32nd St	New York	10001	NY	['28 W 32nd St', 'Fl 2', 'New York, NY 10001']	$$	4.5	93
+24	Her Name Is Han	-73.98473	40.74626	17 E 31st St	New York	10016	NY	['17 E 31st St', 'New York, NY 10016']	$$	4.0	1149
+25	KAL	-73.91859	40.76584	34-05 30th Ave	Astoria	11103	NY	['34-05 30th Ave', 'Astoria, NY 11103']	$$	4.5	133
+26	HANKI Everyday Korean	-73.978986851871	40.6702019428734	226 7th Ave	Brooklyn	11215	NY	['226 7th Ave', 'Brooklyn, NY 11215']	$$	4.0	100
+27	Anytime	-73.98674	40.74779	23 W 32nd St	New York	10001	NY	['23 W 32nd St', 'Fl 3', 'New York, NY 10001']	$$	4.5	1071
+28	Dotory	-73.9556983116741	40.7077639892315	353 Broadway	Brooklyn	11211	NY	['353 Broadway', 'Brooklyn, NY 11211']	$$	4.0	168
+29	Silver Factory	-73.958598	40.709227	270 South 5th St	Brooklyn	11211	NY	['270 South 5th St', 'Brooklyn, NY 11211']	$$	4.5	178
+30	Tiger Box	-73.972758	40.6963379	169 Park Ave	Brooklyn	11205	NY	['169 Park Ave', 'Brooklyn, NY 11205']	$	4.5	55
+31	Kochi	-73.99351	40.76201	652 10th Ave	New York	10036	NY	['652 10th Ave', 'New York, NY 10036']		5.0	13
+32	Bap	-73.97802	40.74618	516A 3rd Ave	New York	10016	NY	['516A 3rd Ave', 'New York, NY 10016']	$$	4.5	117
+33	Hahm Ji Bach	-73.814917	40.763106	40-11 149th Pl	Flushing	11354	NY	['40-11 149th Pl', 'Flushing, NY 11354']	$$	4.0	1115
+34	99 Favor Taste	-74.114185	40.572994	201 New Dorp Ln	Staten Island	10306	NY	['201 New Dorp Ln', 'Staten Island, NY 10306']	$$	4.5	45
+35	Kimbap Lab	-73.95974	40.71611	238 Bedford Ave	Brooklyn	11249	NY	['238 Bedford Ave', 'Brooklyn, NY 11249']	$$	5.0	35
+36	Hee Korean BBQ Grill	-73.9912872	40.7454185	793 6th Ave	New York	10001	NY	['793 6th Ave', 'New York, NY 10001']	$$	4.0	303
+37	Jungsik	-74.0088844299316	40.7185910158738	2 Harrison St	New York	10013	NY	['2 Harrison St', 'New York, NY 10013']	$$$$	4.5	573
+38	Mokja	-73.9492703	40.7774361	1663 1st Ave	New York	10028	NY	['1663 1st Ave', 'New York, NY 10028']	$$	4.0	122
+39	Slow Loris	-73.9607934	40.6601311	556 Flatbush Ave	Brooklyn	11225	NY	['556 Flatbush Ave', 'Brooklyn, NY 11225']	$$	4.0	79
+40	Bangia	-73.9845201	40.746854	11 E 32nd St	New York	10016	NY	['11 E 32nd St', 'New York, NY 10016']	$$	4.0	352
+41	Take31	-73.984809	40.7463	15 E 31st St	New York	10016	NY	['15 E 31st St', 'New York, NY 10016']	$$	4.0	570
+42	Ejen Korean Comfort Food	-74.0082717	40.6564113	254 36th St	Brooklyn	11232	NY	['254 36th St', 'Brooklyn, NY 11232']	$$	4.5	40
+43	The Woo	-74.00371	40.7253	206 Spring St	New York	10012	NY	['206 Spring St', 'New York, NY 10012']		4.0	64
+44	K-Bap	-73.97717	40.76332	62 W 56th St	New York	10019	NY	['62 W 56th St', 'New York, NY 10019']	$$	4.0	357
+45	Bulbap Grill	-73.9509099	40.7243	646 Manhattan Ave	Brooklyn	11222	NY	['646 Manhattan Ave', 'Brooklyn, NY 11222']	$$	4.5	125
+46	Kang Ho Dong Baekjeong	-73.9852144232788	40.747173576622	1 E 32nd St	New York	10016	NY	['1 E 32nd St', 'New York, NY 10016']	$$$	4.0	1212
+47	Dubu Maru	-73.98735	40.74769	34 W 32nd St	New York	10001	NY	['34 W 32nd St', 'Fl 2', 'New York, NY 10001']	$$	4.5	131
+48	Dae Sung Kal Guk Su	-73.80484	40.75616	45-04 162nd St	Flushing	11358	NY	['45-04 162nd St', 'Flushing, NY 11358']	$$	4.5	273
+49	KICHIN	-73.92674	40.697783	1264 Myrtle Ave	Brooklyn	11221	NY	['1264 Myrtle Ave', 'Brooklyn, NY 11221']		4.5	32
+50	Doma	-73.922957	40.7446884	43-43 41st St	Sunnyside	11104	NY	['43-43 41st St', 'Sunnyside, NY 11104']	$$	4.0	177
+51	Taste Korea 232	-73.959718469777	40.691081049956	232 Taaffe Pl	Brooklyn	11205	NY	['232 Taaffe Pl', 'Brooklyn, NY 11205']	$$	3.5	190
+52	Mokja	-73.9214469280272	40.7602569466645	3519 Broadway	Astoria	11106	NY	['3519 Broadway', 'Astoria, NY 11106']	$$	3.5	255
+53	Kimchi Grill	-73.9634982	40.6750885	766 Washington Ave	Brooklyn	11238	NY	['766 Washington Ave', 'Brooklyn, NY 11238']	$$	4.0	560
+54	Boka	-73.989104	40.729519	9 St Marks Pl	New York	10003	NY	['9 St Marks Pl', 'New York, NY 10003']	$$	3.5	1504
+55	Hong Chun Cheon	-73.986192	40.74721	2 W 32nd St	New York	10001	NY	['2 W 32nd St', 'Fl 2', 'New York, NY 10001']	$$	3.0	33
+56	Let's Meat	-73.985524	40.746774	307 5th Ave	New York	10016	NY	['307 5th Ave', 'New York, NY 10016']	$$$	4.0	900
+57	Korean Tofu House	-74.01069	40.63536	763 61st St	Brooklyn	11220	NY	['763 61st St', 'Brooklyn, NY 11220']	$$	3.5	84
+58	Danji	-73.98686	40.764	346 W 52nd St	New York	10019	NY	['346 W 52nd St', 'New York, NY 10019']	$$	4.0	991
+59	Kini	-73.9196942	40.7541609	42-27 35th Ave	Long Island City	11101	NY	['42-27 35th Ave', 'Long Island City, NY 11101']	$$	3.5	101
+60	Samwon Garden Korean BBQ	-73.9872	40.74811	37 W 32nd St	New York	10001	NY	['37 W 32nd St', 'New York, NY 10001']	$$$	4.0	420
+61	Ms Yoo	-73.98978	40.72121	163 Allen St	New York	10002	NY	['163 Allen St', 'New York, NY 10002']	$$$	4.0	114
+62	Little Dokebi	-73.942335	40.723048	85 Driggs Ave	Brooklyn	11222	NY	['85 Driggs Ave', 'Brooklyn, NY 11222']	$$	4.0	119
+63	Windrose	-74.00392	40.72933	39 Downing St	New York	10014	NY	['39 Downing St', 'New York, NY 10014']		4.5	80
+64	ON	-73.98513	40.74502	110 Madison Ave	New York	10016	NY	['110 Madison Ave', '1FL', 'New York, NY 10016']		4.5	99
+65	GoGo-Gi	-73.94171	40.83794	3908 Broadway	New York	10032	NY	['3908 Broadway', 'New York, NY 10032']	$$	4.0	181
+66	Korean Express	-73.96654	40.76423	807 Lexington Ave	New York	10065	NY	['807 Lexington Ave', 'New York, NY 10065']	$$	3.5	288
+67	Soju Haus	-73.9851724	40.7468603	315 5th Ave	New York	10016	NY	['315 5th Ave', 'Fl 2', 'New York, NY 10016']	$$	4.0	540
+68	Dokebi Bar & Grill	-73.9603	40.71421	199 Grand St	Brooklyn	11211	NY	['199 Grand St', 'Brooklyn, NY 11211']	$$	3.5	370
+69	Mokja	-73.9678908884525	40.797744938993	852 Amsterdam	New York	10025	NY	['852 Amsterdam', 'New York, NY 10025']	$$	4.0	138
+70	Mad For Chicken Williamsburg	-73.94751	40.71142	617 Grand St	Brooklyn	11211	NY	['617 Grand St', 'Brooklyn, NY 11211']	$$	4.5	90
+71	Nostrand Cafe	-73.951142	40.68978	261 Nostrand Ave	Bedford-Stuyvesant	11216	NY	['261 Nostrand Ave', 'Bedford-Stuyvesant, NY 11216']	$$	4.5	103
+72	The Basac	-73.807005	40.7634087	158-09 Northern Blvd	Flushing	11358	NY	['158-09 Northern Blvd', 'Flushing, NY 11358']	$$	4.0	187
+73	GOGI 37	-73.9914546	40.7535849	252 West 37th St	New York	10018	NY	['252 West 37th St', 'Ste A', 'New York, NY 10018']	$$	3.5	292
+74	Mill Korean	-73.9656521669528	40.8060225608803	2895 Broadway	New York	10025	NY	['2895 Broadway', 'New York, NY 10025']	$$	3.0	314
+75	Korilla BBQ	-73.9858423383398	40.6935414945595	2 MetroTech Ctr	Brooklyn	11201	NY	['2 MetroTech Ctr', 'Metrotech Campus', 'Brooklyn, NY 11201']	$$	4.0	68
+76	Bann Restaurant	-73.9878592313522	40.7628273031386	350 W 50th St	New York	10019	NY	['350 W 50th St', 'New York, NY 10019']	$$	3.5	617
+77	Atomix	-73.98286	40.74421	104 E 30th St	New York	10016	NY	['104 E 30th St', 'New York, NY 10016']	$$$$	4.5	62
+78	Kim Chee Korean Restaurant	-74.033546	40.618129	9324 3rd Ave	Brooklyn	11209	NY	['9324 3rd Ave', 'Brooklyn, NY 11209']	$$	3.5	198
+79	Mokbar Brooklyn	-73.9756774902344	40.6811485290527	212 Flatbush Ave	Brooklyn	11217	NY	['212 Flatbush Ave', 'Brooklyn, NY 11217']	$$	3.5	136
+80	Insa	-73.9825174981801	40.6795562014419	328 Douglass St	Brooklyn	11217	NY	['328 Douglass St', 'Brooklyn, NY 11217']	$$$	3.5	246
+81	Woori Korean Restaurant	-73.99173	40.68506	196 Smith St	New York	11201	NY	['196 Smith St', 'New York, NY 11201']		5.0	8
+82	Miss KOREA BBQ	-73.986336	40.747452	10 W 32nd St	New York	10001	NY	['10 W 32nd St', '1st, 2nd & Fl 3', 'New York, NY 10001']	$$	3.5	1665
+83	Dons Bogam Black	-73.9866652214984	40.7458773458956	276 5th Ave	New York	10001	NY	['276 5th Ave', 'New York, NY 10001']	$$$	4.0	97
+84	HYUN	-73.98444	40.7474	10 E 33rd St	New York	10016	NY	['10 E 33rd St', 'New York, NY 10016']		4.0	87
+85	Kimganae	-73.8269221	40.7608325	3912 Union St	Flushing	11354	NY	['3912 Union St', 'Flushing, NY 11354']	$$	4.0	719
+86	Tang Restaurant	-73.78383	40.75744	196-50 Northern Blvd	Flushing	11358	NY	['196-50 Northern Blvd', 'Flushing, NY 11358']	$$	4.0	589
+87	Koko Wings	-73.96734	40.80096	248 W 106th St	New York	10025	NY	['248 W 106th St', 'New York, NY 10025']	$$	4.0	307
+88	Hwaban	-73.99385	40.74024	55 W 19th St	New York	10011	NY	['55 W 19th St', 'New York, NY 10011']		4.5	112
+89	Bliss Bowl	-74.010995	40.715135	275 Greenwich St	New York	10007	NY	['275 Greenwich St', 'New York, NY 10007']	$$	3.0	49
+90	Gossip House	-73.8175190780554	40.765195445126	147-46 Northern Blvd	Flushing	11354	NY	['147-46 Northern Blvd', 'Flushing, NY 11354']	$$	5.0	126
+91	Yupdduk Flushing	-73.8082498239232	40.7637210499282	157-22 Northern Blvd	Flushing	11354	NY	['157-22 Northern Blvd', 'Flushing, NY 11354']	$$	4.0	283
+92	Hae Woon Dae	-73.889588	40.745693	7532 Broadway	Elmhurst	11373	NY	['7532 Broadway', 'Elmhurst, NY 11373']	$$	3.5	163
+93	New Wonjo Restaurant	-73.98665	40.74788	23 W 32nd St	New York	10001	NY	['23 W 32nd St', 'New York, NY 10001']	$$	3.5	1312
+94	Hanbat Restaurant	-73.9863	40.75015	53 W 35th St	New York	10001	NY	['53 W 35th St', 'New York, NY 10001']	$$	3.5	488
+95	Purple Rice Korean Kitchen	-73.99466	40.74964	263 W 30th St	New York	10001	NY	['263 W 30th St', 'New York, NY 10001']	$$	4.0	184
+96	E-Mo	-73.9861907958984	40.7471961975098	2 W 32nd St	New York	10001	NY	['2 W 32nd St', 'New York, NY 10001']	$	4.0	369
+97	Takashi	-74.0065048	40.7313524	456 Hudson St	New York	10014	NY	['456 Hudson St', 'New York, NY 10014']	$$$	4.0	976
+98	Atoboy	-73.98456	40.74364	43 E 28th St	New York	10016	NY	['43 E 28th St', 'New York, NY 10016']	$$$	4.5	340
+99	Cote	-73.991314	40.741192	16 W 22nd St	New York	10010	NY	['16 W 22nd St', 'New York, NY 10010']	$$$	4.0	796
+100	Gogi Grill - Chelsea	-73.99556	40.73959	599 6th Ave	New York	10011	NY	['599 6th Ave', 'New York, NY 10011']	$$	4.0	80
+101	Kravings	-74.3464463	40.5353236	1199 Amboy Ave	Edison	08837	NJ	['1199 Amboy Ave', 'Edison, NJ 08837']		5.0	6
+102	White Tiger	-73.96785	40.67947	601 Vanderbilt Ave	Brooklyn	11238	NY	['601 Vanderbilt Ave', 'Brooklyn, NY 11238']	$$	4.0	161
+103	Chung Sol Bat	-74.3731826	40.5149433	558 Old Post Rd	Edison	08817	NJ	['558 Old Post Rd', 'Edison, NJ 08817']	$$	4.0	346
+104	Azumma	-74.00102	40.71897	265 Canal St	New York	10013	NY	['265 Canal St', 'New York, NY 10013']		4.0	15
+105	Gomi Korean Wine Bar	-73.9813	40.72886	186 Ave A	New York	10009	NY	['186 Ave A', 'New York, NY 10009']	$$	4.5	126
+106	The Coop	-73.8324284232789	40.7594250263413	133-42 39th Ave	Flushing	11354	NY	['133-42 39th Ave', 'Ste 103', 'Flushing, NY 11354']	$$	4.0	828
+107	Osamil	-73.9864	40.74697	5 West 31st St	New York	10001	NY	['5 West 31st St', 'New York, NY 10001']	$$	4.0	397
+108	Chung Ki Wa Restaurant	-73.891639	40.746494	4006 74th St	Jackson Heights	11373	NY	['4006 74th St', 'Jackson Heights, NY 11373']	$$	3.5	184
+109	Turntable Chicken Jazz	-73.98649	40.74828	20 W 33rd St	New York	10001	NY	['20 W 33rd St', 'New York, NY 10001']	$$	4.0	1982
+110	Gentle Perch	-73.942587	40.705106	112 Graham Ave	Brooklyn	11206	NY	['112 Graham Ave', 'Brooklyn, NY 11206']		4.0	54
+111	O2 BBQ	-74.000752	40.790165	7000 Kennedy Blvd E	Guttenberg	07093	NJ	['7000 Kennedy Blvd E', 'Guttenberg, NJ 07093']	$$	4.0	110
+112	Gammeeok	-73.986114	40.747653	9 W 32nd St	New York	10001	NY	['9 W 32nd St', 'Fl 2', 'New York, NY 10001']	$$	3.5	407
+113	Hanjan	-73.9905130318771	40.7441830642509	36 W 26th St	New York	10010	NY	['36 W 26th St', 'New York, NY 10010']	$$$	4.0	416
+114	Soogil	-73.98838	40.72551	108 E 4th St	New York	10003	NY	['108 E 4th St', 'New York, NY 10003']	$$$	4.0	100
+115	Belly	-73.9595309	40.7139161	219 Grand St	Brooklyn	11211	NY	['219 Grand St', 'Brooklyn, NY 11211']	$$	3.5	5
+116	Dons Bogam BBQ & Wine Bar	-73.98437	40.74678	17 E 32nd St	New York	10016	NY	['17 E 32nd St', 'New York, NY 10016']	$$$	4.0	986
+117	Hangawi	-73.984662	40.746737	12 E 32nd St	New York	10016	NY	['12 E 32nd St', 'New York, NY 10016']	$$$	4.0	1137
+118	Cafe At Your Mother-in-Law	-73.96325	40.57748	3071 Brighton 4th St	Brooklyn	11235	NY	['3071 Brighton 4th St', 'Brooklyn, NY 11235']	$	4.0	172
+119	New York Kimchi	-73.9792332050324	40.7577797722264	16 W 48th St	New York	10036	NY	['16 W 48th St', 'New York, NY 10036']	$$	3.5	283
+120	Kimchee Market	-73.95195	40.73063	191 Greenpoint Ave	Greenpoint	11222	NY	['191 Greenpoint Ave', 'Greenpoint, NY 11222']	$	4.0	45
+121	KPOT Korean BBQ & Hot Pot	-74.0529	40.71834	414 Grand St	Jersey City	07302	NJ	['414 Grand St', 'Jersey City, NJ 07302']	$$	3.5	75
+122	We Rub You	-73.9690617	40.697886	141 Flushing Ave Bldg 77	Brooklyn	11205	NY	['141 Flushing Ave Bldg 77', 'Ste 106', 'Brooklyn Flea - Smorgasburg', 'Brooklyn, NY 11205']	$$$	5.0	4
+123	Bowllin'	-73.99515	40.73063	27 Waverly Pl	New York	10003	NY	['27 Waverly Pl', 'New York, NY 10003']	$$	3.5	105
+124	Bunsmith	-73.9572525024414	40.6718444824219	789 Franklin Ave	Brooklyn	11238	NY	['789 Franklin Ave', 'Brooklyn, NY 11238']	$$	4.0	246
+125	Gopchang Story BBQ	-73.98583	40.74701	312 5th Ave	New York	10001	NY	['312 5th Ave', 'Fl 2', 'New York, NY 10001']	$$	4.0	337
+126	Geo Si Gi	-73.81202	40.76458	152-28 Northern Blvd	Flushing	11354	NY	['152-28 Northern Blvd', 'Flushing, NY 11354']	$$	4.0	233
+127	Pelicana Chicken	-73.9176370203495	40.7425336539745	47-08 Greenpoint Ave	Sunnyside	11104	NY	['47-08 Greenpoint Ave', 'Sunnyside, NY 11104']	$$	4.0	361
+128	Kun Sohn Korean Noodle House	-73.8108625	40.7658289	35-04 154th St	Flushing	11354	NY	['35-04 154th St', 'Flushing, NY 11354']	$$	4.5	79
+129	Sodam	-73.808391	40.763658	156-50 Northern Blvd	Flushing	11354	NY	['156-50 Northern Blvd', 'Flushing, NY 11354']	$$	4.0	168
+130	Hometown Dumpling	-73.94767	40.77549	1619 York Ave	New York	10028	NY	['1619 York Ave', 'New York, NY 10028']	$$	4.5	40
+131	Bonchon - Willoughby St	-73.985846	40.692088	68 Willoughby Street	Brooklyn	11201	NY	['68 Willoughby Street', 'Brooklyn, NY 11201']	$$	3.5	94
+132	KoFoo	-73.9919281	40.7428284	67 W 23rd St	New York	10010	NY	['67 W 23rd St', 'New York, NY 10010']	$	3.5	91
+133	Kāwi	-74.0003704647111	40.7538408290715	20 Hudson Yards	New York	10001	NY	['20 Hudson Yards', 'New York, NY 10001']	$$$	4.0	146
+134	Bonchon - Flushing Northern	-73.791834629644	40.7577298851643	189-08 Northern Blvd	Queens	11358	NY	['189-08 Northern Blvd', 'Queens, NY 11358']		3.5	3
+135	Busan Gukbap	-73.9621156	40.8639436	2444 Lemoine Ave	Fort Lee	07024	NJ	['2444 Lemoine Ave', 'Fort Lee, NJ 07024']	$$	4.5	171
+136	The Cast Iron Pot 3	-73.8076273	40.763328	157-26 Northern Blvd	Flushing	11354	NY	['157-26 Northern Blvd', 'Flushing, NY 11354']	$$$	4.5	151
+137	MOKYO	-73.983878	40.727223	109 St Marks Pl	New York	10009	NY	['109 St Marks Pl', 'New York, NY 10009']		5.0	2
+138	Wing Club	-74.0046958	40.7408498	353 W 14th St	New York	10014	NY	['353 W 14th St', 'New York, NY 10014']		4.0	28
+139	Reception Bar	-73.9913564	40.7163598	45 Orchard St	New York	10002	NY	['45 Orchard St', 'New York, NY 10002']		4.0	28
+140	Parksanbal Babs	-73.804031	40.761093	41-10 162nd St	Flushing	11358	NY	['41-10 162nd St', 'Flushing, NY 11358']	$$	4.5	136
+141	Cafe Lily	-73.98356	40.61002	42 Avenue O	Brooklyn	11204	NY	['42 Avenue O', 'Brooklyn, NY 11204']	$$	4.5	48
+142	Madangsui	-73.985679	40.75003	35 W 35th St	New York	10001	NY	['35 W 35th St', 'New York, NY 10001']	$$	3.5	670
+143	MUI	-73.98646	40.74732	10 W 32nd St	New York	10001	NY	['10 W 32nd St', 'Fl 5', 'New York, NY 10001']	$$	4.0	232
+144	Gogi Grill - Hoboken	-74.0300041437149	40.7362061117704	79 Hudson St	Hoboken	07030	NJ	['79 Hudson St', 'Hoboken, NJ 07030']	$$	4.0	209
+145	The Kunjip	-73.987239	40.747641	32 W 32nd St	New York	10001	NY	['32 W 32nd St', 'New York, NY 10001']	$$	2.5	961
+146	Ho Ho Restaurant	-74.097194	40.8337201	235 Paterson Ave	East Rutherford	07073	NJ	['235 Paterson Ave', 'East Rutherford, NJ 07073']	$$	4.0	97
+147	Handsome Rice	-73.98123	40.74466	133 E 31st St	New York	10016	NY	['133 E 31st St', 'New York, NY 10016']	$$	4.5	88
+148	Hell's Chicken	-73.9940421852417	40.7618612989506	641 10th Ave	New York	10036	NY	['641 10th Ave', 'New York, NY 10036']	$$	4.0	337
+149	Garlic To the Chicken	-73.9022751	40.7049523	66-92 Forest Ave	Ridgewood	11385	NY	['66-92 Forest Ave', 'Ridgewood, NY 11385']	$	4.0	78
+150	Maru 2	-74.0007360062909	40.7416362670334	267 W 17th St	New York	10011	NY	['267 W 17th St', 'New York, NY 10011']	$	4.5	122
+151	The Maze	-73.9872499	40.747846	32 W 32nd St	New York	10001	NY	['32 W 32nd St', 'Fl 3', 'New York, NY 10001']	$$	4.0	425
+152	MONOMONO	-73.98803	40.72549	116 E 4th St	New York	10003	NY	['116 E 4th St', 'New York, NY 10003']	$$	4.0	415
+153	Pocha 32	-73.9862626791	40.747524574399	15 W 32nd St	New York	10001	NY	['15 W 32nd St', 'Fl 2', 'New York, NY 10001']	$$	3.5	1454
+154	K Chicken	-73.99372	40.75665	528 9th Ave	New York	10018	NY	['528 9th Ave', 'New York, NY 10018']	$$	4.0	38
+155	Workers	-73.99108	40.7363	25 Union Sq W 15th St	New York	10003	NY	['25 Union Sq W 15th St', 'New York, NY 10003']		5.0	3
+156	mokbar	-74.00466	40.74222	75 9th Ave	New York	10011	NY	['75 9th Ave', 'New York, NY 10011']	$$	3.5	562
+157	Korilla BBQ - Midtown East	-73.9699062	40.7601182	672 Lexington Ave	New York	10022	NY	['672 Lexington Ave', 'New York, NY 10022']	$$	3.5	74
+158	Som Bo	-74.00136	40.74192	143 8th Ave	New York	10011	NY	['143 8th Ave', 'New York, NY 10011']	$$	4.0	196
+159	The Cast Iron Pot	-73.99911	40.82128	356 Bergen Blvd	Fairview	07022	NJ	['356 Bergen Blvd', 'Fairview, NJ 07022']	$$	4.5	661
+160	Dadam	-73.81217	40.76461	152-24 Northern Blvd	Flushing	11354	NY	['152-24 Northern Blvd', 'Flushing, NY 11354']	$$	4.5	34
+161	Gahwa Korean Restaurant	-73.8267556	40.7713025	29-32 Union St	Flushing	11354	NY	['29-32 Union St', 'Flushing, NY 11354']	$$	4.0	130
+162	Korilla BBQ	-73.9822647110451	40.7647655944894		New York	10019	NY	['New York, NY 10019']	$	4.0	496
+163	Elza Fancy Food	-74.0006862580776	40.6056042015553	8611 19th Ave	Brooklyn	11214	NY	['8611 19th Ave', 'Brooklyn, NY 11214']	$	4.5	46
+164	Unidentified Flying Chickens	-73.8940372	40.746559	71-22 Roosevelt Ave	Jackson Heights	11372	NY	['71-22 Roosevelt Ave', 'Jackson Heights, NY 11372']	$$	3.5	639
+165	SGD Tofu House	-73.81541	40.76191	149-06 41st Ave	Flushing	11355	NY	['149-06 41st Ave', 'Flushing, NY 11355']	$$	4.5	183
+166	Snacky	-73.9607	40.71439	187 Grand St	Brooklyn	11211	NY	['187 Grand St', 'Brooklyn, NY 11211']	$$	4.0	187
+167	To Sok Chon	-74.0030822753906	40.8511238098145	138 W Central Blvd	Palisades Park	07650	NJ	['138 W Central Blvd', 'Palisades Park, NJ 07650']	$$	4.0	151
+168	Gamja Tang Tang	-73.9748638910085	40.8536913813532	408 Main St	Fort Lee	07024	NJ	['408 Main St', 'Fort Lee, NJ 07024']	$$	4.0	185
+169	So Kong Dong	-73.96702	40.85056	130 Main St	Fort Lee	07024	NJ	['130 Main St', 'Fort Lee, NJ 07024']	$$	4.0	705
+170	Doraon 1.5 Dak Galbi	-73.807011321187	40.7633106130738	158-03 Northern Blvd	Flushing	11358	NY	['158-03 Northern Blvd', 'Flushing, NY 11358']	$$	4.0	92
+171	Hansol Nutrition Center	-73.8053413	40.762701	160-26 Northern Blvd	Flushing	11358	NY	['160-26 Northern Blvd', 'Flushing, NY 11358']	$$	4.5	148
+172	Pelicana Chicken	-73.99373	40.73102	52 East 8th St	New York	10003	NY	['52 East 8th St', 'New York, NY 10003']		4.0	51
+173	Pado	-73.98589	40.7314	199 2nd Ave	New York	10003	NY	['199 2nd Ave', 'New York, NY 10003']	$$	4.5	258
+174	Ssam Tong	-73.8147188962881	40.7620679529178	41-08 149th Pl	Flushing	11355	NY	['41-08 149th Pl', 'Flushing, NY 11355']	$$	4.5	115
+175	SOKONGDONG GRILL / LIGHTHOUSE RESTAURANT	-74.00914	40.8229	261 Broad Ave	Fairview	07022	NJ	['261 Broad Ave', 'Fairview, NJ 07022']		4.5	21
+176	Hanmadang	-73.9804599	40.84487	1347 16th St	Fort Lee	07024	NJ	['1347 16th St', 'Fort Lee, NJ 07024']		5.0	21
+177	Marrizzang	-73.803871	40.759103	4237 162nd St	Flushing	11358	NY	['4237 162nd St', 'Flushing, NY 11358']		4.5	29
+178	Bi Won	-73.7564904	40.7483579	6158 Springfield Blvd	Oakland Gardens	11364	NY	['6158 Springfield Blvd', 'Oakland Gardens, NY 11364']	$$	3.5	189
+179	Gaonnuri	-73.98802	40.74757	1250 Broadway	New York	10001	NY	['1250 Broadway', 'Fl 39', 'New York, NY 10001']	$$$	3.5	796
+180	BarKogi Korean Fried Chicken	-73.9684579	40.7554222	957 2nd Ave	New York	10022	NY	['957 2nd Ave', 'New York, NY 10022']	$$	2.5	591
+181	DOMODOMO Jersey City	-74.03473	40.71961	200 Greene St	Jersey City	07302	NJ	['200 Greene St', 'Jersey City, NJ 07302']		4.0	84
+182	Jin Da Lai	-73.8281665929767	40.7645446214285	35-30 Union St	Flushing	11354	NY	['35-30 Union St', 'Flushing, NY 11354']	$$	4.5	22
+183	Soram	-74.01068	40.82457	321 Broad Ave	Ridgefield	07657	NJ	['321 Broad Ave', 'Ridgefield, NJ 07657']	$$	4.0	61
+184	Jeong Yook	-73.81248	40.7647	152-12 Northern Blvd	Flushing	11354	NY	['152-12 Northern Blvd', 'Flushing, NY 11354']		4.0	103
+185	Bossam House	-73.9946667104959	40.8519145099471	464 Broad Ave	Palisades Park	07650	NJ	['464 Broad Ave', 'Palisades Park, NJ 07650']		5.0	41
+186	Gopchang Story Flushing	-73.8053579	40.762706	160-18 Northern Blvd	Flushing	11358	NY	['160-18 Northern Blvd', 'Fl 1', 'Flushing, NY 11358']		3.5	75
+187	Joong Koog Jip	-73.81533	40.76193	149-08 41st Ave	Flushing	11355	NY	['149-08 41st Ave', 'Flushing, NY 11355']	$$	4.0	205
+188	Mandoo Bar	-73.98619	40.7472	2 W 32nd St	New York	10001	NY	['2 W 32nd St', 'New York, NY 10001']	$$	3.5	835
+189	MIGHTY Bowl	-73.95945	40.7738	1109 Lexington Ave	New York	10075	NY	['1109 Lexington Ave', 'New York, NY 10075']	$$	4.5	87
+190	Drunken Chicken	-73.92757	40.76271	25-30 Broadway	Astoria	11106	NY	['25-30 Broadway', 'Astoria, NY 11106']	$$	4.0	91
+191	Hortus NYC	-73.98652	40.74545	271 5th Ave	New York	10016	NY	['271 5th Ave', 'New York, NY 10016']		4.5	158
+192	Obaltan	-73.9829498	40.8314694	799 Abbot Blvd	Fort Lee	07024	NJ	['799 Abbot Blvd', 'Fort Lee, NJ 07024']	$$$	4.5	240
+193	Red Poke	-73.991915	40.7588993	600 9th Ave	New York	10036	NY	['600 9th Ave', 'New York, NY 10036']	$$	4.5	525
+194	Bonchon - Chelsea	-73.9978394302478	40.7453339140814	267 W 23rd St	New York	10011	NY	['267 W 23rd St', 'New York, NY 10011']	$$	3.0	89
+195	Yeomiji	-73.8075672	40.989967	13 Spencer Pl	Scarsdale	10583	NY	['13 Spencer Pl', 'Scarsdale, NY 10583']	$$	4.0	134
+196	Debasaki	-73.831729888916	40.7648439008281	33-67 Farrington St	Flushing	11354	NY	['33-67 Farrington St', 'Flushing, NY 11354']	$$	4.0	488
+197	Korilla BBQ	-73.991317	40.818878	237 Park Ave	New York	10029	NY	['237 Park Ave', 'New York, NY 10029']	$	3.5	54
+198	Cup & Cup	-73.984846	40.746245	15 E 31st St	New York	10016	NY	['15 E 31st St', 'New York, NY 10016']	$	4.0	335
+199	Pelicana Chicken	-73.98631	40.74761	11 W 32nd St	New York	10001	NY	['11 W 32nd St', 'New York, NY 10001']	$$	4.0	226
+200	Mad For Chicken	-73.8079404	40.7635739	157-18 Northern Blvd	Flushing	11354	NY	['157-18 Northern Blvd', 'Flushing, NY 11354']	$$	4.0	1685
+201	BCD Tofu House	-73.7619636	40.7614151	220-05 Northern Blvd	Bayside	11361	NY	['220-05 Northern Blvd', 'Bayside, NY 11361']	$$	4.0	673
+202	Jeunju Restaurant	-73.81391	40.76337	40-11 150th St	Flushing	11354	NY	['40-11 150th St', 'Flushing, NY 11354']	$$	4.0	29
+203	Sa Rit Gol	-73.9687949386285	40.8505748160743	166 Main St	Fort Lee	07024	NJ	['166 Main St', 'Fort Lee, NJ 07024']	$$	4.0	153
+204	Bonchon - 38th Street	-73.9891703	40.7537928	207 W 38th St	New York	10018	NY	['207 W 38th St', 'New York, NY 10018']	$$	3.5	1023
+205	Hometown Hotpot & BBQ	-73.99689	40.71931	194 Grand St	New York	10013	NY	['194 Grand St', 'New York, NY 10013']	$$	4.0	1183
+206	Kum Gang San	-73.8274914084069	40.7639509305055	138-20 Northern Blvd	Flushing	11354	NY	['138-20 Northern Blvd', 'Flushing, NY 11354']	$$	3.0	390
+207	Chung Moo Rollrice & Dongas	-73.8268536329269	40.7609309256077	39-04 Union St	Flushing	11354	NY	['39-04 Union St', 'Flushing, NY 11354']	$	4.0	165
+208	Bonjuk	-73.8121	40.7646	152-26 Northern Blvd	Flushing	11354	NY	['152-26 Northern Blvd', 'Flushing, NY 11354']	$$	4.0	154
+209	Mori	-73.983902	40.671718	351 5th Ave	Brooklyn	11215	NY	['351 5th Ave', 'Brooklyn, NY 11215']	$$	4.5	91
+210	Bagelberry	-73.921318	40.766842	3113 30th Ave	Astoria	11102	NY	['3113 30th Ave', 'Astoria, NY 11102']	$	3.5	108
+211	ChilSung Korean BBQ	-73.7559984	40.7491255	221-28 Horace Harding Expy	Oakland Gardens	11364	NY	['221-28 Horace Harding Expy', 'Oakland Gardens, NY 11364']	$$$	4.0	142
+212	Noona Noodles	-73.98631	40.74761	11 W 32nd St	New York	10001	NY	['11 W 32nd St', 'New York, NY 10001']		4.5	29
+213	Myung San	-73.8031031180687	40.7621256898097	162-21 Depot Rd	Flushing	11358	NY	['162-21 Depot Rd', 'Flushing, NY 11358']	$$	4.0	46
+214	Turntable LP Bar & Karaoke	-73.98735	40.74769	34-36 W 32nd St	New York	10001	NY	['34-36 W 32nd St', 'Fl 5', 'New York, NY 10001']	$$	4.0	194
+215	BBQ Olive Chicken	-73.9862868189812	40.7472671229607	25 W 32nd St	New York	10001	NY	['25 W 32nd St', 'New York, NY 10001']	$$	3.5	663
+216	BulgogiZip	-74.1687525925926	40.74219	562 Broad St	Newark	07102	NJ	['562 Broad St', 'Newark, NJ 07102']	$	4.5	30
+217	Kum Sung Chik Naengmyun	-73.81495	40.76323	40-07 149th Pl	Flushing	11354	NY	['40-07 149th Pl', 'Flushing, NY 11354']	$$	4.0	89
+218	Dons Bogam Green	-73.98416	40.75005	3 W 36th St	New York	10018	NY	['3 W 36th St', 'New York, NY 10018']		4.0	13
+219	Chung Dam Dong Restaurant	-73.9999327	40.844726	118 Broad Ave	Palisades Park	07650	NJ	['118 Broad Ave', 'Ste N6-12', 'Palisades Park, NJ 07650']	$$	4.0	214
+220	Canal Street Market	-74.00102	40.71897	265 Canal St	New York	10013	NY	['265 Canal St', 'New York, NY 10013']	$$	4.0	176
+221	99 Favor Taste	-73.99249	40.7176199	285 Grand St	New York	10002	NY	['285 Grand St', 'New York, NY 10002']	$$	4.0	1801
+222	Tong Sam Gyup Goo Yi	-73.80299	40.76214	162-23 Depot Rd	Flushing	11358	NY	['162-23 Depot Rd', 'Flushing, NY 11358']	$$	4.0	202
+223	Mr Tofu House	-74.266843274808	40.9150478252128	146 Mountain View Blvd	Wayne	07470	NJ	['146 Mountain View Blvd', 'Wayne, NJ 07470']	$$	4.5	122
+224	Picnic Garden	-73.81062	40.76489	154-05 Northern Blvd	Flushing	11354	NY	['154-05 Northern Blvd', 'Flushing, NY 11354']	$$	3.5	1291
+225	WingK Boy Chicken	-74.145901	40.827258	662 Passaic Ave	Nutley	07110	NJ	['662 Passaic Ave', 'Nutley, NJ 07110']		3.5	13
+226	SGD Dubu So Gong Dong Tofu & BBQ	-73.9768947349182	40.8187806209541	725 River Rd	Edgewater	07020	NJ	['725 River Rd', 'Unit 45', 'Edgewater, NJ 07020']	$$	3.5	141
+227	The Gochujang	-73.9867252	40.7478744	11 W 32nd St	New York	10001	NY	['11 W 32nd St', 'New York, NY 10001']	$	3.0	69
+228	Sayori Japanese Restaurant	-74.13663	40.62422	1440 Forest Ave	Staten Island	10302	NY	['1440 Forest Ave', 'Staten Island, NY 10302']	$$	4.0	45
+229	Ahri's Kitchen	-74.043793	40.725925	227 7th St	Jersey City	07302	NJ	['227 7th St', 'Jersey City, NJ 07302']	$$	3.5	283
+230	JAN CHI MA EUL	-73.822561763227	40.7577810368157	41-65 Bowne St	Flushing	11355	NY	['41-65 Bowne St', 'Flushing, NY 11355']		5.0	6
+231	Dekalb Market Hall	-73.983311	40.691025	445 Albee Square W	Brooklyn	11201	NY	['445 Albee Square W', 'Basement Level', 'Brooklyn, NY 11201']	$$	4.0	643
+232	Kobeque	-73.986284328775	40.7475453147469	11 W 32nd St	New York	10001	NY	['11 W 32nd St', 'New York, NY 10001']	$$	3.5	91
+233	KPOT AYCE Rolling Hot Pot	-73.970136	40.849999	1642 Schlosser St	Fort Lee	07024	NJ	['1642 Schlosser St', 'Fort Lee, NJ 07024']	$$	4.0	29
+234	Fat Buddha	-73.9805949	40.7298105	212 Ave A	New York	10009	NY	['212 Ave A', 'New York, NY 10009']	$$	3.5	614
+235	Koreander Restaurant	-74.204707	40.830669	128 Watchung Ave	Montclair	07043	NJ	['128 Watchung Ave', 'Montclair, NJ 07043']	$$	4.0	198
+236	Korean BBQ Grill	-73.7813176	40.909017	496 Main St	New Rochelle	10801	NY	['496 Main St', 'New Rochelle, NY 10801']	$$	4.5	102
+237	Bada Story	-73.9827123	40.831231	799 Abbott Blvd	Fort Lee	07024	NJ	['799 Abbott Blvd', 'Fort Lee, NJ 07024']	$$$	4.0	154
+238	Han Joo Chik Naeng Myun & BBQ	-73.8148621	40.7620607	41-06 149th Pl	Flushing	11355	NY	['41-06 149th Pl', 'Flushing, NY 11355']	$$	4.0	204
+239	Gyu-Kaku Japanese BBQ	-73.98989	40.75908	321 W 44th St	New York	10036	NY	['321 W 44th St', 'Unit 103', 'New York, NY 10036']	$$	4.0	1191
+240	Galbi Q	-73.9794576733518	40.7614560391404	W 52nd St	New York		NY	['W 52nd St', 'New York, NY']	$	4.5	33
+241	TSAôCAA	-74.00922	40.63639	773 59th St	Brooklyn	11220	NY	['773 59th St', 'Brooklyn, NY 11220']	$$	3.0	80
+242	Rolly Kimbab	-73.8025	40.76087	163-16 Northern Blvd	Flushing	11358	NY	['163-16 Northern Blvd', 'Flushing, NY 11358']	$	4.0	195
+243	O2 BBQ	-73.7683094	40.7589126	45-53 Bell Blvd	Bayside	11361	NY	['45-53 Bell Blvd', 'Bayside, NY 11361']	$$	4.0	353
+244	Jjang Cooks	-73.8275927	40.7603375	136-71 Roosevelt Ave	Flushing	11354	NY	['136-71 Roosevelt Ave', 'Flushing, NY 11354']		4.0	46
+245	Tang Maru	-73.9845913276076	40.8472084713549	500 10th St	Palisades Park	07650	NJ	['500 10th St', 'Palisades Park, NJ 07650']	$$	4.0	192
+246	Purple Yam	-73.9656538486476	40.6402061280108	1314 Cortelyou Rd	Brooklyn	11226	NY	['1314 Cortelyou Rd', 'Brooklyn, NY 11226']	$$	3.5	419
+247	Ugly Kitchen	-73.9862178981476	40.7266856651479	103 1st Ave	New York	10003	NY	['103 1st Ave', 'New York, NY 10003']	$$	4.0	610
+248	SGD Dubu So Gong Dong Tofu & BBQ	-74.37223	40.8085499	240 Rt 10 E	East Hanover	07936	NJ	['240 Rt 10 E', 'East Hanover, NJ 07936']	$$	4.0	227
+249	Shanghai Mong	-73.9871597290039	40.7476119995117	30 W 32nd St	New York	10001	NY	['30 W 32nd St', 'New York, NY 10001']	$$	3.0	505
+250	Kinyobi	-74.0419801	40.9056115	838 Main St	Hackensack	07601	NJ	['838 Main St', 'Hackensack, NJ 07601']	$$	4.5	194
+251	99 Favor Taste	-74.0115482	40.6355691	732 61st St	Brooklyn	11220	NY	['732 61st St', 'Brooklyn, NY 11220']	$$	4.0	724
+252	Go Ba Woo Korean Barbeque	-73.945086	41.016838	4 Rte 303	Tappan	10983	NY	['4 Rte 303', 'Tappan, NY 10983']	$$	3.5	40
+253	Pelicana Chicken	-73.9123296	40.77534	22-54 31st St	Astoria	11105	NY	['22-54 31st St', 'Astoria, NY 11105']	$$	3.5	85
+254	Hometown Bar-B-Que	-74.0160489746129	40.6748965703426	454 Van Brunt St	Brooklyn	11231	NY	['454 Van Brunt St', 'Brooklyn, NY 11231']	$$	4.0	1307
+255	Homung Nangmyun	-73.9540954	40.9689921799866	570 Piermont Rd	Closter	07624	NJ	['570 Piermont Rd', 'A12', 'Closter, NJ 07624']	$$	4.0	63
+256	Organic Tofu House	-74.12382	40.97852	88 Godwin Ave	Ridgewood	07450	NJ	['88 Godwin Ave', 'Ridgewood, NJ 07450']	$$	4.0	231
+257	Tokyo Sushi Japanese	-74.12064	40.613259	1710 Victory Blvd	Staten Island	10314	NY	['1710 Victory Blvd', 'Staten Island, NY 10314']	$$	3.5	57
+258	Sushi Citi	-73.9440599	40.74706	2501 Jackson Ave	Long Island City	11101	NY	['2501 Jackson Ave', 'Long Island City, NY 11101']		4.0	6
+259	Dynasty Taste	-73.895408	40.846789	539 E Tremont Ave	Bronx	10457	NY	['539 E Tremont Ave', 'Bronx, NY 10457']		3.5	3
+260	Takorea BBQ	-74.155862	40.739894	805 Frank E Rodgers Blvd S	Harrison	07029	NJ	['805 Frank E Rodgers Blvd S', 'Harrison, NJ 07029']	$$	4.0	278
+261	San Soo Kap San	-73.82665	40.76129	38-13 Union St	Flushing	11354	NY	['38-13 Union St', 'Flushing, NY 11354']	$$	3.5	200
+262	Arirang Restaurant	-73.8030700683594	40.7612266540527	41-04 163rd St	Flushing	11358	NY	['41-04 163rd St', 'Flushing, NY 11358']	$$	4.0	144
+263	Asian Spicy Curry Pop-up	-73.99931	40.715031	46 Mulberry St	New York	10013	NY	['46 Mulberry St', 'New York, NY 10013']	$	4.5	138
+264	Kimchi Bros	-74.025084	40.85769	226 Main St	Ridgefield Park	07660	NJ	['226 Main St', 'Ridgefield Park, NJ 07660']		5.0	11
+265	BARO by Chefs Society	-73.98735	40.74769	34 West 32nd St	New York	10001	NY	['34 West 32nd St', 'New York, NY 10001']	$$	3.5	148
+266	Food Gallery 32	-73.98631	40.74761	11 W 32nd St	New York	10001	NY	['11 W 32nd St', 'New York, NY 10001']	$	4.0	813
+267	Nolbu Sushi	-73.8014648482203	40.7605842293617	164-25 Northern Blvd	Flushing	11358	NY	['164-25 Northern Blvd', 'Flushing, NY 11358']	$	4.0	139
+268	Pan-Tastic Q	-73.9212728	40.7522769	4202 Northern Blvd	Long Island City	11101	NY	['4202 Northern Blvd', 'Long Island City, NY 11101']	$$	3.5	28
+269	Kim Chayul's Myung Poom Kalbi	-73.8041304	40.7607694	41-22 162nd St	Flushing	11358	NY	['41-22 162nd St', 'Flushing, NY 11358']	$$$	4.0	35
+270	Buttumak	-73.8148386622517	40.7654446269748	150-05 Northern Blvd	Flushing	11354	NY	['150-05 Northern Blvd', 'Flushing, NY 11354']	$$	4.5	25
+271	Bonchon - 32nd Street	-73.985027	40.747436	325 5th Ave	New York	10016	NY	['325 5th Ave', 'New York, NY 10016']	$$	3.5	1120
+272	Zest	-73.991329	40.685711	176 Smith St	Brooklyn	11201	NY	['176 Smith St', 'Brooklyn, NY 11201']		4.5	36
+273	Hyo Dong Gak	-73.9862269	40.7501219	51 W 35th St	New York	10001	NY	['51 W 35th St', 'New York, NY 10001']	$$	3.5	404
+274	Myung Dong Noodle House	-73.9698527	40.8518601	2013 Lemoine Ave	Fort Lee	07024	NJ	['2013 Lemoine Ave', 'Fort Lee, NJ 07024']	$$	3.5	293
+275	Gayeon	-73.9687126502395	40.8522381075619	2020 Hudson St	Fort Lee	07024	NJ	['2020 Hudson St', 'Fort Lee, NJ 07024']	$$$	4.0	146
+276	Seoul Galbi Korean BBQ	-74.0913502	40.934069	123 Paramus Rd	Paramus	07652	NJ	['123 Paramus Rd', 'Paramus, NJ 07652']	$$	4.0	205
+277	Gansevoort Market	-74.0046413	40.7410154	353 W 14th St	New York	10014	NY	['353 W 14th St', 'New York, NY 10014']	$$	4.0	265
+278	Kogi BBQ	-73.78945	40.76647	33-41 Francis Lewis Blvd	Queens	11358	NY	['33-41 Francis Lewis Blvd', 'Queens, NY 11358']		5.0	5
+279	Hwang bu ja	-74.3487453	40.8570395	65 New Rd	Parsippany	07054	NJ	['65 New Rd', 'Parsippany, NJ 07054']	$$	4.0	164
+280	Bunsmith	-73.9829608798027	40.6911972950438	445 Albee Square W	Brooklyn	11201	NY	['445 Albee Square W', 'Brooklyn, NY 11201']	$$	4.0	35
+281	Rolly Kimbab	-73.7562586133568	40.748536141486	6123 Springfield Blvd	Bayside	11364	NY	['6123 Springfield Blvd', 'Bayside, NY 11364']	$	3.5	292
+282	GUPJI	-73.82558	40.75945	149-11A 41st Ave	Flushing	11355	NY	['149-11A 41st Ave', 'Flushing, NY 11355']	$$	4.5	87
+283	Hansol Food	-73.8037567138672	40.7619895935059	41-6 162nd St	Queens	11358	NY	['41-6 162nd St', 'Queens, NY 11358']		4.5	11
+284	KALBI	-73.9631333202124	40.8088083994982	117TH ST & BROADWAY	New York	10026	NY	['117TH ST & BROADWAY', 'New York, NY 10026']		4.5	5
+285	Delicacy	-73.979179	40.754207	12 E 44th St	New York	10017	NY	['12 E 44th St', 'New York, NY 10017']	$	3.5	71
+286	BCD Tofu House	-73.9698851108551	40.8501037543158	1640 Schlosser St	Fort Lee	07024	NJ	['1640 Schlosser St', 'Unit C1', 'Fort Lee, NJ 07024']	$$	4.0	460
+287	Chingunae Pocha	-73.81499	40.76334	40-03 149th Pl	Flushing	11354	NY	['40-03 149th Pl', 'Flushing, NY 11354']		5.0	25
+288	Jeong Yook	-73.98743	40.843688	329 Bergen Blvd	Palisades Park	07650	NJ	['329 Bergen Blvd', 'Palisades Park, NJ 07650']		4.0	79
+289	BapEeRang	-73.9850712360145	40.847066163285	476 Bergen Blvd	Palisades Park	07650	NJ	['476 Bergen Blvd', 'Palisades Park, NJ 07650']		5.0	4
+290	Madang Restaurant & Cafe	-73.9607	40.86591	11 Sylvan Ave	Englewood Cliffs	07632	NJ	['11 Sylvan Ave', 'Englewood Cliffs, NJ 07632']		3.5	39
+291	Halmae Noodle	-73.9961985155002	40.8502985198483	413 Broad Ave	Palisades Park	07650	NJ	['413 Broad Ave', 'Palisades Park, NJ 07650']	$	4.5	90
+292	Da Yu Hot Pot 大渝火锅	-73.995379	40.716733	81 Bowery	New York	10002	NY	['81 Bowery', 'New York, NY 10002']	$$$	4.0	117
+293	Kimchi Smoke Barbecue	-74.0321035819275	40.9928234560116	301 Center Ave	Westwood	07675	NJ	['301 Center Ave', 'Westwood, NJ 07675']	$$	4.0	395
+294	Wangs	-73.9825364202261	40.6772587448359	671 Union St	Brooklyn	11215	NY	['671 Union St', 'Brooklyn, NY 11215']	$$	4.0	237
+295	Bonga Solungtang	-74.002921	40.851572	131 W Central Blvd	Palisades Park	07650	NJ	['131 W Central Blvd', 'Palisades Park, NJ 07650']	$$	3.5	27
+296	Yea Jip	-73.9717144	40.8516917	235 Main St	Fort Lee	07024	NJ	['235 Main St', 'Fort Lee, NJ 07024']	$$	4.0	60
+297	Modoo - Chicken & Noodle Bar	-73.7651000000002	40.7610944545275	216-17 Northern Blvd	Bayside	11361	NY	['216-17 Northern Blvd', 'Bayside, NY 11361']	$$	4.0	244
+298	Cafe De Novo	-74.0138110214958	40.7081208335465	94 1/2 Greenwich St	New York	10006	NY	['94 1/2 Greenwich St', 'New York, NY 10006']	$$	3.0	92
+299	Goo Gong Tan	-73.81492	40.76318	40-09 149th Pl	Flushing	11354	NY	['40-09 149th Pl', 'Flushing, NY 11354']	$$	4.0	112
+300	Gyu-Kaku Japanese BBQ	-73.97054	40.75537	805 3rd Ave	New York	10022	NY	['805 3rd Ave', '2nd Flr', 'New York, NY 10022']	$$$	4.0	1163
+301	Sung Book Dong	-73.73869	40.76786	248-25 Northern Blvd	Little Neck	11362	NY	['248-25 Northern Blvd', 'Little Neck, NY 11362']		4.5	35
+302	A-Pou's Taste	-73.93616	40.71326	963 Grand St	Brooklyn	11211	NY	['963 Grand St', 'Brooklyn, NY 11211']	$	4.5	40
+303	Pinwheel Garden Dumpling & Noodle Bar	-74.06102	40.71039	318 Communipaw Ave	Jersey City	07304	NJ	['318 Communipaw Ave', 'Jersey City, NJ 07304']	$$	4.5	162
+304	Myung Ga Tofu and BBQ	-73.95362	40.96865	570 Piermont Rd	Closter	07624	NJ	['570 Piermont Rd', 'Ste C8', 'Closter, NJ 07624']	$$	4.5	44
+305	Northern King Dumpling - Wang Mandu	-73.8155436	40.76514	149-44 Northern Blvd	Flushing	11354	NY	['149-44 Northern Blvd', 'Flushing, NY 11354']	$	4.5	55
+306	K-pop Haus	-74.0047136	40.7408261	353 W 14th St	New York	10014	NY	['353 W 14th St', 'New York, NY 10014']		3.0	2
+307	Korean Noodle House	-73.7728996574879	40.7596862454156	210-09 Northern Blvd	Flushing	11361	NY	['210-09 Northern Blvd', 'Flushing, NY 11361']	$$	3.5	248
+308	Kimbob Club	-73.99479	40.85175	456 Broad Ave	Palisades Park	07650	NJ	['456 Broad Ave', 'Palisades Park, NJ 07650']		4.5	2
+309	K-Town Food Court	-73.7811672067863	40.7535322693241	46-40 Francis Lewis Blvd	Bayside	11361	NY	['46-40 Francis Lewis Blvd', 'Bayside, NY 11361']	$$	4.0	42
+310	YeDon	-73.7740894	40.759233	209-11 Northern Blvd	Bayside	11361	NY	['209-11 Northern Blvd', 'Bayside, NY 11361']	$$	4.0	80
+311	Ramen Andante	-73.9625803	40.7148695	130 Grand St	Brooklyn	11249	NY	['130 Grand St', 'Brooklyn, NY 11249']	$$	4.5	48
+312	Sam Won Gahk	-73.7627729773521	40.7613500207663	219-01 Northern Blvd	Bayside	11361	NY	['219-01 Northern Blvd', 'Bayside, NY 11361']	$$	3.5	84
+313	Sea Shai Korean & Japanese Restaurant	-74.145901	40.827258	662 Passaic Ave	Nutley	07110	NJ	['662 Passaic Ave', 'Nutley, NJ 07110']		4.0	21
+314	Shabu Garden	-73.9864598	40.7482056	24 West 33rd St	New York	10001	NY	['24 West 33rd St', 'New York, NY 10001']	$$	3.5	45
+315	New Tosocchon	-73.7691953	40.7593788	45-30 Bell Blvd	Queens	11361	NY	['45-30 Bell Blvd', 'Queens, NY 11361']	$$	3.5	29
+316	Pelicana Chicken - Flushing	-73.803787	40.76075	41-23 162nd St	Flushing	11358	NY	['41-23 162nd St', 'Flushing, NY 11358']	$$	4.5	806
+317	Hanam BBQ	-73.999453	40.853969	445 Grand Ave	Palisades Park	07650	NJ	['445 Grand Ave', 'Palisades Park, NJ 07650']		4.0	120
+318	Juk Story	-73.8142740726471	40.7632547456775	40-16 150th St	Queens	11354	NY	['40-16 150th St', 'Queens, NY 11354']		4.5	6
+319	Pokébāb	-73.95866	40.71683	209 Bedford Ave	Brooklyn	11211	NY	['209 Bedford Ave', 'Brooklyn, NY 11211']	$$	4.5	161
+320	Guh Song Chinese Restaurant	-73.76903	40.75899	45-46 Bell Blvd	Bayside	11361	NY	['45-46 Bell Blvd', 'Bayside, NY 11361']	$$	4.0	178
+321	Pho Che	-73.7881441	40.7576858	193-16 Northern Blvd	Flushing	11358	NY	['193-16 Northern Blvd', 'Flushing, NY 11358']	$$	4.0	285
+322	Mami Best Food	-73.99532	40.85107	442 Broad Ave	Palisades Park	07650	NJ	['442 Broad Ave', 'Palisades Park, NJ 07650']	$	4.5	38
+323	Son Ja Jang	-73.99845	40.84629	232 Broad Ave	Palisades Park	07650	NJ	['232 Broad Ave', 'Palisades Park, NJ 07650']	$$	4.0	167
+324	Yechun	-74.0017792996024	40.8423849634845	18 Broad Ave	Palisades Park	07650	NJ	['18 Broad Ave', 'Palisades Park, NJ 07650']		4.5	14
+325	Shanghai Red Asian Latin Bistro	-73.8425095552948	40.8401620296024	127 Westchester Sq	Bronx	10461	NY	['127 Westchester Sq', 'Bronx, NY 10461']	$$	4.0	65
+326	Haki Restaurant	-73.80466	40.76217	160-30 Northern Blvd	Queens	11358	NY	['160-30 Northern Blvd', 'Queens, NY 11358']		3.5	15
+327	Chil Chup Ban Sang	-73.99745	40.84799	280 Broad Ave	Palisades Park	07650	NJ	['280 Broad Ave', 'Palisades Park, NJ 07650']		4.5	9
+328	Shabu-Tatsu East Village	-73.98585	40.72927	216 E 10th St	New York	10003	NY	['216 E 10th St', 'New York, NY 10003']	$$	4.0	627
+329	Mapo BBQ	-73.8151035	40.7621255	14924 41st Ave	Flushing	11355	NY	['14924 41st Ave', 'Flushing, NY 11355']	$$$	3.5	373
+330	Sunny Kimbap	-73.7701737	40.7602877	213-09 Northern Blvd	Bayside	11361	NY	['213-09 Northern Blvd', 'Bayside, NY 11361']		4.0	15
+331	Son Kalguksu	-73.9970621	40.8492632	339 Broad Ave	Palisades Park	07650	NJ	['339 Broad Ave', 'Palisades Park, NJ 07650']	$$	4.5	30
+332	Franchia Vegan Cafe	-73.9812423408763	40.7474712051298	12 Park Ave	New York	10016	NY	['12 Park Ave', 'New York, NY 10016']	$$	4.0	898
+333	Lim's Kitchen	-73.77063	40.76226	42-14 Bell Blvd	Bayside	11361	NY	['42-14 Bell Blvd', 'Bayside, NY 11361']		4.0	52
+334	Kokio	-73.7551873	40.7494409	221-40 Horace Harding Expy	Oakland Gardens	11364	NY	['221-40 Horace Harding Expy', 'Oakland Gardens, NY 11364']	$$	3.5	56
+335	Sikgaek Gugu	-73.97206	40.85216	247 Main St	Fort Lee	07024	NJ	['247 Main St', 'Fort Lee, NJ 07024']		4.5	12
+336	Jongro BBQ	-73.8097835	40.7638533	155-14 Roosevelt Ave	Flushing	11354	NY	['155-14 Roosevelt Ave', 'Flushing, NY 11354']	$$	3.5	303
+337	Gam Mee Ok Restaurant	-73.9773	40.85549	485 Main St	Fort Lee	07024	NJ	['485 Main St', 'Fort Lee, NJ 07024']	$$	3.5	204
+338	Baoburg	-73.9503321851175	40.7234929271998	614 Manhattan Ave	Brooklyn	11222	NY	['614 Manhattan Ave', 'Brooklyn, NY 11222']	$$	4.0	202
+339	Ian's kitchen	-73.8139	40.763234	4017 150th	Queens	11354	NY	['4017 150th', 'Queens, NY 11354']		5.0	11
+340	Myung Ga Won	-73.9627647	40.9307987	72 Piermont Rd	Tenafly	07670	NJ	['72 Piermont Rd', 'Tenafly, NJ 07670']	$$	4.5	28
+341	Mr.Chicken & Mrs.Tea	-73.8423077	40.6698487	150-29 Crossbay Blvd	Ozone Park	11417	NY	['150-29 Crossbay Blvd', 'Ste 1', 'Ozone Park, NY 11417']		4.5	52
+342	Yakiniku Futago	-73.9941236398979	40.738851870947	37 W 17th St	New York	10011	NY	['37 W 17th St', 'New York, NY 10011']	$$$$	4.5	324
+343	Little Mo	-73.93368	40.69701	1158 Myrtle Ave	Brooklyn	11221	NY	['1158 Myrtle Ave', 'Brooklyn, NY 11221']	$$	4.0	307
+344	CravWings	-73.842959	40.960288	1769 Central Park Ave	Yonkers	10710	NY	['1769 Central Park Ave', 'Yonkers, NY 10710']		4.0	75
+345	Ambrosia	-73.9803848266602	40.755542755127	8 W 45th St	New York	10036	NY	['8 W 45th St', 'New York, NY 10036']	$	3.5	82
+346	Kangtong BBQ	-73.81498	40.76203	149-20 41st Ave	Flushing	11355	NY	['149-20 41st Ave', 'Flushing, NY 11355']	$$	4.0	37
+347	Dae Jang Guem	-73.8296659290791	40.759014273249	40-21 Main St	Flushing	11354	NY	['40-21 Main St', 'New World Mall Food Court', 'Flushing, NY 11354']		5.0	2
+348	K-Pot Korean BBQ & Hot Pot	-74.4003038	40.4557481	300 State Rte 18	East Brunswick	08816	NJ	['300 State Rte 18', 'Ste 4', 'East Brunswick, NJ 08816']	$$	4.0	358
+349	Yogi Korean Grill	-73.97214	40.75394	47TH And 3rd	New York	10017	NY	['47TH And 3rd', 'New York, NY 10017']		4.5	7
+350	Sushi Gallery	-73.9933660828876	40.6975970682387	71 Clark St	Brooklyn	11201	NY	['71 Clark St', 'Brooklyn, NY 11201']	$$	4.5	133
+351	Shilla	-73.8267593	40.7718582	29-18 Union St	Flushing	11354	NY	['29-18 Union St', 'Flushing, NY 11354']	$$	4.0	38
+352	Boom Boom Chicken	-74.1025941073895	40.8282711252748	36 Park Ave	Rutherford	07070	NJ	['36 Park Ave', 'Rutherford, NJ 07070']	$$	4.0	181
+353	The Dumpling Shop	-73.9877445929247	40.7281980640218	124 2nd Ave	New York	10003	NY	['124 2nd Ave', 'New York, NY 10003']		4.5	115
+354	Dun Huang - East Village	-73.98568	40.73081	300 E 12th St	New York	10003	NY	['300 E 12th St', 'New York, NY 10003']	$$	4.5	312
+355	Duk Soo Goong	-74.3807517067414	40.5152085676205	475 Old Post Rd	Edison	08817	NJ	['475 Old Post Rd', 'Edison, NJ 08817']	$$	4.0	46
+356	Bop & Sushi	-74.03292	40.991722	441 Broadway	Westwood	07675	NJ	['441 Broadway', 'Westwood, NJ 07675']	$$	4.5	201
+357	JoJu	-73.8793501821476	40.7407051700423	83-25 Broadway	Elmhurst	11373	NY	['83-25 Broadway', 'Elmhurst, NY 11373']	$	4.5	1596
+358	Yogi Korean BBQ Tacos	-73.9712201803923	40.7551903277636	49th St & 3rd Ave	New York	10017	NY	['49th St & 3rd Ave', 'New York, NY 10017']	$	4.5	112
+359	YunShang Rice Noodle House	-73.99765	40.71525	53 Bayard St	New York	10013	NY	['53 Bayard St', 'New York, NY 10013']	$$	4.0	168
+360	Ewha Won	-73.953829407692	40.9694568275192	570 Piermont Rd	Closter	07624	NJ	['570 Piermont Rd', 'Ste B-9', 'Closter, NJ 07624']	$$	3.5	63
+361	Memphis Seoul at Rusty Nail	-73.961161	40.635217	1701 Foster Ave	Brooklyn	11230	NY	['1701 Foster Ave', 'Ditmas Park', 'Brooklyn, NY 11230']		3.5	4
+362	Byeongcheon Jamae Sundae	-73.808847	40.764351	156-03 Northern Blvd	Flushing	11354	NY	['156-03 Northern Blvd', 'Flushing, NY 11354']	$$	3.5	59
+363	San Soo Kap San 2	-73.795378	40.757788	17110 Northern Blvd	Flushing	11358	NY	['17110 Northern Blvd', 'Flushing, NY 11358']	$$	3.5	216
+364	Wich- One	-73.99023	40.82267	529 Anderson Ave	Cliffside Park	07010	NJ	['529 Anderson Ave', 'Cliffside Park, NJ 07010']	$$	4.5	125
+365	Roosterspin	-74.347147	40.649994	251 N Ave W	Westfield	07090	NJ	['251 N Ave W', 'Westfield, NJ 07090']	$$	4.0	640
+366	Hainan	-73.8038810222336	40.7606885907268	41-25 162nd St	Flushing	11358	NY	['41-25 162nd St', 'Flushing, NY 11358']		4.0	10
+367	Stand Up	-73.9944900199771	40.6146599819009	7215 18th Ave	Brooklyn	11204	NY	['7215 18th Ave', 'Brooklyn, NY 11204']	$$	3.5	54
+368	Jin Jja Roo	-73.9875183105469	40.7478790283203	11 W 32nd St	New York	10016	NY	['11 W 32nd St', 'Ste 6', 'New York, NY 10016']	$	3.0	26
+369	Grace Cafe	-73.99135	40.75478	572 8th Ave	New York	10018	NY	['572 8th Ave', 'New York, NY 10018']	$	3.5	30
+370	Joong Hwa Ru	-74.387702	40.525835	2090 Lincoln Hwy	Edison	08817	NJ	['2090 Lincoln Hwy', 'Ste 4', 'Edison, NJ 08817']	$$	4.0	73
+371	Tamra Teahouse	-73.932873	40.675003	1524 Bergen St	Brooklyn	11213	NY	['1524 Bergen St', 'Brooklyn, NY 11213']	$$	4.5	96
+372	Galbi Ma Eul	-73.78716	40.7582	19403 Northern Blvd	Flushing	11358	NY	['19403 Northern Blvd', 'Flushing, NY 11358']	$$	3.5	142
+373	K Town Chicken & Hof	-73.9872914067459	40.7477685727933	34 W 32nd St	New York	10001	NY	['34 W 32nd St', 'New York, NY 10001']	$$	3.5	332
+374	Nalmada Pocha	-73.8039454121214	40.7610771492995	41-04 162nd St	Queens	11358	NY	['41-04 162nd St', 'Queens, NY 11358']		5.0	2
+375	Joong Koog Jip	-73.7795303007684	40.7574424653095	203-16 Northern Blvd	Bayside	11361	NY	['203-16 Northern Blvd', 'Bayside, NY 11361']	$$	3.5	141
+376	Suyo Gastrofusion	-73.918271	40.840872	1401 Plaza Dr	Bronx	10452	NY	['1401 Plaza Dr', 'Bronx, NY 10452']	$$	4.5	152
+377	Rice & Miso	-73.9837776124477	40.6845436245203	134 Nevins St	Brooklyn	11217	NY	['134 Nevins St', 'Brooklyn, NY 11217']	$$	4.5	64
+378	So Good	-73.96274	40.97403	190 Closter Dock Rd	Closter	07624	NJ	['190 Closter Dock Rd', 'Closter, NJ 07624']	$$$	4.0	61
+379	Dokdoya	-73.804204	40.7626895	161-29 Crocheron Ave	Flushing	11358	NY	['161-29 Crocheron Ave', 'Flushing, NY 11358']	$$$	4.0	59
+380	Chowongarden	-73.8089238	40.7638893	156-28 Northern Blvd	Queens	11354	NY	['156-28 Northern Blvd', 'Queens, NY 11354']		5.0	4
+381	Win Son	-73.94339	40.70747	159 Graham Ave	Brooklyn	11206	NY	['159 Graham Ave', 'Brooklyn, NY 11206']	$$	4.5	445
+382	Mr. Coco	-73.80429	40.75586	45-15 162nd St	Flushing	11358	NY	['45-15 162nd St', 'Ste 101', 'Flushing, NY 11358']	$$	4.0	69
+383	Pelicana Chicken	-73.954702	40.731408	941 Manhattan Ave	Brooklyn	11222	NY	['941 Manhattan Ave', 'Brooklyn, NY 11222']	$$	4.0	53
+384	Je Ju Do	-73.8032	40.76226	162-10 Crocheron Ave	Flushing	11358	NY	['162-10 Crocheron Ave', 'Flushing, NY 11358']	$$$	3.0	76
+385	Goowha Market	-73.82562	40.75914	142-06 41st Ave.	Flushing	11355	NY	['142-06 41st Ave.', 'Flushing, NY 11355']	$$	4.0	37
+386	Doshirak Box	-73.8291	40.76019	136-31 Roosevelt Ave	Flushing	11354	NY	['136-31 Roosevelt Ave', 'Flushing, NY 11354']	$	4.5	31
+387	DOMODOMO New York	-74.00167	40.72803	140 W Houston St	New York	10012	NY	['140 W Houston St', 'New York, NY 10012']	$$$	4.5	1025
+388	You Chun	-74.00002	40.84541	133 Broad Ave	Palisades Park	07650	NJ	['133 Broad Ave', 'Palisades Park, NJ 07650']	$$	4.0	179
+389	Turntable Chicken Rock	-73.98655	40.74635	290 5th Ave	New York	10001	NY	['290 5th Ave', 'New York, NY 10001']	$$	4.0	44
+390	Dae Bach Sik Dang	-73.8208887	40.7671111	14606 34th Ave	Flushing	11354	NY	['14606 34th Ave', 'Flushing, NY 11354']	$$	4.0	12
+391	IchiUmi	-73.9849521865082	40.7465376026852	6 E 32nd St	New York	10016	NY	['6 E 32nd St', 'New York, NY 10016']	$$$	3.0	1385
+392	Kaya Garden	-73.98541	40.8657	450 Broad Ave	Leonia	07605	NJ	['450 Broad Ave', 'Leonia, NJ 07605']	$$	4.0	86
+393	Duri Pocha	-74.0104649	40.8288801	441 Broad Ave	Ridgefield	07657	NJ	['441 Broad Ave', 'Ridgefield, NJ 07657']	$$	4.0	37
+394	Madame Vo BBQ	-73.98816	40.72741	104 2nd Ave	New York	10003	NY	['104 2nd Ave', 'New York, NY 10003']	$$	4.0	152
+395	Momofuku Noodle Bar	-73.983092	40.76847	10 Columbus Cir	New York	10019	NY	['10 Columbus Cir', 'Third Floor', 'New York, NY 10019']	$$	4.0	261
+396	Chickenple	-74.13726	40.78288	40 Ridge Rd	North Arlington	07031	NJ	['40 Ridge Rd', 'North Arlington, NJ 07031']	$$	4.5	88
+397	Third Floor Cafe	-73.98519	40.7469	315 5th Ave	New York	10016	NY	['315 5th Ave', 'New York, NY 10016']	$$	3.5	503
+398	nonono	-73.98499	40.74545	118 Madison Ave	New York	10016	NY	['118 Madison Ave', 'New York, NY 10016']	$$	4.5	612
+399	The Cast Iron Pot 2	-73.99984	40.82018	320 Bergen Blvd	Fairview	07022	NJ	['320 Bergen Blvd', 'Fairview, NJ 07022']	$$	4.5	138
+400	Sam Won Gahk	-73.8227350533587	40.7645976153271	144-20 Northern Blvd	Flushing	11354	NY	['144-20 Northern Blvd', 'Flushing, NY 11354']	$$	3.5	183
+401	mochiron	-73.91856	40.7653	34-18 30th Ave	Astoria	11103	NY	['34-18 30th Ave', 'Astoria, NY 11103']		4.0	65
+402	Kimchi Mama	-74.1336818121885	40.9356811932413	7-09 Fair Lawn Ave	Fair Lawn	07410	NJ	['7-09 Fair Lawn Ave', 'Fair Lawn, NJ 07410']	$$	4.0	196
+403	Būmu	-73.99907	40.7335	61 W 8th St	New York	10011	NY	['61 W 8th St', 'New York, NY 10011']		3.5	15
+404	Tonkatsu Matsunoya	-73.9741592407227	40.7533493041992	131 E 45th St	New York	10017	NY	['131 E 45th St', 'New York, NY 10017']	$$	4.0	380
+405	Mama Chicken	-73.99807	40.8472099	252 Broad Ave	Palisades Park	07650	NJ	['252 Broad Ave', 'Palisades Park, NJ 07650']	$$	4.5	166
+406	NY Korean BBQ	-74.34704	40.65265	256 E Broad St	Westfield	07090	NJ	['256 E Broad St', 'Westfield, NJ 07090']	$$	4.0	90
+407	Old Days Corp	-73.81344	40.76247	4113 150th St	Flushing	11355	NY	['4113 150th St', 'Flushing, NY 11355']		4.0	5
+408	Noodlelove	-73.9956235	40.7209	192 Mott St	New York	10012	NY	['192 Mott St', 'New York, NY 10012']	$$	4.0	88
+409	Gyu-Kaku Japanese BBQ	-73.99142	40.72822	34 Cooper Sq	New York	10003	NY	['34 Cooper Sq', 'New York, NY 10003']	$$$	4.0	1672
+410	Taste 1080	-73.9757995605469	40.8399467468262	1296 Palisade Ave	Fort Lee	07024	NJ	['1296 Palisade Ave', 'Fort Lee, NJ 07024']	$$$	4.0	137
+411	H Mart	-73.987404	40.7477833	38 W 32nd St	New York	10001	NY	['38 W 32nd St', 'New York, NY 10001']	$$	3.5	210
+412	The Sweet Sap	-73.7917962842939	40.7578205497777	189-11 Northern Blvd	Flushing	11358	NY	['189-11 Northern Blvd', 'Flushing, NY 11358']	$$	4.5	230
+413	Halal Mama	-74.1735648249168	40.7422335269512	160 University Ave	Newark	07102	NJ	['160 University Ave', 'Newark, NJ 07102']		3.5	8
+414	Charim	-73.9706419759271	40.850537618719	1635 Lemoine Ave	Fort Lee	07024	NJ	['1635 Lemoine Ave', 'Fort Lee, NJ 07024']		4.5	17
+415	Bapcha Korean Cuisine Cart	-73.97927	40.75856	W 49th St	New York	10020	NY	['W 49th St', 'New York, NY 10020']	$	3.5	65
+416	Korean Cooking Bob	-73.8307465240359	40.7613559881107	37-11 Main St	Flushing	11354	NY	['37-11 Main St', 'Ste 17', 'Flushing, NY 11354']		4.5	7
+417	99 Favor Taste	-73.988094	40.728833	37 St Marks Pl	New York	10003	NY	['37 St Marks Pl', 'New York, NY 10003']	$$	4.0	588
+418	Keo Ku Restaurant	-74.3569085	40.8584723	245 US Hwy 46	Parsippany	07054	NJ	['245 US Hwy 46', 'Parsippany, NJ 07054']	$$	3.5	135
+419	Essex Market	-73.987587	40.718101	88 Essex St	New York	10002	NY	['88 Essex St', 'New York, NY 10002']	$$	4.0	238
+420	Dream Pocha	-73.80677	40.76289	158-14 Northern Blvd	Flushing	11358	NY	['158-14 Northern Blvd', 'Ste 1', 'Flushing, NY 11358']	$$	4.5	51
+421	Hao Noodle Chelsea	-74.00436	40.7406999	343 W 14th St	New York	10014	NY	['343 W 14th St', 'New York, NY 10014']	$$	4.5	336
+422	Hansang Restaurant	-73.98447	40.8480599	520 Bergen Blvd	Palisades Park	07650	NJ	['520 Bergen Blvd', 'Palisades Park, NJ 07650']	$$	4.0	63
+423	U-gu	-73.96284	40.69393	541 Myrtle Ave	Brooklyn	11205	NY	['541 Myrtle Ave', 'Ste B', 'Brooklyn, NY 11205']	$$	4.5	125
+424	Hakata Tonton	-74.003326	40.733234	61 Grove St	New York	10014	NY	['61 Grove St', 'New York, NY 10014']	$$	4.0	995
+425	Cuisine K	-74.0115081595686	40.7145575491987	242-258 Greenwich St	New York	10007	NY	['242-258 Greenwich St', 'New York, NY 10007']	$	3.5	12
+426	Seoul Pancake	-73.8517438	40.7473311	47-01 111th St	Corona	11368	NY	['47-01 111th St', 'Corona, NY 11368']		3.5	2
+427	Kim Na Food Truck	-73.9838092822248	40.7408026524036	E 25th St Lexington Ave	New York		NY	['E 25th St Lexington Ave', 'New York, NY']	$	3.5	18
+428	Buntopia	-73.93398	40.69598	994 Broadway	Brooklyn	11221	NY	['994 Broadway', 'Brooklyn, NY 11221']	$$	4.5	245
+429	Flame	-73.97444	40.78396	100 W 82nd St	New York	10024	NY	['100 W 82nd St', 'New York, NY 10024']	$$	4.0	383
+430	HanaMichi	-73.9870278625656	40.7477154132864	28 W 32nd St	New York	10001	NY	['28 W 32nd St', 'New York, NY 10001']	$$	3.0	443
+431	Tofubox	-73.9468	40.71125	632 Grand St	Brooklyn	11211	NY	['632 Grand St', 'Brooklyn, NY 11211']		5.0	75
+432	Nadoori	-73.9900512695312	40.7305374145508	105 E 9th St	New York	10003	NY	['105 E 9th St', 'New York, NY 10003']	$$	3.0	5
+433	Sapps	-73.94008	40.74762	27-26 Jackson Ave	Long Island City	11101	NY	['27-26 Jackson Ave', 'Long Island City, NY 11101']	$$	4.0	146
+434	Katsu-Hama	-73.97759	40.75638	11 E 47th St	New York	10017	NY	['11 E 47th St', 'New York, NY 10017']	$$	4.0	1274
+435	Spoon & Chopstick	-73.98447	40.8480599	520 Bergen Blvd	Palisades Park	07650	NJ	['520 Bergen Blvd', 'Ste 9', 'Palisades Park, NJ 07650']	$$	4.0	33
+436	Chuko	-73.967455	40.680784	565 Vanderbilt Ave	Brooklyn	11238	NY	['565 Vanderbilt Ave', 'Brooklyn, NY 11238']	$$	4.0	1053
+437	SGD Dubu So Gong Dong Tofu & BBQ	-73.9998523	40.8447606	118 Broad Ave	Palisades Park	07650	NJ	['118 Broad Ave', 'Palisades Park, NJ 07650']	$$	4.0	169
+438	ROLLY	-73.736478	40.769905	252-01 Northern Blvd	Douglaston	11362	NY	['252-01 Northern Blvd', 'Douglaston, NY 11362']	$$	4.5	45
+439	Yetnal Tongdak	-73.8040166737235	40.7619732096376	40-24 162nd St	Flushing	11358	NY	['40-24 162nd St', 'Flushing, NY 11358']	$$	4.5	32
+440	Bonchon - Jersey City	-74.045	40.72137	172 Newark Ave	Jersey City	07302	NJ	['172 Newark Ave', 'Jersey City, NJ 07302']	$$	3.0	247
+441	Gorilla Grill	-73.9880000799894	40.8247299665005	606 Anderson Ave	Cliffside Park	07010	NJ	['606 Anderson Ave', 'Cliffside Park, NJ 07010']	$$	4.0	97
+442	Spring Restaurant	-73.961876	40.973629	221 Closter Dock Rd	Closter	07624	NJ	['221 Closter Dock Rd', 'Closter, NJ 07624']	$$	3.5	57
+443	Suki	-73.98608	40.72702	86 E 7th St	New York	10003	NY	['86 E 7th St', 'New York, NY 10003']	$$	4.5	96
+444	Koku Ramen	-73.9861784	40.7472532	2 W 32nd St	New York	10001	NY	['2 W 32nd St', 'New York, NY 10001']	$$	4.0	324
+445	Bloom	-74.24817	40.83307	648 Bloomfield Ave	Verona	07044	NJ	['648 Bloomfield Ave', 'Verona, NJ 07044']	$$	4.5	125
+446	Bang Ga Nae	-74.0092921257019	40.8339181186311	518 Broad Ave	Ridgefield	07657	NJ	['518 Broad Ave', 'Ridgefield, NJ 07657']	$$	5.0	12
+447	Daeji Ssonday Bbq Restaurant	-74.011078	40.824592	321 Broad Ave	Ridgefield	07657	NJ	['321 Broad Ave', 'Ridgefield, NJ 07657']	$$	4.0	76
+448	Mr. Soon Tofu	-73.811979	40.7647352	152-22 Northern Blvd	Flushing	11354	NY	['152-22 Northern Blvd', 'Flushing, NY 11354']	$$	3.5	136
+449	Yupdduk	-73.96773	40.85065	144 Main St	Fort Lee	07024	NJ	['144 Main St', 'Fort Lee, NJ 07024']	$$	3.0	42
+450	Abiko Curry	-73.9862179359732	40.7474259684723	2 W 32nd St	New York	10001	NY	['2 W 32nd St', 'New York, NY 10001']	$$	4.0	718
+451	Sushumai Asian Fusion	-73.9872866123915	40.7211610690848	112 Stanton St	New York	10002	NY	['112 Stanton St', 'New York, NY 10002']	$$	4.5	174
+452	Kimchi Taco	-74.0148391723633	40.7112121582031		New York	10281	NY	['New York, NY 10281']	$	3.0	224
+453	Hanyang Boonshik	-73.81324	40.76546	150-51 Northern Blvd	Flushing	11354	NY	['150-51 Northern Blvd', 'Flushing, NY 11354']	$	3.5	45
+454	Bonjuk FortLee	-73.96874	40.85058	1645 Palisade Ave	Fort Lee	07024	NJ	['1645 Palisade Ave', 'Fort Lee, NJ 07024']		4.0	18
+455	The Meat Bros - Korean BBQ	-73.96913	40.85074	176 Main St	Fort Lee	07024	NJ	['176 Main St', 'Fort Lee, NJ 07024']		4.0	334
+456	Momo King	-73.98617	40.6918	139 Lawrence St	Brooklyn	11201	NY	['139 Lawrence St', 'Brooklyn, NY 11201']		4.5	13
+457	So Moon Nan Jip	-73.9986421	40.8465327	238 Broad Ave	Palisades Park	07650	NJ	['238 Broad Ave', 'Palisades Park, NJ 07650']	$$	3.5	466
+458	Kong Sihk Tong 港食堂	-73.99813	40.71542	65 Bayard St	New York	10013	NY	['65 Bayard St', 'New York, NY 10013']	$	4.0	206
+459	Fob Brooklyn	-73.9930755	40.6826583	271 Smith St	Brooklyn	11231	NY	['271 Smith St', 'Brooklyn, NY 11231']	$$	4.0	196
+460	Dammion	-73.8142	40.76223	149-44 41st Ave	Flushing	11355	NY	['149-44 41st Ave', 'Flushing, NY 11355']		3.0	2
+461	Okonomi	-73.9487843	40.712622	150 Ainslie St	Brooklyn	11211	NY	['150 Ainslie St', 'Brooklyn, NY 11211']	$$	4.5	448
+462	Chairman Sun 国色天湘	-73.95375	40.74465	47-30 Vernon Blvd	Long Island City	11101	NY	['47-30 Vernon Blvd', 'Long Island City, NY 11101']		4.0	125
+463	Norikoh	-73.98153	40.75116	10 E 39th St	New York	10016	NY	['10 E 39th St', 'New York, NY 10016']	$$	4.0	533
+464	New York Seolnongtang	-73.8144298262722	40.7626236705305	149-44 41st Ave	Queens	11355	NY	['149-44 41st Ave', 'Queens, NY 11355']	$$	3.5	13
+465	Oppa	-74.001344	40.731826	162 W 4th St	New York	10014	NY	['162 W 4th St', 'New York, NY 10014']	$$	4.0	112
+466	Chinese Korean Dumplings and Noodles 中韓面食	-73.833222350293	40.7597914756932	136-20 Roosevelt Ave	Flushing	11355	NY	['136-20 Roosevelt Ave', 'Ste 30', 'Flushing, NY 11355']	$	3.5	52
+467	RiFu	-73.82679	40.7593699	136-77 41st Ave	New York	11355	NY	['136-77 41st Ave', 'New York, NY 11355']	$$	4.5	4
+468	Mikawa Japanese & Korean Modern	-73.6921267990194	40.7532132825831	1532 Union Turnpike	New Hyde Park	11040	NY	['1532 Union Turnpike', 'New Hyde Park, NY 11040']	$$	3.0	139
+469	Incheon Restaurant	-73.80292	40.76213	16225 Depot Rd	Flushing	11358	NY	['16225 Depot Rd', 'Flushing, NY 11358']	$$	3.5	29
+470	Set L.E.S	-73.9885318279266	40.7198495417833	127 Ludlow St	New York	10002	NY	['127 Ludlow St', 'New York, NY 10002']	$$	4.0	429
+471	天府小串城 Tianfu BBQ	-73.822548	40.7646323	144-18 Northern Blvd	Flushing	11354	NY	['144-18 Northern Blvd', 'Flushing, NY 11354']		4.0	4
+472	Tsurutontan Udon Noodle Brasserie	-73.9910699	40.73678	21 E 16th St	New York	10003	NY	['21 E 16th St', 'New York, NY 10003']	$$	4.0	1770
+473	ICHIRAN Midtown	-73.99062	40.74839	132 W 31st St	New York	10001	NY	['132 W 31st St', 'New York, NY 10001']	$$	4.0	698
+474	Garden Kitchen	-73.9531379	41.0001387	542 Livingston St	Norwood	07648	NJ	['542 Livingston St', 'Norwood, NJ 07648']		4.5	5
+475	Yong Goong Kal Guk Su	-73.8021651590838	40.7605217365909	163-24 Northern Blvd	Queens	11358	NY	['163-24 Northern Blvd', 'Queens, NY 11358']		5.0	1
+476	Dong Bang Grill	-73.9688199	40.8493	1616 Palisade Ave	Fort Lee	07024	NJ	['1616 Palisade Ave', 'Fort Lee, NJ 07024']	$$$	3.5	300
+477	90 Degree Coffee Noodles & Rice House	-74.01461	40.6408	5715 5th Ave	Brooklyn	11220	NY	['5715 5th Ave', 'Brooklyn, NY 11220']		4.5	22
+478	Tanoshii Ramen	-74.0235974	40.627671	7718 5th Ave	New York	11209	NY	['7718 5th Ave', 'Brooklyn', 'New York, NY 11209']	$$	4.5	75
+479	SGD Dubu So Gong Dong Tofu & Korean BBQ	-74.03053	40.9094	450 Hackensack Ave	Hackensack	07601	NJ	['450 Hackensack Ave', 'Ste 22', 'Hackensack, NJ 07601']	$$	3.5	45
+480	Memphis Seoul	-73.9578342	40.6716953	569 Lincoln Pl	Brooklyn	11238	NY	['569 Lincoln Pl', 'Brooklyn, NY 11238']		4.0	20
+481	Jumong Pocha	-73.97061	40.84757	1550 Lemoine Ave	Fort Lee	07024	NJ	['1550 Lemoine Ave', 'Fort Lee, NJ 07024']	$$	4.5	26
+482	City Kitchen	-73.98846	40.75874	700 8th Ave at 44th St	New York	10036	NY	['700 8th Ave at 44th St', 'New York, NY 10036']	$$	4.0	476
+483	Soosanghan Pocha	-73.99845	40.84629	232 Broad Ave	Palisades Park	07650	NJ	['232 Broad Ave', '3 Fl', 'Palisades Park, NJ 07650']	$$	4.0	41
+484	Chicken Factory	-74.02883	40.74304	529 Washington St	Hoboken	07030	NJ	['529 Washington St', 'Hoboken, NJ 07030']	$$	3.5	169
+485	Duke Eatery	-73.9750746534424	40.7569688575924	300 Park Ave	New York	10022	NY	['300 Park Ave', 'New York, NY 10022']	$$	4.0	51
+486	Laojie Hotpot	-74.0046846944427	40.6389709339157	811 53rd St	Brooklyn	11220	NY	['811 53rd St', 'Brooklyn, NY 11220']	$$	4.5	534
+487	Bonchon - Midland Park	-74.1520844	40.9982172	15 Central Ave	Midland Park	07432	NJ	['15 Central Ave', 'Midland Park, NJ 07432']	$$	4.0	96
+488	Marinade	-73.9530759	41.0002152	544 Livingston St	Norwood	07648	NJ	['544 Livingston St', 'Norwood, NJ 07648']		5.0	33
+489	ONDUBU	-74.071737	40.91542	60 State Rte 17 N	Paramus	07652	NJ	['60 State Rte 17 N', 'Paramus, NJ 07652']	$$	4.0	12
+490	Katsu-Hama	-73.97677	40.76254	45 W 55th St	New York	10019	NY	['45 W 55th St', 'Fl 2', 'New York, NY 10019']	$$	3.5	502
+491	Fuku	-74.00652	40.70478	110 Wall St	New York	10005	NY	['110 Wall St', 'New York, NY 10005']	$$	3.5	177
+492	Sugarcane Raw Bar Grill	-73.992343	40.703799	55 Water St	Brooklyn	11201	NY	['55 Water St', 'Brooklyn, NY 11201']	$$$	4.0	552
+493	madnoodle	-73.9860774000823	40.747668860844	11 West 32nd St	New York	10001	NY	['11 West 32nd St', 'New York, NY 10001']		3.5	10
+494	Songs Family Food	-73.80322	40.7614	16220 Northern Blvd	Flushing	11358	NY	['16220 Northern Blvd', 'Ste B', 'Flushing, NY 11358']	$	4.0	129
+495	Keum Ho Garden	-74.37676	40.51606	518 Old Post Rd	Edison	08817	NJ	['518 Old Post Rd', 'Unit 12', 'Edison, NJ 08817']	$$	4.0	160
+496	- Royal Spread	-73.8120091620797	40.7678157896008	151-29 34th Ave	Queens	11354	NY	['151-29 34th Ave', 'Ste 1', 'Queens, NY 11354']		5.0	1
+497	wagamama - murray hill	-73.9754	40.74909	605 3rd Ave	New York	10158	NY	['605 3rd Ave', 'New York, NY 10158']	$$	4.0	219
+498	Red Poke	-73.9849486	40.7641043	885 8th Ave	New York	10019	NY	['885 8th Ave', 'New York, NY 10019']	$$	4.5	65
+499	Koryeo Shabu Shabu	-73.96955	40.85277	2045 Lemoine Ave	Fort Lee	07024	NJ	['2045 Lemoine Ave', 'Fort Lee, NJ 07024']	$$	4.0	85
+500	Izakaya MEW	-73.9863203465939	40.7501853096499	53 W 35th St	New York	10001	NY	['53 W 35th St', 'New York, NY 10001']	$$	4.0	2223
+501	Miga	-73.9874701	40.8626131	344 Broad Ave	Leonia	07605	NJ	['344 Broad Ave', 'Leonia, NJ 07605']	$$	4.0	57
+502	New York Kim-bob Nara	-73.82594	40.76436	153-02A Northern Blvd	Flushing	11354	NY	['153-02A Northern Blvd', 'Flushing, NY 11354']	$	4.0	38
+503	Totowah	-73.99714	40.8494699	337 Broad Ave	Palisades Park	07650	NJ	['337 Broad Ave', 'Palisades Park, NJ 07650']	$$	3.5	146
+504	Kogane Ramen	-73.992675	40.698608	76 Henry St	Brooklyn Heights	11201	NY	['76 Henry St', 'Brooklyn Heights, NY 11201']	$$	4.0	318
+505	SuPoke Bar	-73.98518	40.75269	68 W 39th St	New York	10018	NY	['68 W 39th St', 'New York, NY 10018']		4.0	38
+506	Frame Gourmet Eatery	-73.98838	40.754638	552 7th Ave	New York	10018	NY	['552 7th Ave', 'New York, NY 10018']	$$	3.0	102
+507	iCook Buffet	-73.883305080235	40.7432600908448	81-17 Broadway	Elmhurst	11373	NY	['81-17 Broadway', 'Elmhurst, NY 11373']	$$	3.5	251
+508	Jin Ramen	-73.97695	40.78534	462 Amsterdam Ave	New York	10024	NY	['462 Amsterdam Ave', 'New York, NY 10024']	$$	4.0	868
+509	Bao Bao Cafe	-73.983474	40.740829	61 Lexington Ave	New York	10010	NY	['61 Lexington Ave', 'Unit B', 'New York, NY 10010']	$	4.0	448
+510	Ivy Lane	-73.968715	40.763027	116 E 60th St	New York	10022	NY	['116 E 60th St', 'New York, NY 10022']		4.5	33
+511	Norikoh	-73.99137	40.7433	43 W 24th St	New York	10010	NY	['43 W 24th St', 'New York, NY 10010']		4.0	20
+512	Hanok	-73.986108	40.747682	11 W 32nd St	New York	10001	NY	['11 W 32nd St', 'New York, NY 10001']	$$	3.0	61
+513	Red Hot Hot Pot	-73.9615043	40.8014032	1000 Columbus Ave	New York	10025	NY	['1000 Columbus Ave', 'New York, NY 10025']	$$	4.0	74
+514	iDiner	-73.6891	40.83071	87 Main St	Port Washington	11050	NY	['87 Main St', 'Port Washington, NY 11050']	$$	4.0	43
+515	Bunsik Nara	-73.998012	40.847268	254 Broad Ave	Palisades Park	07650	NJ	['254 Broad Ave', 'Palisades Park, NJ 07650']	$$	3.0	105
+516	Aux Epices	-73.9991025383579	40.7181073647053	121 Baxter St	New York	10013	NY	['121 Baxter St', 'New York, NY 10013']	$$	4.0	308
+517	Do Shi Rok	-73.8291	40.76019	136-31 Roosevelt Ave	Flushing	11354	NY	['136-31 Roosevelt Ave', 'Flushing, NY 11354']		4.5	7
+518	Mama	-73.98631	40.74761	11 W 32nd St	New York	10001	NY	['11 W 32nd St', 'Food Gallery 32', 'New York, NY 10001']	$	3.5	83
+519	52nd Sushi	-73.9116134643555	40.7445907592773	5221 Roosevelt Ave	Woodside	11377	NY	['5221 Roosevelt Ave', 'Woodside, NY 11377']	$$	4.0	115
+520	The Food Hall	-73.829968	40.7604295	136-17 39th Ave	Flushing	11354	NY	['136-17 39th Ave', 'Flushing, NY 11354']		4.0	6
+521	Mail Garden	-73.8144949	40.762161	149-32 41st Ave	New York	11355	NY	['149-32 41st Ave', 'New York, NY 11355']	$$	3.5	24
+522	KYURAMEN	-73.83339	40.76051	133-42 37th Ave	Flushing	11354	NY	['133-42 37th Ave', 'Flushing, NY 11354']	$$	4.5	129
+523	Koji Izakaya	-73.98641	40.69195	140 Lawrence St	Brooklyn	11201	NY	['140 Lawrence St', 'Brooklyn, NY 11201']	$$	4.0	56
+524	Izakaya Juraku	-73.9887088537216	40.7196796287355	121 Ludlow St	New York	10002	NY	['121 Ludlow St', 'New York, NY 10002']	$$	4.5	82
+525	Chikarashi	-73.99948	40.71787	227 Canal St	New York	10013	NY	['227 Canal St', 'New York, NY 10013']	$$	4.0	480
+526	Hwang Geum Euh Jang - The Golden Fishery	-73.7941909	40.7536453	171-53 46th Ave	Flushing	11358	NY	['171-53 46th Ave', 'Flushing, NY 11358']		4.0	13
+527	Furendong	-73.82824	40.76304	36-24 Union St	Queens	11354	NY	['36-24 Union St', 'Queens, NY 11354']		5.0	1
+528	Pr&ince	-74.04576	40.7198	80 Wayne St	Jersey City	07302	NJ	['80 Wayne St', 'Jersey City, NJ 07302']	$$	4.5	404
+529	Wando Restaurant	-73.813568	40.762523	41-11 150th St	Queens	11355	NY	['41-11 150th St', 'Queens, NY 11355']		3.5	3
+530	Davelle	-73.98605	40.71852	102 Suffolk St	New York	10002	NY	['102 Suffolk St', 'New York, NY 10002']	$$	4.0	103
+531	Koro Koro	-74.0462404903579	40.7212435019165	538 Jersey Ave	Jersey City	07302	NJ	['538 Jersey Ave', 'Jersey City, NJ 07302']	$	4.0	206
+532	Zhen Wei Fang	-73.99343	40.72128	207 Bowery	New York	10002	NY	['207 Bowery', 'New York, NY 10002']		4.0	174
+533	Raku	-74.00252	40.72728	48 Macdougal St	New York	10012	NY	['48 Macdougal St', 'New York, NY 10012']	$$	4.5	324
+534	Bunn	-73.9862736	40.7476713	11 W 32nd St	New York	10001	NY	['11 W 32nd St', 'New York, NY 10001']	$	3.5	163
+535	Cheogod Zip Chicken Pizza	-73.7963409423828	40.7604064941406	160-24A Northern Blvd	New York	11358	NY	['160-24A Northern Blvd', 'New York, NY 11358']	$$	3.5	77
+536	Song's Family Food Court	-73.7323888830567	40.7751538333457	485 Great Neck Rd	Great Neck	11021	NY	['485 Great Neck Rd', 'Great Neck, NY 11021']	$$	4.0	63
+537	Shinjung Galbi	-73.8047103881836	40.762622833252	16013 Northern Blvd	Flushing	11358	NY	['16013 Northern Blvd', 'Flushing, NY 11358']	$$	3.0	34
+538	Norikoh Chelsea	-73.99137	40.7433	43 W. 24th St	New York	10010	NY	['43 W. 24th St', 'New York, NY 10010']		5.0	1
+539	Cafe Originale	-73.8053371	40.7626998	160-28 Northern Blvd	Flushing	11358	NY	['160-28 Northern Blvd', 'Flushing, NY 11358']	$$	4.0	89
+540	Karasu	-73.973256	40.689411	166 Dekalb Ave	Brooklyn	11217	NY	"['166 Dekalb Ave', ""Walter's"", 'Brooklyn, NY 11217']"	$$$	4.0	93
+541	Hanok Buffet	-74.397898	40.446782	415 NJ-18	East Brunswick	08816	NJ	['415 NJ-18', 'Ste 9', 'East Brunswick, NJ 08816']	$$	3.5	67
+542	Peck Peck Korean Style Chicken	-74.021122	40.875095	250 Degraw Ave	Teaneck	07666	NJ	['250 Degraw Ave', 'Teaneck, NJ 07666']	$$	4.5	537
+543	KumGangSan	-73.8291063905583	40.7595360835927	136-20 Roosevelt Ave	Flushing	11354	NY	['136-20 Roosevelt Ave', 'Ste 018', 'Flushing, NY 11354']		3.5	7
+544	Fishmarket Restaurant	-74.00192	40.70717	111 South St	New York	10038	NY	['111 South St', 'New York, NY 10038']	$$	4.5	541
+545	Na Moo Dol	-73.826938	40.772124	29-02 Union St	Flushing	11354	NY	['29-02 Union St', 'Flushing, NY 11354']	$	4.0	41
+546	Shokunin BBQ	-74.0062164404754	40.6332876204455	952 60th St	Brooklyn	11219	NY	['952 60th St', 'Brooklyn, NY 11219']	$$$	3.5	189
+547	Pies-n-Thighs	-73.961424	40.711191	166 S 4th St	Brooklyn	11211	NY	['166 S 4th St', 'Brooklyn, NY 11211']	$$	4.0	2839
+548	Krush	-73.986198	40.747204	2 W 32nd St	New York	10001	NY	['2 W 32nd St', 'Fl 4', 'New York, NY 10001']	$$	3.5	190
+549	Mamison	-73.98443	40.87602	566 Grand Ave	Englewood	07631	NJ	['566 Grand Ave', 'Englewood, NJ 07631']		4.5	5
+550	Sang’s Kitchen	-74.0715036168694	40.9160370851384	60 NJ-17	Paramus	07652	NJ	['60 NJ-17', 'Paramus, NJ 07652']		4.0	9
+551	Pokebab	-74.01172	40.70426	80 Broad St	New York	10004	NY	['80 Broad St', 'New York, NY 10004']	$$	4.5	63
+552	Omusubi Gonbei	-73.9769974	40.7508187	120 E 41st St	New York	10017	NY	['120 E 41st St', 'New York, NY 10017']	$$	4.5	44
+553	Hunger Pang	-73.9696960449219	40.6470565795898	1021 Church Ave	Flatbush	11218	NY	['1021 Church Ave', 'Flatbush, NY 11218']	$$	4.5	302
+554	OBAO	-73.991332	40.7606544	647 9th Ave	New York	10036	NY	['647 9th Ave', 'New York, NY 10036']	$$	4.0	2476
+555	Junzi Kitchen	-73.9652019005902	40.8057641877461	2896 Broadway	New York	10025	NY	['2896 Broadway', 'New York, NY 10025']	$$	4.0	163
+556	Soohtbul Garden	-74.0011561302795	40.8433652634959	42 Broad Ave	Palisades Park	07650	NJ	['42 Broad Ave', 'Palisades Park, NJ 07650']		4.5	15
+557	Clay Pot - West Village	-74.00319	40.73138	270 Bleeker St	New York	10014	NY	['270 Bleeker St', 'New York, NY 10014']	$$	4.5	54
+558	Gaji Gaji Janchijip Corporation	-73.8106027	40.7644144	154-28 Northern Blvd	New York	11354	NY	['154-28 Northern Blvd', 'New York, NY 11354']		4.5	4
+559	Ootoya Chelsea	-73.992778	40.738767	8 W 18th St	New York	10011	NY	['8 W 18th St', 'New York, NY 10011']	$$	4.0	1371
+560	TONCHIN NEW YORK	-73.9844951	40.7502727	13 W 36th St	New York	10018	NY	['13 W 36th St', 'New York, NY 10018']	$$	4.5	1024
+561	Meet Noodles	-74.00546	40.63979	5216 8th Ave	Brooklyn	11220	NY	['5216 8th Ave', 'Brooklyn, NY 11220']	$$	4.0	102
+562	Dae Bak Bap Jip	-73.9849316328764	40.8469212055206	500 10th St	Palisades Park	07650	NJ	['500 10th St', 'Palisades Park, NJ 07650']	$$	3.0	21
+563	HinoMaru Ramen	-73.9092001318932	40.774889916651	33-18 Ditmars Blvd	Astoria	11105	NY	['33-18 Ditmars Blvd', 'Astoria, NY 11105']	$$	4.0	846
+564	Don Ichi	-74.001478	40.842517	4 E Columbia Ave	Palisades Park	07650	NJ	['4 E Columbia Ave', 'Palisades Park, NJ 07650']		4.0	1
+565	Yakiniku Gen	-73.96815	40.75611	250 E 52nd St	New York	10022	NY	['250 E 52nd St', 'New York, NY 10022']	$$$	4.0	142
+566	Elyssia's Kitchen	-74.21222	40.80862	190C Bloomfield Ave	Montclair	07042	NJ	['190C Bloomfield Ave', 'Montclair, NJ 07042']		4.0	41
+567	Kyo Ya	-73.98534	40.7267	94 E 7th St	New York	10009	NY	['94 E 7th St', 'New York, NY 10009']	$$$$	4.5	451
+568	Ichiba Ramen	-73.9919199	40.73473	125 University Pl	New York	10003	NY	['125 University Pl', 'New York, NY 10003']	$$	3.5	513
+569	Bonchon - Parsippany	-74.3484214600815	40.8575057054642	57 New Rd	Parsippany	07054	NJ	['57 New Rd', 'Parsippany, NJ 07054']	$$	3.5	84
+570	Kai Sushi Asian Fusion	-73.84565	40.84362	1475 Williamsbridge Rd	Bronx	10461	NY	['1475 Williamsbridge Rd', 'Bronx, NY 10461']	$$	4.0	226
+571	Bonchon - Nutley	-74.1540489	40.8247292	553 N Franklin Ave	Nutley	07110	NJ	['553 N Franklin Ave', 'Nutley, NJ 07110']	$$	3.5	130
+572	New Gayaha	-73.8278293	40.762493	136-93 37th Ave	Flushing	11354	NY	['136-93 37th Ave', 'Fl 2', 'Flushing, NY 11354']	$$	4.5	8
+573	Kimchi Korean Taste	-74.346267	40.53572	1199 Amboy Ave	Edison	08837	NJ	['1199 Amboy Ave', 'Lotte Plaza Market', 'Edison, NJ 08837']		4.0	5
+574	Mooncake Foods	-74.004562	40.7237776	112 6th Ave	New York	10013	NY	['112 6th Ave', 'Between Watts St & Broome St', 'New York, NY 10013']	$$	4.0	513
+575	886	-73.98873	40.72877	26 Saint Marks Pl	New York	10003	NY	['26 Saint Marks Pl', 'New York, NY 10003']	$$	4.0	322
+576	Pelicana Chicken	-73.98822	40.841249	417 E Brinkerhoff Ave	Palisades Park	07650	NJ	['417 E Brinkerhoff Ave', 'Palisades Park, NJ 07650']	$$	4.5	422
+577	Manul Mandu	-73.80236	40.76061	163-24 Northern Blvd	Queens	11358	NY	['163-24 Northern Blvd', 'Queens, NY 11358']		4.5	4
+578	Wild Ink	-74.001388	40.753754	500 W 33rd St	New York	10001	NY	['500 W 33rd St', 'Fl 5', 'New York, NY 10001']	$$$	4.0	123
+579	Shuya Cafe de Ramen	-73.9167939666258	40.758007205736	42-13 Broadway	Astoria	11103	NY	['42-13 Broadway', 'Astoria, NY 11103']	$$	4.5	261
+580	Ding Asian Szechuan Hot Pot Restaurant	-73.98635	40.76064	234 W 48th St	New York	10036	NY	['234 W 48th St', 'New York, NY 10036']	$$	3.5	183
+581	Konbini NY	-73.98583	40.74701	312 5th Ave	New York	10001	NY	['312 5th Ave', 'New York, NY 10001']		3.5	30
+582	Very Fresh Noodles	-74.00625	40.7423387008486	425 W 15th St	New York	10011	NY	['425 W 15th St', 'New York, NY 10011']	$$	4.5	932
+583	Han Dynasty	-73.988074	40.732072	90 3rd Ave	New York	10003	NY	['90 3rd Ave', 'New York, NY 10003']	$$	4.0	1211
+584	Gyu-Kaku Japanese BBQ	-73.829822	40.758159	4052 Main St	Flushing	11354	NY	['4052 Main St', 'Flushing, NY 11354']	$$	4.5	529
+585	Wonjo Tofu House	-73.8295674	40.7603812	136-20 39th Ave	Flushing	11354	NY	['136-20 39th Ave', 'Flushing, NY 11354']	$$	3.5	14
+586	Gangnam Tofu House	-73.96521	40.9241028	7 W Clinton Ave	Tenafly	07670	NJ	['7 W Clinton Ave', 'Tenafly, NJ 07670']	$$	3.0	12
+587	Jujube Tree	-73.91821	40.76512	35-02 30th Ave	Astoria	11103	NY	['35-02 30th Ave', 'Astoria, NY 11103']	$$	4.5	368
+588	JoJu	-73.97874	40.7558	555 5th Ave	New York	10017	NY	['555 5th Ave', '46th St. Entrance, Between 5th & Madison Ave', 'New York, NY 10017']	$$	4.5	59
+589	Tamashii Ramen	-73.926578	40.7628026	2905 Broadway	Astoria	11106	NY	['2905 Broadway', 'Astoria, NY 11106']	$$	4.0	699
+590	Dinosaur Bar-B-Que	-73.9608729269837	40.818098338924	700 W 125th St	Harlem	10027	NY	['700 W 125th St', 'Harlem, NY 10027']	$$	4.0	3000
+591	Seoul Lee Korean Barbecue	-73.989225178957	40.7424806803465	Madison Square Park	New York	10035	NY	['Madison Square Park', '1107 Broadway', 'New York, NY 10035']	$	3.0	25
+592	Eastern Kitchen	-73.9598342725183	40.970903034552	280 Closter Dock Rd	Closter	07624	NJ	['280 Closter Dock Rd', 'Closter, NJ 07624']		3.5	6
+593	Bāng Bar	-73.983082	40.768462	10 Columbus Cir	New York	10023	NY	['10 Columbus Cir', 'Fl 3', 'New York, NY 10023']	$	4.0	89
+594	Xi Top Barbeque	-73.8151400908828	40.7625200850465	40-30 149th Pl	Flushing	11354	NY	['40-30 149th Pl', 'Flushing, NY 11354']	$$	3.5	26
+595	LuAnne's Wild Ginger All-Asian Vegan	-73.989925	40.687936	112 Smith St	Brooklyn	11201	NY	['112 Smith St', 'Brooklyn, NY 11201']	$$	4.0	343
+596	MIGHTY Bowl	-74.00049	40.72986	120 Macdougal St	New York	10012	NY	['120 Macdougal St', 'New York, NY 10012']	$$	4.0	243
+597	Ozu	-73.9932652562857	40.6974732130766	78 Clark St	Brooklyn	11201	NY	['78 Clark St', 'Brooklyn, NY 11201']	$$	4.0	249
+598	Jaew Hon New York	-73.8938216	40.7464487	71-30 Roosevelt Ave	Jackson Heights	11372	NY	['71-30 Roosevelt Ave', 'Jackson Heights, NY 11372']	$$	4.5	163
+599	Lan Ting Hotpot	-74.010961	40.637494	705 59th St	Brooklyn	11220	NY	['705 59th St', 'Ste BC', 'Brooklyn, NY 11220']	$$	4.5	229
+600	Korean Food Cart	-73.9808887692688	40.7592712341372	49TH And 6th Ave	Manhattan	10020	NY	['49TH And 6th Ave', 'Manhattan, NY 10020']		4.0	2
+601	Bulgogi & Kimchi Street Cart	-73.9808887692688	40.7592712341372	49TH St And 6th Ave	New York	10020	NY	['49TH St And 6th Ave', 'New York, NY 10020']	$	3.5	31
+602	Golden Rich	-73.99786	40.64651	4001 8th Ave	Brooklyn	11232	NY	['4001 8th Ave', 'Brooklyn, NY 11232']	$$	4.0	92
+603	Raku	-73.9866526052356	40.7264988089246	342 E 6th St	New York	10003	NY	['342 E 6th St', 'New York, NY 10003']	$$	4.5	1008
+604	Hot Spot Nabe	-73.9946	40.61515	7204 18th Ave	Brooklyn	11204	NY	['7204 18th Ave', 'Brooklyn, NY 11204']	$$$	3.5	89
+605	NAMHAN SANSUNG KOREAN RESTAURANT	-73.9848739653826	40.8468318419447	500 10th St	Palisades Park	07650	NJ	['500 10th St', 'Palisades Park, NJ 07650']		3.5	10
+606	Janchi Janchi	-73.8278909772635	40.7638793438673	138-28 Northern Blvd	New York	11354	NY	['138-28 Northern Blvd', 'New York, NY 11354']	$$	4.5	7
+607	Bap Do Duk	-73.9954071	40.8509483	446 Broad Ave	Palisades Park	07650	NJ	['446 Broad Ave', 'Palisades Park, NJ 07650']	$$	3.5	20
+608	Raku - It's Japanese II	-73.976516	40.779997	57 W 76th St	New York	10023	NY	['57 W 76th St', 'New York, NY 10023']	$$	4.0	304
+609	Go!Go!Curry	-73.999026	40.7295	231 Thompson St	New York	10012	NY	['231 Thompson St', 'New York, NY 10012']	$$	4.0	246
+610	678	-73.8140341693898	40.7621949895803	149-46 41st St	Flushing	11355	NY	['149-46 41st St', 'Flushing, NY 11355']	$$	4.5	2
+611	Kuu Ramen	-74.0089569	40.7096786	20 John St	New York	10038	NY	['20 John St', 'New York, NY 10038']	$$	4.0	604
+612	Tortoise & Hare	-73.89668	40.89415	6115 Broadway	Bronx	10471	NY	['6115 Broadway', 'Bronx, NY 10471']		4.0	41
+613	Naruto Ramen	-73.9698717	40.7968567	2634 Broadway	New York	10025	NY	['2634 Broadway', 'New York, NY 10025']	$$	4.0	239
+614	The Greenwich Social	-73.99409	40.73564	74 5th Ave	New York	10011	NY	['74 5th Ave', 'New York, NY 10011']		4.0	32
+615	Sushi & Co	-74.008663	40.709488	67 Nassau St	New York	10038	NY	['67 Nassau St', 'New York, NY 10038']		4.0	22
+616	Bogota Sports Cafe	-74.0332311	40.8707339	30 Cross St	Bogota	07603	NJ	['30 Cross St', 'Bogota, NJ 07603']		5.0	1
+617	New World Mall Food Court	-73.8291516155005	40.7593304514751	136-20 Roosevelt Ave	Flushing	11354	NY	['136-20 Roosevelt Ave', 'Flushing, NY 11354']	$	4.0	835
+618	H Mart - Ridgefield	-74.01068	40.82457	321 Broad Ave.	Ridgefield	07657	NJ	['321 Broad Ave.', 'Ridgefield, NJ 07657']	$$	4.0	137
+619	Ichi Cellar	-73.9848598	40.7467294	6 E 32nd St	New York	10016	NY	['6 E 32nd St', 'New York, NY 10016']	$$	3.0	112
+620	You like fish	-73.99299	40.61656	6916 18th Ave	Brooklyn	11204	NY	['6916 18th Ave', 'Brooklyn, NY 11204']		4.0	19
+621	Moon Star Grill	-73.909908766271	40.8861089331436	3519-25 Johnson Ave	Riverdale	10463	NY	['3519-25 Johnson Ave', 'Riverdale, NY 10463']	$$	4.0	95
+622	RedFarm	-73.980415	40.782051	2170 Broadway	New York	10024	NY	['2170 Broadway', 'New York, NY 10024']	$$$	3.5	595
+623	Yang Ji Chon	-73.83186	40.76391	35-14 Farrington St	Flushing	11354	NY	['35-14 Farrington St', 'Flushing, NY 11354']	$$	4.0	8
+624	Mom's Kitchen	-74.09694	40.83251	128 Park Ave	East Rutherford	07073	NJ	['128 Park Ave', 'East Rutherford, NJ 07073']		5.0	1
+625	Deli Manjoo	-73.9923629760742	40.7491302490234		New York	10001	NY	['New York, NY 10001']	$	3.0	8
+626	Jakumsung	-73.99526	40.85113	448 Broad Ave	Palisades Park	07650	NJ	['448 Broad Ave', 'Palisades Park, NJ 07650']		4.0	13
+627	Jiang Diner	-73.98838	40.72665	309 E 5th St	New York	10003	NY	['309 E 5th St', 'New York, NY 10003']	$$	4.0	103
+628	Spicy Moon	-73.98722	40.72674	328 E 6th St	New York	10003	NY	['328 E 6th St', 'New York, NY 10003']	$$	4.5	222
+629	jipbop	-74.00942	40.83364	506 Broad Ave	Ridgefield	07657	NJ	['506 Broad Ave', 'Ridgefield, NJ 07657']		5.0	2
+630	Oramen	-73.9960282	40.7390256	579 6th Ave	New York	10011	NY	['579 6th Ave', 'New York, NY 10011']	$$	4.0	273
+631	Tang Two Restaurant	-73.968427	40.852137	2056 Hudson St	Fort Lee	07024	NJ	['2056 Hudson St', 'Fort Lee, NJ 07024']	$$	3.5	28
+632	Big Bowls Little Plates	-74.04539	40.78538	700 Plaza Dr	Secaucus	07094	NJ	['700 Plaza Dr', 'The Plaza at Harmon Meadow', 'Secaucus, NJ 07094']	$$	4.0	37
+633	Makana BBQ & Poke	-73.9650623620337	40.8003498753624	161 W 106th St	New York	10025	NY	['161 W 106th St', 'New York, NY 10025']	$$	3.5	204
+634	Ghost Truck Kitchen	-74.04809	40.7209	356 Varick St	Jersey City	07302	NJ	['356 Varick St', 'Jersey City, NJ 07302']		4.5	33
+635	Ono Korean Barbeque	-74.251398	40.43036517	349 Matawan Rd	Matawan	07747	NJ	['349 Matawan Rd', 'Matawan, NJ 07747']	$$	4.5	71
+636	Nyonya	-73.9968228	40.7190148	199 Grand St	New York	10013	NY	['199 Grand St', 'New York, NY 10013']	$$	4.0	2050
+637	Japan Village	-74.00641	40.65597	934 3rd Ave	Brooklyn	11232	NY	['934 3rd Ave', 'Brooklyn, NY 11232']	$$	3.0	206
+638	Dong Bo Sung	-73.96741	40.85667	2169 Lemoine Ave	Fort Lee	07024	NJ	['2169 Lemoine Ave', 'Fort Lee, NJ 07024']	$$	3.5	77
+639	Ootoya Greenwich Village	-73.99273	40.73316	41 E 11th St	New York	10003	NY	['41 E 11th St', 'New York, NY 10003']	$$	4.0	304
+640	Cocoron	-73.9953191	40.7207236	37 Kenmare St	New York	10012	NY	['37 Kenmare St', 'New York, NY 10012']	$$	4.0	626
+641	District Kitchen	-74.0341565746368	40.7177979110845	210 Hudson St	Jersey City	07311	NJ	['210 Hudson St', 'Jersey City, NJ 07311']		4.0	11
+642	Kobeyaki	-73.99388	40.7462138	293 7th Ave	New York	10001	NY	['293 7th Ave', 'New York, NY 10001']	$$	4.0	535
+643	Tamashii Red	-73.84369	40.71951	71-34 Austin St	Forest Hills	11375	NY	['71-34 Austin St', 'Forest Hills, NY 11375']	$$	4.0	291
+644	Bread & Butter	-73.971406698227	40.7537832561612	757 3rd Ave	New York	10017	NY	['757 3rd Ave', 'New York, NY 10017']	$	2.5	102
+645	Urbanspace Vanderbilt	-73.976605	40.754623	230 Park Ave	New York	10169	NY	['230 Park Ave', 'New York, NY 10169']	$$	4.0	645
+646	Takahachi Bakery	-74.00822	40.71393	25 Murray St	New York	10007	NY	['25 Murray St', 'New York, NY 10007']	$$	4.0	886
+647	EAK RAMEN - NY West Village	-73.99837	40.73568	469 Avenue Of The Americas	New York	10011	NY	['469 Avenue Of The Americas', 'New York, NY 10011']	$$	4.0	274
+648	Haidilao Hotpot	-73.8280301	40.7612633	138-23 39th Ave	Flushing	11354	NY	['138-23 39th Ave', 'Flushing, NY 11354']		4.5	479
+649	Ippudo NY	-73.99015	40.73092	65 4th Ave	New York	10003	NY	['65 4th Ave', 'New York, NY 10003']	$$	4.0	9901
+650	Sunrise Mart	-74.0025149	40.7232311	494 Broome St	New York	10012	NY	['494 Broome St', 'New York, NY 10012']	$$	4.0	269
+651	Fuyu Ramen	-73.918057	40.743478	4617 Queens Blvd	Sunnyside	11104	NY	['4617 Queens Blvd', 'Sunnyside, NY 11104']	$$	4.5	100
+652	MukEunJi	-73.9993391	40.8461213	217 Broad Ave	Palisades Park	07650	NJ	['217 Broad Ave', 'Palisades Park, NJ 07650']	$$	3.0	64
+653	H Mart - Bayside	-73.781346294165	40.7535296148446	46-40 Francis Lewis Blvd.	Bayside	11361	NY	['46-40 Francis Lewis Blvd.', 'Bayside, NY 11361']	$$	3.5	116
+654	Kulpi Chicken	-73.9624612	40.9738997	211 Closter Dock Rd	Closter	07624	NJ	['211 Closter Dock Rd', 'Closter, NJ 07624']		3.5	15
+655	Han Nam Bunsik	-73.985692	40.8522018	1475 Bergen Blvd	Fort Lee	07024	NJ	['1475 Bergen Blvd', 'Fort Lee, NJ 07024']	$	4.5	26
+656	Masil House	-73.9748199	40.85333	400 Main St	Fort Lee	07024	NJ	['400 Main St', 'Fort Lee, NJ 07024']	$$	4.0	36
+657	Bonchon - Union	-74.2682874674541	40.6970846782816	1045-C Stuyvesant Ave	Union	07083	NJ	['1045-C Stuyvesant Ave', 'Union, NJ 07083']	$$	3.5	207
+658	Pelicana Chicken	-73.7695053219795	40.7610288996132	4313 Bell Blvd	Bayside	11361	NY	['4313 Bell Blvd', 'Bayside, NY 11361']	$$	4.0	109
+659	The Plaza Food Hall	-73.974561	40.764223	1 W 59th St	New York	10019	NY	['1 W 59th St', 'New York, NY 10019']	$$	4.0	635
+660	Dol Seafood	-73.9855626225471	40.8531104945115	1475 Old Bergen Blvd	Fort Lee	07024	NJ	['1475 Old Bergen Blvd', 'Fort Lee, NJ 07024']		3.5	23
+661	Hello Saigon	-74.0009501203895	40.7289399955423	180 Bleecker St	New York	10012	NY	['180 Bleecker St', 'New York, NY 10012']	$$	4.0	276
+662	Dong Hae Susan	-73.999453	40.853969	445 Grand Ave	Palisades Park	07650	NJ	['445 Grand Ave', 'Palisades Park, NJ 07650']	$$	3.5	46
+663	Nippori	-73.984939	40.7628542	245 W 51st St	New York	10019	NY	['245 W 51st St', 'New York, NY 10019']	$$	4.0	810
+664	Haha Don Katsu	-73.9702	40.8506799	1630 Lemoine Ave	Fort Lee	07024	NJ	['1630 Lemoine Ave', 'Fort Lee, NJ 07024']	$$	4.0	64
+665	Dinosaur Bar-B-Que	-73.9838929	40.6776201	604 Union St	Brooklyn	11215	NY	['604 Union St', 'Brooklyn, NY 11215']	$$	3.5	1594
+666	66S Fusion	-73.9715740687866	40.6977600194066	130 Flushing Ave	Brooklyn	11205	NY	['130 Flushing Ave', 'Brooklyn, NY 11205']	$$	4.0	78
+667	Seven China	-73.7559119	40.7491501	22134 Horace Harding Expwy	Queens	11364	NY	['22134 Horace Harding Expwy', 'Queens, NY 11364']		2.5	3
+668	Moonrise Izakaya	-73.969762	40.795399	774 Amsterdam Ave	New York	10025	NY	['774 Amsterdam Ave', 'New York, NY 10025']		4.5	31
+669	Exit 201	-74.00523	40.84423	15 Grand Ave	Palisades Park	07650	NJ	['15 Grand Ave', 'Palisades Park, NJ 07650']	$$	4.0	95
+670	Decoy	-74.006519	40.734196	529 Hudson St	New York	10014	NY	['529 Hudson St', 'New York, NY 10014']	$$$	4.0	414
+671	Okinii	-73.99911	40.72894	216 Thompson St	New York	10012	NY	['216 Thompson St', 'New York, NY 10012']	$$	4.0	298
+672	Fuku	-74.01533	40.71156	225 Liberty St	New York	10281	NY	['225 Liberty St', 'New York, NY 10281']	$$	3.0	128
+673	Friendship Foods BBQ	-73.827671	40.76078	136-76 39th Ave	Flushing	11354	NY	['136-76 39th Ave', 'Lower floor', 'Flushing, NY 11354']	$$	3.5	168
+674	Málà Project	-73.98056	40.75693	41 W 46th St	New York	10036	NY	['41 W 46th St', 'New York, NY 10036']	$$	4.0	287
+675	Kimoto Rooftop	-73.98453	40.69171	216 Duffield St	Brooklyn	11201	NY	['216 Duffield St', 'Brooklyn, NY 11201']	$$	3.5	496
+676	H Mart - Union	-73.8266342033581	40.7721666823341	29-02 Union St.	Flushing	11354	NY	['29-02 Union St.', 'Flushing, NY 11354']	$$	4.0	95
+677	Dosi Uhboo	-73.9993536320194	40.8465963567657	225 Broad Ave	Palisades Park	07650	NJ	['225 Broad Ave', 'Ste 101', 'Palisades Park, NJ 07650']		3.5	4
+678	Somoon Corporation	-73.8040323	40.7612329	4104 162nd St	Flushing	11358	NY	['4104 162nd St', 'Flushing, NY 11358']		5.0	1
+679	Choiga Naeng Myun	-73.7733291258944	40.7594551120943	209-35 Northern Blvd	Bayside	11361	NY	['209-35 Northern Blvd', 'Bayside, NY 11361']	$$	3.5	46
+680	Mr BBQ	-73.956818	40.870137	150 Sylvan Ave	Englewood Cliffs	07632	NJ	['150 Sylvan Ave', 'Englewood Cliffs, NJ 07632']	$$	4.0	180
+681	Sambak Sambabjip	-73.8136830329854	40.7624703461058	41-11 150th St	Queens	11355	NY	['41-11 150th St', 'Queens, NY 11355']		5.0	1
+682	Za-Ya Ramen	-73.99968	40.6741699	545 Court St	Brooklyn	11231	NY	['545 Court St', 'Brooklyn, NY 11231']	$$	4.5	139
+683	LuAnne's Wild Ginger All-Asian Vegan	-73.9964956	40.7204631	380 Broome St	New York	10013	NY	['380 Broome St', 'New York, NY 10013']	$$	4.0	640
+684	Don Chicken	-74.033897	40.929311	626 Kinderkamack Rd	River Edge	07661	NJ	['626 Kinderkamack Rd', 'River Edge, NJ 07661']		4.0	17
+685	Yakiniku Tohbay	-73.98326	40.76528	253 West 55th St	New York	10019	NY	['253 West 55th St', 'Fl 2', 'New York, NY 10019']		4.5	14
+686	Chicken Korea	-73.8046093	40.7571279	43-60 162nd St	Flushing	11358	NY	['43-60 162nd St', 'Flushing, NY 11358']		4.5	2
+687	BOHO's Kitchen	-73.98864	40.72072	152 Orchard St	New York	10002	NY	['152 Orchard St', 'New York, NY 10002']		4.5	8
+688	Ubu	-74.0292022	40.738641	205 Hudson St	Hoboken	07030	NJ	['205 Hudson St', 'Hoboken, NJ 07030']	$$	3.5	90
+689	Jun-Men Ramen Bar	-74.00047	40.748209	249 9th Ave	New York	10001	NY	['249 9th Ave', 'New York, NY 10001']	$$	4.0	599
+690	BBQ Chicken & Beer	-73.98751	40.82661	651 Anderson Ave	Cliffside Park	07010	NJ	['651 Anderson Ave', 'Cliffside Park, NJ 07010']	$$	4.0	176
+691	Best Dumplings	-73.97715	40.89446	16 Humphrey St	Englewood	07631	NJ	['16 Humphrey St', 'Englewood, NJ 07631']	$	4.0	106
+692	Te Min Quan	-73.9978125	40.847666	270 Broad Ave	Palisades Park	07650	NJ	['270 Broad Ave', 'Palisades Park, NJ 07650']	$$	4.0	124
+693	Bondst	-73.994404	40.726934	6 Bond St	New York	10012	NY	['6 Bond St', 'New York, NY 10012']	$$$	4.0	954
+694	Korea House	-73.9862516747779	40.7476631904446	17 W 32nd St	New York	10001	NY	['17 W 32nd St', 'New York, NY 10001']	$$	3.0	49
+695	Tamashii Blue	-73.9538	40.74452	47-36 Vernon Blvd	Long Island City	11101	NY	['47-36 Vernon Blvd', 'Long Island City, NY 11101']	$$	4.0	248
+696	Musashi Asian Cuisine	-73.9514236450195	40.7111358642578	495 Grand St	Brooklyn	11211	NY	['495 Grand St', 'Brooklyn, NY 11211']	$$	4.5	143
+697	Shangri-La	-74.0277	40.6321	7400 3rd Ave	Bay Ridge	11209	NY	['7400 3rd Ave', 'Bay Ridge, NY 11209']	$$	4.0	167
+698	Momofuku Noodle Bar	-73.9844848239426	40.7292063820076	171 1st Ave	New York	10003	NY	['171 1st Ave', 'New York, NY 10003']	$$	3.5	4224
+699	Mu Ramen	-73.950631	40.743797	12-09 Jackson Ave	Long Island City	11101	NY	['12-09 Jackson Ave', 'Long Island City, NY 11101']	$$	3.5	1199
+700	Ding Food Market	-74.1584174860186	40.7461823757412	241 Harrison Ave	Harrison	07029	NJ	['241 Harrison Ave', 'Harrison, NJ 07029']		5.0	50
+701	Samurice	-74.0010761842131	40.7189134849859	277 Canal St	New York	10013	NY	['277 Canal St', 'New York, NY 10013']		3.5	21
+702	Pig and Khao	-73.98475	40.71926	68 Clinton St	New York	10002	NY	['68 Clinton St', 'New York, NY 10002']	$$	4.0	1572
+703	Dim Sum Palace	-73.9893699	40.76015	334 W 46th St	New York	10036	NY	['334 W 46th St', 'New York, NY 10036']	$$	4.0	1176
+704	Sukho	-74.002	40.85159	314 Commercial Ave	Palisades Park	07650	NJ	['314 Commercial Ave', 'Palisades Park, NJ 07650']	$$$	4.0	22
+705	Dwit Gol Mok - Back Alley	-73.8139038	40.7621651	41-14 150th St	Flushing	11355	NY	['41-14 150th St', 'Fl 2', 'Flushing, NY 11355']	$$	4.5	18
+706	Totto Ramen - Midtown East	-73.9679722894107	40.7562184833974	248 E 52nd St	New York	10022	NY	['248 E 52nd St', 'New York, NY 10022']	$$	4.0	1109
+707	Mae Il Janchi Second Floor	-73.8143496141817	40.7624757347521	149-32 41st Ave	Flushing	11355	NY	['149-32 41st Ave', 'Second Floor', 'Flushing, NY 11355']		4.5	2
+708	Boom Boom Chicken	-74.17332	40.74209	160 University Ave	Newark	07102	NJ	['160 University Ave', 'Newark, NJ 07102']		3.5	18
+709	Flame Hibachi	-73.98097	40.74152	381 3rd Ave	New York	10016	NY	['381 3rd Ave', '2FL', 'New York, NY 10016']	$$	4.0	123
+710	Boom Boom Chicken	-73.9719303	40.851714	240 Main St	Fort Lee	07024	NJ	['240 Main St', 'Fort Lee, NJ 07024']	$$	4.0	220
+711	I Sushi	-73.9094617	40.7000915	1635 Woodbine St	Ridgewood	11385	NY	['1635 Woodbine St', 'Ridgewood, NY 11385']	$$	3.5	42
+712	Charlie's Place	-73.94061	40.80622	1960 Madison Ave	New York	10035	NY	['1960 Madison Ave', 'New York, NY 10035']	$	4.0	120
+713	Clay Pot - East Village	-73.9865907985248	40.7279880270274	58 St Mark's Pl	New York	10003	NY	"[""58 St Mark's Pl"", 'New York, NY 10003']"	$$	4.5	297
+714	Momosan Ramen & Sake	-73.97746	40.74993	342 Lexington Ave	New York	10016	NY	['342 Lexington Ave', 'New York, NY 10016']	$$	4.0	1585
+715	Zest Szechuan	-73.98445	40.75274	45 W 39th St	New York	10018	NY	['45 W 39th St', 'New York, NY 10018']	$$	4.0	559
+716	Urbanspace At 570 Lex	-73.97228	40.75686	570 Lexington Ave	New York	10022	NY	['570 Lexington Ave', 'New York, NY 10022']	$$	4.0	122
+717	Morimoto	-74.00713	40.74332	88 10th Ave	New York	10011	NY	['88 10th Ave', 'New York, NY 10011']	$$$$	4.0	3009
+718	Nami Nori	-74.003212	40.730284	33 Carmine St	New York	10014	NY	['33 Carmine St', 'New York, NY 10014']		4.0	59
+719	Fette Sau	-73.956327	40.714066	354 Metropolitan Ave	Brooklyn	11211	NY	['354 Metropolitan Ave', 'Brooklyn, NY 11211']	$$	4.0	2251
+720	Shumuwu	-73.8249415531754	40.7645412075398	141-41 Northern Blvd	Queens	11354	NY	['141-41 Northern Blvd', 'Queens, NY 11354']	$$$	4.5	3
+721	Feng Mao	-73.8269544	40.760191	136-88 Roosevelt Ave	Flushing	11354	NY	['136-88 Roosevelt Ave', 'Flushing, NY 11354']	$	2.5	19
+722	Snowfox Cafe	-73.98799	40.74056	24 E 23rd St	New York	10010	NY	['24 E 23rd St', 'New York, NY 10010']	$$	3.5	128
+723	Korean Chinese Cuisine	-73.8333631	40.7591397	133-35 Roosevelt Ave	Flushing	11354	NY	['133-35 Roosevelt Ave', 'Flushing, NY 11354']		4.0	1
+724	Zurang	-73.8040811	40.7608832	41-14 162nd St	Flushing	11358	NY	['41-14 162nd St', 'Flushing, NY 11358']	$$	4.0	52
+725	The Usual	-73.99527	40.72056	30 Kenmare St	New York	10012	NY	['30 Kenmare St', 'New York, NY 10012']	$$$	4.0	101
+726	Sushi Koshi	-74.2059652	40.8305414	109 Watchung Ave	Montclair	07043	NJ	['109 Watchung Ave', 'Montclair, NJ 07043']	$$	4.5	137
+727	HK Food Court	-73.8827301	40.7414872	8202 45th Ave	Elmhurst	11373	NY	['8202 45th Ave', 'Elmhurst, NY 11373']		4.0	85
+728	Edo Takeout	-74.3458007527786	40.5551087830904	1 NJ-27	Edison	08820	NJ	['1 NJ-27', 'Edison, NJ 08820']	$$	4.0	39
+729	Silky Kitchen	-73.98829	40.73297	137 E 13th St	New York	10003	NY	['137 E 13th St', 'New York, NY 10003']	$$	4.5	197
+730	Tampopo Ramen	-73.936309	40.850719	1 Bennett Ave	New York	10033	NY	['1 Bennett Ave', 'New York, NY 10033']	$$	4.0	371
+731	Yakitori Totto	-73.983114	40.765375	251 W 55th St	New York	10019	NY	['251 W 55th St', 'Fl 2', 'New York, NY 10019']	$$$	4.0	1290
+732	E Noodle 粥麵館 - Chinatown	-73.99731	40.71379	5 Catherine St	New York	10038	NY	['5 Catherine St', 'New York, NY 10038']	$	4.0	83
+733	Suteishi	-74.00194	40.70788	24 Peck Slip	New York	10038	NY	['24 Peck Slip', 'New York, NY 10038']	$$$	4.0	480
+734	Ikinari Steak East Village	-73.98968	40.73088	90 E 10th St	New York	10003	NY	['90 E 10th St', 'New York, NY 10003']	$$	4.0	760
+735	Sejamae	-73.99769	40.84771	268 Broad Ave	Palisades Park	07650	NJ	['268 Broad Ave', 'Palisades Park, NJ 07650']		4.5	2
+736	Zen Ramen & Sushi	-73.98892	40.75185	150 W 36th street	New York	10018	NY	['150 W 36th street', 'New York, NY 10018']	$$	4.5	1465
+737	Kathy's Dumplings	-74.0293625	40.6279735	7924 3rd Ave	Brooklyn	11209	NY	['7924 3rd Ave', 'Brooklyn, NY 11209']	$	4.0	212
+738	Bessou	-73.992675	40.725502	5 Bleecker St	New York	10012	NY	['5 Bleecker St', 'New York, NY 10012']	$$	4.0	236
+739	Izakaya NoMad	-73.98945	40.74409	13 W 26th St	New York	10010	NY	['13 W 26th St', 'New York, NY 10010']	$$	4.0	658
+740	Chang Bai Restaurant	-73.8293993622872	40.7619036727706	36 12 Union St	Flushing	11354	NY	['36 12 Union St', 'Flushing, NY 11354']		4.0	3
+741	Good Harvest	-74.0082286219422	40.631422388901	6324 Fort Hamilton Pkwy	Brooklyn	11219	NY	['6324 Fort Hamilton Pkwy', 'Brooklyn, NY 11219']	$$$	4.0	163
+742	Dong Chun Hong	-73.967668	40.850972	144 Main St	Fort Lee	07024	NJ	['144 Main St', 'Fort Lee, NJ 07024']	$$	3.0	95
+743	Mister Hotpot	-74.005859	40.6394	5306 8th Ave	Brooklyn	11220	NY	['5306 8th Ave', 'Brooklyn, NY 11220']	$$	4.0	443
+744	Food Avenue	-74.0096468478441	40.8249466325985	321 Broad Ave	Ridgefield	07657	NJ	['321 Broad Ave', 'Ridgefield, NJ 07657']	$$	4.0	18
+745	Sakana Sushi & Asian Bistro	-74.0244	40.6244	8121 5th Ave	Brooklyn	11209	NY	['8121 5th Ave', 'Brooklyn, NY 11209']	$$	4.5	105
+746	Minca	-73.98288	40.72412	536 E 5th St	New York	10009	NY	['536 E 5th St', 'New York, NY 10009']	$$	4.0	1646
+747	Hop Kee	-73.998889	40.714458	21 Mott St	New York	10013	NY	['21 Mott St', 'New York, NY 10013']	$$	3.5	786
+748	Zutto Japanese American Pub	-74.00903	40.71847	77 Hudson St	New York	10013	NY	['77 Hudson St', 'New York, NY 10013']	$$	4.0	871
+749	Sendai Japanese Restaurant & Grill	-74.0269511	40.9754368	178 Kinderkamack Rd	Emerson	07630	NJ	['178 Kinderkamack Rd', 'Emerson, NJ 07630']	$$	4.0	23
+750	Butcher Bar	-73.9164	40.76431	37-10 30th Ave	Astoria	11103	NY	['37-10 30th Ave', 'Astoria, NY 11103']	$$	4.0	1948
+751	New York Soon Dae	-73.806793	40.763595	15815 Northern Blvd	Flushing	11358	NY	['15815 Northern Blvd', 'Flushing, NY 11358']	$$	3.5	17
+752	Nolbu Sushi	-73.815074	40.762429	14921 41st Ave	Flushing	11355	NY	['14921 41st Ave', 'Flushing, NY 11355']	$	4.5	29
+753	Kosaka	-74.0014449879527	40.7381972955808	220 W 13th St	New York	10011	NY	['220 W 13th St', 'New York, NY 10011']	$$$$	4.5	154
+754	Three Bowls Noodle House	-73.9007075	40.7457251	63-28 Roosevelt Ave	Woodside	11377	NY	['63-28 Roosevelt Ave', 'Woodside, NY 11377']	$$	4.0	68
+755	Bread & Butter	-73.98568	40.7466099	303 5th Ave.	New York	10001	NY	['303 5th Ave.', 'New York, NY 10001']	$	2.5	206
+756	Yaso Tangbao	-73.9863992364001	40.6918206366101	148 Lawrence St	Brooklyn	11201	NY	['148 Lawrence St', 'Brooklyn, NY 11201']	$$	3.5	745
+757	East Wind Snack Shop	-73.9799505	40.6603409	471 16th St	Brooklyn	11215	NY	['471 16th St', 'Brooklyn, NY 11215']	$$	4.5	180
+758	Zhi Huo Seafood Noodle	-73.83325	40.75898	133-35 Roosevelt Ave	Queens	11354	NY	['133-35 Roosevelt Ave', 'New York Food Court', 'Queens, NY 11354']		3.5	2
+759	Sonamu House	-73.80679	40.7636	158-15 Northern Blvd	Flushing	11358	NY	['158-15 Northern Blvd', 'Flushing, NY 11358']		5.0	1
+760	Golmok Restaurant	-74.002	40.85159	314 Commercial Ave	Palisades Park	07650	NJ	['314 Commercial Ave', 'Unit A', 'Palisades Park, NJ 07650']		5.0	2
+761	Nulboneh, Young's Foods	-74.000158	40.853096	425 Grand Ave	Palisades Park	07650	NJ	['425 Grand Ave', 'Palisades Park, NJ 07650']		5.0	1
+762	Lee's Sushi	-74.2703051525518	40.9340763642015	1475 Rt 23	Wayne	07470	NJ	['1475 Rt 23', 'Wayne, NJ 07470']	$$	4.0	137
+763	Sushi Jun	-73.96919	40.75722	875 3rd Ave	New York	10022	NY	['875 3rd Ave', 'New York, NY 10022']	$	3.0	10
+764	212 Hisae's	-73.9887888	40.7296175	212 E 9th St	New York	10003	NY	['212 E 9th St', 'New York, NY 10003']	$$	4.0	293
+765	John Brown Smokehouse	-73.95009	40.7489	10-43 44th Dr	Long Island City	11101	NY	['10-43 44th Dr', 'Long Island City, NY 11101']	$$	4.0	881
+766	brodo Broth Co.	-73.98327	40.7300899	200 1st Ave	New York	10009	NY	['200 1st Ave', 'New York, NY 10009']	$$	4.0	162
+767	Café China	-73.9819464127197	40.7499225208569	13 E 37th St	New York	10016	NY	['13 E 37th St', 'New York, NY 10016']	$$	4.0	1582
+768	Samurai Mama	-73.960325717926	40.7140208838114	205 Grand St	Brooklyn	11211	NY	['205 Grand St', 'Brooklyn, NY 11211']	$$	4.0	582
+769	Mama Best Food	-73.9846619090643	40.8497769683378	1420 Bergen Blvd	Fort Lee	07024	NJ	['1420 Bergen Blvd', 'Fort Lee, NJ 07024']	$	4.5	39
+770	Mei Jin Ramen	-73.953553	40.775049	1574 2nd Ave	New York	10028	NY	['1574 2nd Ave', 'New York, NY 10028']	$$	4.0	649
+771	Craft House	-74.077543	40.636373	60 Vanduzer St	Tompkinsville	10301	NY	['60 Vanduzer St', 'Tompkinsville, NY 10301']	$$	4.5	329
+772	Roll & Katsu Kitchen	-73.9862289428711	40.7477035522461	11 W 32nd St	New York	10001	NY	['11 W 32nd St', 'Ste 5', 'New York, NY 10001']	$$	3.5	53
+773	Szechuan Garden	-73.967586	40.80053	239 W 105th St	New York	10025	NY	['239 W 105th St', 'New York, NY 10025']	$$	4.0	288
+774	Chidori	-73.8602819	40.7298925	9709 64th Ave	Rego Park	11374	NY	['9709 64th Ave', 'Rego Park, NY 11374']	$$	3.5	123
+775	Nishida Sho-ten	-73.968722	40.753969	302 E 49th St	New York	10017	NY	['302 E 49th St', 'New York, NY 10017']	$$	4.0	739
+776	Oak Tong	-73.97033	40.85028	1629 Schlosser St	Fort Lee	07024	NJ	['1629 Schlosser St', 'Fort Lee, NJ 07024']	$$	4.0	64
+777	Pig Heaven	-73.95686	40.77544	1420 3rd Ave	New York	10028	NY	['1420 3rd Ave', 'New York, NY 10028']	$$	4.0	362
+778	Tori Ramen & Chicken	-74.1194	40.98061	40 Chestnut St	Ridgewood	07450	NJ	['40 Chestnut St', 'Ridgewood, NJ 07450']	$$	4.0	251
+779	Smok-Haus	-73.6366523	40.7328849	7 12th St	Garden City	11530	NY	['7 12th St', 'Garden City, NY 11530']	$$	4.5	176
+780	Hansol Food	-73.8174216449261	40.7652199800858	147-50 Northern Blvd	Queens	11354	NY	['147-50 Northern Blvd', 'Queens, NY 11354']		3.0	4
+781	ANA Ramen	-73.99122	40.76469	457 W 50th St	New York	10019	NY	['457 W 50th St', 'New York, NY 10019']		4.0	40
+782	Delissimo	-73.97013	40.76411	39 E 60th St	New York	10022	NY	['39 E 60th St', 'New York, NY 10022']	$	3.5	60
+783	Mito Asian Fusion	-73.849864	40.732417	64-18 108th St	Forest Hills	11375	NY	['64-18 108th St', 'Forest Hills, NY 11375']	$$	4.0	349
+784	Hero Thai-Izakaya	-73.92257	40.76038	34-16 Broadway	Astoria	11106	NY	['34-16 Broadway', 'Astoria, NY 11106']	$$	4.0	84
+785	88 Lan Zhou Handmade Noodle	-73.99675	40.7155	40 Bowery St	New York	10013	NY	['40 Bowery St', 'New York, NY 10013']	$	4.0	1790
+786	19 Cafe	-73.9444199	40.70515	84 Manhattan Ave	New York	11206	NY	['84 Manhattan Ave', 'New York, NY 11206']	$	4.5	101
+787	Fuku	-73.9923629760742	40.7491302490234	20 Hudson Yards	New York	10001	NY	['20 Hudson Yards', 'Unit RU 203', 'New York, NY 10001']	$$	3.5	176
+788	TAO Uptown	-73.97147	40.76269	42 E 58th St	New York	10022	NY	['42 E 58th St', 'New York, NY 10022']	$$$	3.5	2533
+789	The Lobster Club	-73.971868	40.758301	98 E 53rd St	New York	10022	NY	['98 E 53rd St', 'New York, NY 10022']	$$$$	4.0	86
+790	Udon West Midtown	-73.9735724478504	40.7535446865563	150 E 46th St	New York	10017	NY	['150 E 46th St', 'New York, NY 10017']	$$	4.0	1007
+791	Cafe Hestia	-73.988746209787	40.753127852035	513 7th Ave	New York	10018	NY	['513 7th Ave', 'New York, NY 10018']	$$	3.0	109
+792	TabeTomo	-73.98311	40.72688	131 Avenue A	New York	10009	NY	['131 Avenue A', 'New York, NY 10009']	$$	4.5	283
+793	Samurai Sushi Hibachi	-73.656604	40.754179	412 Hillside Ave	Williston Park	11596	NY	['412 Hillside Ave', 'Williston Park, NY 11596']	$$	4.5	34
+794	Mae Il Jan Chi	-73.8146930314955	40.7623110698349	149-32 41st Ave	Flushing	11355	NY	['149-32 41st Ave', 'Flushing, NY 11355']	$$	3.5	11
+795	Pelicana Chicken	-73.9884701371193	40.948700054187	411 Washington Ave	Dumont	07628	NJ	['411 Washington Ave', 'Dumont, NJ 07628']		4.0	34
+796	Hong's Chinese Kitchen	-74.00013	40.84535	127 Broad Ave	Palisades Park	07650	NJ	['127 Broad Ave', 'Palisades Park, NJ 07650']		3.5	41
+797	Char Sue	-73.9879152551293	40.7196000924977	119 Essex St	New York	10002	NY	['119 Essex St', 'New York, NY 10002']	$$	4.5	174
+798	Jin Ramen - West Harlem	-73.9587672	40.8154774	3183 Broadway	New York	10027	NY	['3183 Broadway', 'New York, NY 10027']	$$	4.0	1049
+799	Sake Bar Hagi 46	-73.99008	40.76057	358 W 46th St	New York	10036	NY	['358 W 46th St', 'New York, NY 10036']	$$	4.0	278
+800	Bread & Butter	-73.98356	40.74373	419 Park Ave S	New York	10016	NY	['419 Park Ave S', 'New York, NY 10016']	$$	3.0	243
+801	P.F. Chang's	-74.0095958081818	40.7802677928232	10 Port Imperial Blvd	West New York	07093	NJ	['10 Port Imperial Blvd', 'West New York, NJ 07093']	$$	3.0	441
+802	Xi’an Famous Foods	-74.009347	40.709193	8 Liberty Pl	New York	10038	NY	['8 Liberty Pl', 'New York, NY 10038']	$$	4.0	103
+803	Cafe Kashkar	-73.9557381	40.5778011	1141 Brighton Beach Ave	Brooklyn	11235	NY	['1141 Brighton Beach Ave', 'Brooklyn, NY 11235']	$$	4.0	242
+804	Il Bok Korean Restaurant	-73.82679	40.7593699	13677 41st Ave	Flushing	11355	NY	['13677 41st Ave', 'Flushing, NY 11355']		4.5	2
+805	Buddakan	-74.0048000961542	40.7422762672197	75 9th Ave	New York	10011	NY	['75 9th Ave', 'New York, NY 10011']	$$$	4.0	3895
+806	Simple Asia	-74.1058338806033	40.5746530841284	2333 Hylan Blvd	Staten Island	10306	NY	['2333 Hylan Blvd', 'Staten Island, NY 10306']	$$	4.5	119
+807	Cocoron	-73.99305	40.72031	16 Delancey St	New York	10002	NY	['16 Delancey St', 'New York, NY 10002']	$$	4.0	981
+808	South Street Fish & Ramen Co	-74.0301139572917	40.7392772570087	219 Washington St	Hoboken	07030	NJ	['219 Washington St', 'Hoboken, NJ 07030']	$$	4.0	141
+809	Mommy's Hand	-73.8208	40.7671	146-02 34th Ave	Queens	11354	NY	['146-02 34th Ave', 'Ste B', 'Queens, NY 11354']		5.0	1
+810	Umi No Ie	-73.988227	40.724637	86 E 3rd St	New York	10003	NY	['86 E 3rd St', 'New York, NY 10003']	$$	4.0	152
+811	Kimchi Bowl	-73.9925918579102	40.7492790222168		New York	10001	NY	['New York, NY 10001']		3.5	5
+812	MIGHTY Bowl	-73.9717	40.75101	817 2nd Ave	New York	10017	NY	['817 2nd Ave', 'New York, NY 10017']	$	4.0	135
+813	Fire Belly Korean Bbq	-73.9889753165311	40.7427943262379	2-4 W 25th St	New York	10010	NY	['2-4 W 25th St', 'New York, NY 10010']	$$	3.0	16
+814	Chef's Table at Brooklyn Fare	-73.9966090932068	40.7561930774282	431 W 37th St	New York	10018	NY	['431 W 37th St', 'New York, NY 10018']	$$$$	4.5	505
+815	Maxi’s Noodle	-73.83227	40.76052	135-11 38th Ave	Flushing	11354	NY	['135-11 38th Ave', 'Flushing, NY 11354']		5.0	132
+816	BocBoc Chicken Delicious	-73.868747	40.734469	90-15 Queens Blvd	Elmhurst	11373	NY	['90-15 Queens Blvd', 'Elmhurst, NY 11373']	$	4.0	90
+817	Sol Hyang Gee	-73.8269817084074	40.7602060922386	136-88 Roosevelt Ave	Queens	11354	NY	['136-88 Roosevelt Ave', 'Queens, NY 11354']		2.5	14
+818	China Blue	-74.009958	40.724038	135 Watts St	New York	10013	NY	['135 Watts St', 'New York, NY 10013']	$$	4.0	678
+819	XO Kitchen	-73.9960411841547	40.717449983677	148 Hester St	New York	10013	NY	['148 Hester St', 'New York, NY 10013']	$	3.5	511
+820	Don Chicken	-73.99845	40.84629	232 Broad Ave	Palisades Park	07650	NJ	['232 Broad Ave', 'Palisades Park, NJ 07650']	$$	4.0	86
+821	Go! Go! Curry!	-74.0090997	40.7098966	12 John St	New York	10038	NY	['12 John St', 'World Trade Center Stadium', 'New York, NY 10038']	$$	4.0	363
+822	Niko Niko Sushi & Bowl	-74.004989	40.707176	133 John St	New York	10038	NY	['133 John St', 'New York, NY 10038']	$$	3.0	58
+823	Kiku Asian Bistro	-73.97956	40.67754	163 5th Ave	Brooklyn	11217	NY	['163 5th Ave', 'Brooklyn, NY 11217']	$$	4.0	254
+824	Wild Ginger	-73.955371	40.718859	182 N 10th St	Brooklyn	11211	NY	['182 N 10th St', 'Brooklyn, NY 11211']	$$	3.5	145
+825	PyeongAnDong	-73.965705	40.851355	2020 N Central Rd	Fort Lee	07024	NJ	['2020 N Central Rd', 'Fort Lee, NJ 07024']	$$	3.5	18
+826	Sun-Chan Japanese Restaurant	-73.9686399	40.7995	2707 Broadway	New York	10025	NY	['2707 Broadway', 'New York, NY 10025']	$$	3.5	211
+827	Benemon	-73.98838	40.72551	108 E 4th St	New York	10003	NY	['108 E 4th St', 'New York, NY 10003']	$$	4.5	529
+828	Ming Chan Dong	-73.8282399	40.7630399	36-24 Union St	Flushing	11354	NY	['36-24 Union St', 'Flushing, NY 11354']		3.0	3
+829	Mom's Kitchen & Bar	-73.9901	40.76247	701 9th Ave	New York	10019	NY	['701 9th Ave', 'New York, NY 10019']	$$	4.0	634
+830	Masa	-73.9832784748688	40.7686063643871	10 Columbus Cir	New York	10019	NY	['10 Columbus Cir', 'Fl 4', 'Time Warner Center', 'New York, NY 10019']	$$$$	4.0	323
+831	Longevousjoy	-73.98246	40.61312	6610 Bay Pkwy	Brooklyn	11204	NY	['6610 Bay Pkwy', 'Brooklyn, NY 11204']	$$	3.5	279
+832	SUGARFISH by sushi nozawa	-73.98882	40.73901	33 E 20th St	New York	10003	NY	['33 E 20th St', 'New York, NY 10003']	$$$	4.0	775
+833	Koko Ramen	-73.9642817210745	40.6410361919404	375 Marlborough Rd	Brooklyn	11226	NY	['375 Marlborough Rd', 'Brooklyn, NY 11226']	$$	4.0	137
+834	Totto Ramen	-73.98759	40.76444	366 W 52nd St	New York	10019	NY	['366 W 52nd St', 'New York, NY 10019']	$$	4.0	5401
+835	Grain House	-73.9657538384199	40.800127673827	929 Amsterdam Ave	New York	10025	NY	['929 Amsterdam Ave', 'New York, NY 10025']		4.0	61
+836	Jun Bo Restaurant	-73.820379	40.825345	3791 E Tremont Ave	Bronx	10465	NY	['3791 E Tremont Ave', 'Bronx, NY 10465']	$	3.0	8
+837	Cafe R	-73.98972	40.74883	116 W 32nd St	New York	10001	NY	['116 W 32nd St', 'New York, NY 10001']	$	3.0	275
+838	Little Sheep Mongolian Hot Pot	-73.99504	40.71764	105 Bowery	New York	10002	NY	['105 Bowery', 'New York, NY 10002']	$$	4.0	266
+839	Ten-Ichi Ramen	-73.983059	40.665432	382 7th Ave	Park Slope	11215	NY	['382 7th Ave', 'Park Slope, NY 11215']	$$	4.0	178
+840	Shinka Ramen & Sake Bar	-73.9952574670315	40.7170795322745	93 Bowery St	New York	10002	NY	['93 Bowery St', 'New York, NY 10002']	$$	4.5	289
+841	Ootoya Times Square	-73.98599	40.75487	141 W 41st St	New York	10036	NY	['141 W 41st St', 'New York, NY 10036']	$$	4.0	904
+842	Samurai Papa BS	-73.951087	40.6897563	594 Lafayette Ave	Bedford-Stuyvesant	11216	NY	['594 Lafayette Ave', 'Bedford-Stuyvesant, NY 11216']	$$	4.0	149
+843	Eight Beautitudes	-73.8291801139712	40.7593299435595	136-20 Roosevelt Ave	Queens	11354	NY	['136-20 Roosevelt Ave', 'Queens, NY 11354']		2.5	2
+844	Go! Go! Curry!	-73.99115	40.75463	273 W 38th St	New York	10018	NY	['273 W 38th St', 'New York, NY 10018']	$$	4.0	1439
+845	V Yan Hot Pot & BBQ	-74.374366296051	40.8637253773682	796 US Hwy 46	Parsippany	07054	NJ	['796 US Hwy 46', 'Parsippany, NJ 07054']	$$	4.0	348
+846	itsu	-73.98888	40.7541	530 7th Ave (39 & 7) manhattan	New York	10018	NY	['530 7th Ave (39 & 7) manhattan', 'New York, NY 10018']	$	3.5	87
+847	Gotham West Market	-73.9971462	40.7624395	600 11th Ave	New York	10036	NY	['600 11th Ave', 'New York, NY 10036']	$$	4.0	551
+848	Bozu	-73.95749	40.7129	296 Grand St	Brooklyn	11211	NY	['296 Grand St', 'Brooklyn, NY 11211']	$$	4.0	818
+849	Zenkichi New York	-73.96081	40.71897	77 N 6th St	Brooklyn	11249	NY	['77 N 6th St', 'Brooklyn, NY 11249']	$$$	4.0	977
+850	Cafe Water	-74.0068667	40.7056344	130 Water St	New York	10005	NY	['130 Water St', 'New York, NY 10005']	$$	3.0	83
+851	Vine Tree	-73.8145523	40.7654419	150-13 Northern Blvd	Flushing	11354	NY	['150-13 Northern Blvd', 'Flushing, NY 11354']	$	3.5	28
+852	Phobu	-73.97076	40.85029	1645 Lemoine Ave	Fort Lee	07024	NJ	['1645 Lemoine Ave', 'Fort Lee, NJ 07024']	$$	3.5	276
+853	Sambong Naeng Myun	-74.0	40.84431	110 Broad Ave	Palisades Park	07650	NJ	['110 Broad Ave', 'Ste S9', 'Palisades Park, NJ 07650']	$$	4.0	67
+854	Naruto Ramen	-73.9525	40.78117	1596 3rd Ave	New York	10128	NY	['1596 3rd Ave', 'New York, NY 10128']	$$	3.5	913
+855	Taste Of North China	-74.0377625661521	40.7167868	75 Montgomery St	Jersey City	07302	NJ	['75 Montgomery St', 'Jersey City, NJ 07302']	$$	3.0	210
+856	Yopparai	-73.98571	40.71919	151 Rivington St	New York	10002	NY	['151 Rivington St', 'Fl 1', 'New York, NY 10002']	$$$	4.5	222
+857	Daizen	-74.008447	40.637316	768 57th St	Brooklyn	11220	NY	['768 57th St', 'Brooklyn, NY 11220']	$$	3.5	216
+858	Xi'an Famous Foods	-73.9808	40.75606	24 W 45th St	New York	10036	NY	['24 W 45th St', 'New York, NY 10036']	$	4.0	1645
+859	Hide-Chan Ramen	-73.9854547	40.7643263	314 W 53rd St	New York	10019	NY	['314 W 53rd St', 'New York, NY 10019']	$$	4.0	178
+860	BentOn Cafe	-74.0068957	40.7092439	123 William St	New York	10038	NY	['123 William St', 'New York, NY 10038']	$$	2.5	150
+861	ICHIRAN - Brooklyn	-73.933271	40.707587	374 Johnson Ave	Brooklyn	11206	NY	['374 Johnson Ave', 'Brooklyn, NY 11206']	$$	3.5	1085
+862	Bob's Lunch Box	-73.98581	40.74738	1-9 West 32nd St	New York	10001	NY	['1-9 West 32nd St', 'New York, NY 10001']	$$	2.5	22
+863	Ichigo Sushi Restaurant	-74.0274641166856	40.6323220711413	7308 3rd Ave	Brooklyn	11209	NY	['7308 3rd Ave', 'Brooklyn, NY 11209']	$$	4.0	83
+864	Dongwon Sushi & Tuna	-73.8038933	40.7608166	41-19 162nd St	Flushing	11358	NY	['41-19 162nd St', 'Flushing, NY 11358']	$$$	3.5	55
+865	Hanbat	-73.9949112	40.8516006	452 Broad Ave	Palisades Park	07650	NJ	['452 Broad Ave', 'Palisades Park, NJ 07650']	$$	3.0	91
+866	Yam Yam Chicken	-73.9848346	40.8490355	1418 Bergen Blvd	Fort Lee	07024	NJ	['1418 Bergen Blvd', 'Fort Lee, NJ 07024']	$$	4.0	51
+867	Ramen Misoya	-73.988121	40.7285309	129 2nd Ave	New York	10003	NY	['129 2nd Ave', 'New York, NY 10003']	$$	4.0	900
+868	Yong Kang Street	-73.983013	40.767124	1000 8th Ave	New York	10019	NY	['1000 8th Ave', 'New York, NY 10019']	$$	3.5	69
+869	Hou Yi Hot Pot	-73.9925896	40.7161793	92 Hester St	New York	10002	NY	['92 Hester St', 'New York, NY 10002']	$$	4.0	399
+870	Tomoyo	-73.99745	40.84799	280 Broad Ave	Palisades Park	07650	NJ	['280 Broad Ave', 'Palisades Park, NJ 07650']		4.5	19
+871	Poke Zest	-73.95099	40.72388	629 Manhattan Ave	Brooklyn	11222	NY	['629 Manhattan Ave', 'Brooklyn, NY 11222']	$$	4.0	31
+872	Shangerila Restaurant	-73.8330438	40.847301	2893 Buhre Ave	Bronx	10461	NY	['2893 Buhre Ave', 'Bronx, NY 10461']	$$	3.0	238
+873	Sushi Laco	-74.289429	40.880697	435 Hollywood Ave	Fairfield	07004	NJ	['435 Hollywood Ave', 'Fairfield, NJ 07004']	$$	4.5	155
+874	Ippudo Westside	-73.98661	40.76344	321 W 51st St	New York	10019	NY	['321 W 51st St', 'New York, NY 10019']	$$	4.0	3624
+875	Kome Waza	-74.01024	40.70351	40 Water St	New York	10004	NY	['40 Water St', 'New York, NY 10004']	$$	4.0	167
+876	Radiance Tea House and Books	-73.98065	40.7639799	158 W 55th St	New York	10019	NY	['158 W 55th St', 'New York, NY 10019']	$$	4.0	844
+877	Pepper Lunch Broadway	-73.9833	40.76449	243 W 54th St	New York	10019	NY	['243 W 54th St', 'New York, NY 10019']	$$	4.0	78
+878	Mr Q's Gourmet	-74.009482562542	40.6361361303818	5824 8th Ave	Sunset Park	11220	NY	['5824 8th Ave', 'Sunset Park, NY 11220']	$	3.5	28
+879	Ise Restaurant	-73.9900618	40.7291024	63 Cooper Sq	New York	10003	NY	['63 Cooper Sq', 'New York, NY 10003']	$$	4.5	431
+880	Green Spoon	-73.95881	40.97241	50 Homans Ave	Closter	07624	NJ	['50 Homans Ave', 'Closter, NJ 07624']		3.0	2
+881	Karaoke DUET 48	-73.9692	40.75342	304 E 48th St	New York	10017	NY	['304 E 48th St', 'New York, NY 10017']	$$	4.0	266
+882	Ceetay	-73.927612	40.807149	129 Alexander Ave	Bronx	10454	NY	['129 Alexander Ave', 'Bronx, NY 10454']	$$	4.0	313
+883	Cha-An	-73.98813	40.72947	230 E 9th St	New York	10003	NY	['230 E 9th St', 'Fl 2', 'New York, NY 10003']	$$	4.0	1757
+884	Noryangjin fish market center	-73.8107359036803	40.7648931645401	15401 Northern Blvd	Flushing	11354	NY	['15401 Northern Blvd', 'Flushing, NY 11354']		1.0	2
+885	Kumamoto	-73.6583516	40.705932	506 Hempstead Turnpike	West Hempstead	11552	NY	['506 Hempstead Turnpike', 'West Hempstead, NY 11552']		4.0	50
+886	Hibino	-73.99637	40.69017	333 Henry St	Brooklyn	11201	NY	['333 Henry St', 'Brooklyn, NY 11201']	$$	4.0	395
+887	Kung Fu Kitchen	-73.9907654374838	40.7555654203146	610 8th Ave	New York	10018	NY	['610 8th Ave', 'New York, NY 10018']	$$	3.5	400
+888	Sup Crab	-73.99502	40.71733	97 Bowery	New York	10002	NY	['97 Bowery', 'New York, NY 10002']		4.0	199
+889	K Town K Food	-73.83325	40.75898	133-35 Roosevelt Ave	Flushing	11354	NY	['133-35 Roosevelt Ave', 'Flushing, NY 11354']	$$	2.5	2
+890	Hinari Sushi	-74.3119458	40.7110681	245 Morris Ave	Springfield	07081	NJ	['245 Morris Ave', 'Springfield, NJ 07081']	$$	4.5	72
+891	Ikko Hibachi Sushi Asian Bistro	-73.81874	40.82122	3938 E Tremont Ave	Bronx	10465	NY	['3938 E Tremont Ave', 'Bronx, NY 10465']		4.5	62
+892	Tito Rad's Grill	-73.9155745324366	40.7426021292423	49-10 Queens Blvd	Woodside	11377	NY	['49-10 Queens Blvd', 'Woodside, NY 11377']	$$	3.5	709
+893	Satay Malaysian Cuisine	-74.03066	40.73731	99 Washington St	Hoboken	07030	NJ	['99 Washington St', 'Hoboken, NJ 07030']	$$	3.5	502
+894	Oita Sushi	-73.959768	40.767249	1317A 2nd Ave 69th St	New York	10021	NY	['1317A 2nd Ave 69th St', 'New York, NY 10021']	$$	4.5	241
+895	Sol Bawoo	-73.8142	40.76223	149-44 41st Ave	Flushing	11355	NY	['149-44 41st Ave', 'Flushing, NY 11355']	$$	3.5	6
+896	Blue Ribbon Sushi Izakaya	-73.9882245327093	40.7220839812692	187 Orchard St	New York	10002	NY	['187 Orchard St', 'New York, NY 10002']	$$$	4.0	503
+897	King Jade Garden	-73.96942	40.75947	141 E 55th St	New York	10022	NY	['141 E 55th St', 'New York, NY 10022']		4.0	22
+898	China Xiang 中国湘	-73.9925113993899	40.7582902125633	360 W 42nd Street	New York	10036	NY	['360 W 42nd Street', 'New York, NY 10036']	$$	4.0	442
+899	The Tea Bar	-73.96832	40.84995	1636 Palisade Ave	Fort Lee	07024	NJ	['1636 Palisade Ave', 'Ste 4', 'Fort Lee, NJ 07024']	$$	4.0	226
+900	Teppan Bar & Grill	-74.038909	40.718919	319 Warren St	Jersey City	07302	NJ	['319 Warren St', 'Jersey City, NJ 07302']	$$	4.0	538
+901	The Pennsy	-73.9917	40.750305	2 Pennsylvania Plz	New York	10121	NY	['2 Pennsylvania Plz', 'New York, NY 10121']	$$	3.5	366
+902	Sen Sakana	-73.9815	40.75533	28 W 44th St	New York	10036	NY	['28 W 44th St', 'New York, NY 10036']	$$$	4.0	268
+903	Bonchon - Bayside	-73.76843	40.7593	45-37 Bell Blvd	Bayside	11361	NY	['45-37 Bell Blvd', 'Bayside, NY 11361']	$$	3.5	257
+904	Yong Kang Street	-73.98874	40.74822	888 6th Ave	New York	10001	NY	['888 6th Ave', 'New York, NY 10001']	$$	4.0	79
+905	Dynamite Seafood	-73.8330299	40.76018	3720 Prince St	Flushing	11354	NY	['3720 Prince St', 'Ste 1D', 'Flushing, NY 11354']	$$	4.5	146
+906	Proong Noodle Bar	-73.98003	40.73528	347 1st Ave	New York	10010	NY	['347 1st Ave', 'New York, NY 10010']	$$	4.5	140
+907	H Mart - Yonkers	-73.8426773250103	40.9601819036675	1789 Central Park Ave	Yonkers	10710	NY	['1789 Central Park Ave', 'Yonkers, NY 10710']	$$	4.0	87
+908	Thai Villa	-73.99065	40.73902	5 E 19th St	New York	10003	NY	['5 E 19th St', 'G Floor', 'New York, NY 10003']	$$	4.5	3092
+909	Bar Goto	-73.98989	40.72277	245 Eldridge St	New York	10002	NY	['245 Eldridge St', 'New York, NY 10002']	$$	4.5	219
+910	King's Kitchen	-73.99367	40.71399	92 E Broadway	New York	10002	NY	['92 E Broadway', 'New York, NY 10002']	$	4.0	254
+911	Eastern Chinese Restaurant	-73.89254	40.6365585	1877 Rockaway Pkwy	Canarsie	11236	NY	['1877 Rockaway Pkwy', 'Canarsie, NY 11236']	$	3.0	5
+912	Noodle Village	-73.998803	40.714167	13 Mott St	New York	10013	NY	['13 Mott St', 'New York, NY 10013']	$	4.0	1054
+913	Yamashiro	-73.9666	40.69326	466 Myrtle Ave	Brooklyn	11205	NY	['466 Myrtle Ave', 'Brooklyn, NY 11205']	$$	3.5	128
+914	KazuNori  | The Original Hand Roll Bar	-73.98824	40.74519	15 W 28th St	New York	10001	NY	['15 W 28th St', 'New York, NY 10001']	$$	4.5	869
+915	Tuome	-73.9828906263924	40.72412482724	536 E 5th St	New York	10009	NY	['536 E 5th St', 'New York, NY 10009']	$$$	4.5	475
+916	Blue Ribbon Sushi Bar & Grill - New York	-73.9831978922043	40.7674948014194	308 W 58th St	New York	10019	NY	['308 W 58th St', '6 Columbus Hotel', 'New York, NY 10019']	$$$	4.0	741
+917	Blue Bike Kitchen	-73.9846579	40.8498314	1430 Begen Blvd	Fort Lee	07024	NJ	['1430 Begen Blvd', 'Fort Lee, NJ 07024']		5.0	1
+918	Market Eatery	-74.0709331	40.9249294	60 State Route 17 N	Paramus	07652	NJ	['60 State Route 17 N', 'Paramus, NJ 07652']		4.5	11
+919	Sakagura	-73.9729489318165	40.7516467024541	211 E 43rd St	New York	10017	NY	['211 E 43rd St', 'New York, NY 10017']	$$$	4.0	1770
+920	Aburiya Kinnosuke	-73.972274	40.752583	213 E 45th St	New York	10017	NY	['213 E 45th St', 'New York, NY 10017']	$$$	4.0	732
+921	wagamama - nomad	-73.98873	40.74336	210 5th Ave	New York	10010	NY	['210 5th Ave', 'New York, NY 10010']	$$	3.5	795
+922	Meet Noodles	-73.9891	40.73097	50 3rd Ave	New York	10003	NY	['50 3rd Ave', 'New York, NY 10003']	$$	4.5	174
+923	Chikarashi	-73.98871	40.74458	1158 Broadway	New York	10001	NY	['1158 Broadway', 'New York, NY 10001']	$$	4.0	93
+924	Geido	-73.97266	40.67792	331 Flatbush Ave	Brooklyn	11217	NY	['331 Flatbush Ave', 'Brooklyn, NY 11217']	$$	4.0	321
+925	House of Small Wonder	-73.9606090848567	40.7188839655893	77 N 6th St	Brooklyn	11211	NY	['77 N 6th St', 'Brooklyn, NY 11211']	$$	4.0	706
+926	Spring Shabu-Shabu	-73.8295773245369	40.7609527071872	136-20 38th Ave	Flushing	11354	NY	['136-20 38th Ave', 'Fl 2', 'Flushing, NY 11354']	$$	4.0	1130
+927	Blossom Ice Cream & The Poké	-73.961979970336	40.7194914668798	54 N 6th St	Brooklyn	11249	NY	['54 N 6th St', 'Brooklyn, NY 11249']	$$	4.0	88
+928	Asian Taste	-74.2967147827148	40.6182441711426	33 Westfield Ave	Clark	07066	NJ	['33 Westfield Ave', 'Clark, NJ 07066']	$$	4.0	105
+929	My Belly's Playlist	-73.991027	40.751792	218 West 35th St	New York	10001	NY	['218 West 35th St', 'New York, NY 10001']	$$	4.0	61
+930	Senor Andy	-73.969156	40.850835	176 Main St	Fort Lee	07024	NJ	['176 Main St', 'Fort Lee, NJ 07024']	$$	3.5	18
+931	Go Zen	-74.0005102638063	40.7313398845326	144 W 4th St	New York	10012	NY	['144 W 4th St', 'New York, NY 10012']	$$	4.0	560
+932	Katsune Donkatsu Cafe	-73.97846	40.84542	1400 Anderson Ave	Fort Lee	07024	NJ	['1400 Anderson Ave', 'Ste 3', 'Fort Lee, NJ 07024']	$$	4.5	82
+933	Love Garden	-73.88525	40.84622	804 E 180th St	Bronx	10460	NY	['804 E 180th St', 'Bronx, NY 10460']		1.0	1
+934	Dae Song Chinese Restaurant	-73.7742643	40.7598217	4330 Corporal Kennedy St	Bayside	11361	NY	['4330 Corporal Kennedy St', 'Bayside, NY 11361']	$$	4.0	23
+935	BBQ Chicken	-73.8069859	40.7635426	158-23 Northern Blvd	Flushing	11358	NY	['158-23 Northern Blvd', 'Flushing, NY 11358']	$$	3.5	49
+936	Mr Bing	-73.979713	40.756208	8 W 46th St	New York	10036	NY	['8 W 46th St', 'New York, NY 10036']	$	3.5	39
+937	Gomjang	-74.0075817487	40.8450621353	1 Us 46 W	Palisades Park	07650	NJ	['1 Us 46 W', 'Palisades Park, NJ 07650']		5.0	1
+938	Urban Vegan Kitchen	-74.00368	40.7302	41 Carmine St	New York	10014	NY	['41 Carmine St', 'New York, NY 10014']	$$	4.0	402
+939	The Rice Noodle	-74.001525	40.729087	190 Bleecker St	New York	10012	NY	['190 Bleecker St', 'New York, NY 10012']	$	4.0	141
+940	Tavern 157	-73.807817278102	40.7634836392041	157-12 Northern Blvd	Flushing	11354	NY	['157-12 Northern Blvd', 'Flushing, NY 11354']	$$	4.5	360
+941	Xi'an Famous Foods	-73.95452	40.77197	328 E 78th St	New York	10075	NY	['328 E 78th St', 'New York, NY 10075']	$	4.0	500
+942	Macao trading	-74.003904	40.719623	311 Church St	New York	10013	NY	['311 Church St', 'New York, NY 10013']	$$$	4.0	735
+943	Peng's Noodle Folk	-73.94932	40.77726	1659 1st Ave	New York	10028	NY	['1659 1st Ave', 'New York, NY 10028']	$$	4.5	422
+944	Peking BBQ	-73.9062357614363	40.7456439082048	58-11 Woodside Ave	Woodside	11377	NY	['58-11 Woodside Ave', 'Woodside, NY 11377']	$	4.0	239
+945	Picnic Sushi	-73.97167	40.8521	239 Main St	Fort Lee	07024	NJ	['239 Main St', 'Fort Lee, NJ 07024']	$$	4.0	195
+946	Ny And Seoul	-73.8136671	40.7624432	4105 150th St	Flushing	11355	NY	['4105 150th St', 'Flushing, NY 11355']		2.0	3
+947	Back Alley Memory Lane	-73.8139925350217	40.7629209430752	4113 150th St	New York	11355	NY	['4113 150th St', 'Fl 2', 'New York, NY 11355']		4.5	2
+948	Ichibantei	-73.98275	40.73063	401 E 13th St	New York	10009	NY	['401 E 13th St', 'New York, NY 10009']	$$	4.0	202
+949	1 or 8	-73.965457	40.714257	66 S 2nd St	Brooklyn	11249	NY	['66 S 2nd St', 'Brooklyn, NY 11249']	$$$	4.0	397
+950	Ramen Lab	-73.996285	40.720911	70 Kenmare St	New York	10012	NY	['70 Kenmare St', 'New York, NY 10012']	$$	4.0	323
+951	Jukai	-73.9678837692742	40.7572093705873	237 E 53rd St	New York	10022	NY	['237 E 53rd St', 'New York, NY 10022']	$$$	4.0	157
+952	Soba-ya	-73.9878845214844	40.7296485900879	229 E 9th St	New York	10003	NY	['229 E 9th St', 'New York, NY 10003']	$$	4.0	1452
+953	Domo Taco	-73.9567834196103	40.673587499494	733 Franklin Ave	Brooklyn	11238	NY	['733 Franklin Ave', 'Brooklyn, NY 11238']	$	3.5	186
+954	NuLook Deli	-73.95426	40.74301	4916 Vernon Blvd	Queens	11101	NY	['4916 Vernon Blvd', 'Queens, NY 11101']		3.0	11
+955	Earl's Beer & Cheese	-73.95152	40.78729	1259 Park Ave	New York	10029	NY	['1259 Park Ave', 'New York, NY 10029']	$$	4.0	587
+956	Raku Izakaya	-73.97049	40.85143	209 Main St	Fort Lee	07024	NJ	['209 Main St', 'Fort Lee, NJ 07024']	$$	4.0	214
+957	Broadway Bites	-73.98804	40.74903	33rd & Broadway	New York	10001	NY	['33rd & Broadway', 'New York, NY 10001']	$$	4.0	213
+958	Yuqi's Cuisine	-73.98741	40.7659	813 9th Ave	New York	10019	NY	['813 9th Ave', 'New York, NY 10019']	$$	4.0	86
+959	Hao Noodle and Tea By Madam Zhu's Kitchen	-73.9998929006093	40.7334863190479	401 6th Ave	New York	10014	NY	['401 6th Ave', 'New York, NY 10014']	$$	4.0	702
+960	S Korean Restaurant	-73.8142014	40.7622299	149-44 41st Ave	Flushing	11355	NY	['149-44 41st Ave', 'Flushing, NY 11355']	$$	2.0	15
+961	Jung Dong Jin	-73.81344	40.76247	41-13 150th St	Flushing	11355	NY	['41-13 150th St', 'Flushing, NY 11355']		4.0	1
+962	Hokkaido Noodle & Roll	-74.2788999	40.84153	405 Bloomfield Ave	Caldwell	07006	NJ	['405 Bloomfield Ave', 'Caldwell, NJ 07006']		4.5	44
+963	Nakamura	-73.985115	40.717975	172 Delancey St	New York	10002	NY	['172 Delancey St', 'New York, NY 10002']	$$	4.0	359
+964	Red Moon	-73.9843700704449	40.7570981129815	132 W 45th St	New York	10036	NY	['132 W 45th St', 'New York, NY 10036']	$$	3.5	98
+965	Prime & Beyond	-73.97793	40.856	501 Main St	Fort Lee	07024	NJ	['501 Main St', 'Fort Lee, NJ 07024']	$$$	4.0	281
+966	Menkui-Tei	-73.97706	40.76326	58 W 56th St	New York	10019	NY	['58 W 56th St', 'New York, NY 10019']	$$	3.5	1042
+967	Root & Bone	-73.98334	40.72272	200 E 3rd St	New York	10009	NY	['200 E 3rd St', 'New York, NY 10009']	$$	4.0	1563
+968	Simple NYC	-73.99223	40.71821	109 Eldridge St	New York	10002	NY	['109 Eldridge St', 'New York, NY 10002']	$$	4.5	329
+969	969 NYC Coffee	-73.88553	40.74779	37-61 80th St	Jackson Heights	11372	NY	['37-61 80th St', 'Jackson Heights, NY 11372']	$	4.5	246
+970	BentOn Cafe	-73.9735173882912	40.7527802459225	156 E 45th St	New York	10017	NY	['156 E 45th St', 'New York, NY 10017']	$	4.0	153
+971	Fushimi Bay Ridge	-74.03101	40.61727	9316 4th Ave	Brooklyn	11209	NY	['9316 4th Ave', 'Brooklyn, NY 11209']	$$	3.5	365
+972	Soba Totto	-73.97317	40.75122	211 E 43rd St	New York	10017	NY	['211 E 43rd St', 'New York, NY 10017']	$$	4.0	890
+973	BBQ Chicken - Edison	-74.347804	40.534707	1199 Amboy Ave	Edison	08837	NJ	['1199 Amboy Ave', 'Lotte Market food court', 'Edison, NJ 08837']	$$	4.0	15
+974	Naruto Ramen	-73.98229	40.67444	276 5th Ave	Brooklyn	11215	NY	['276 5th Ave', 'Brooklyn, NY 11215']	$$	3.5	481
+975	Coo Coo Crisp Chicken	-73.9538766	40.7428159	1001 50th Ave	Long Island City	11101	NY	['1001 50th Ave', 'Long Island City, NY 11101']	$$	3.5	22
+976	Joe's Kitchen	-74.11435	40.669	637 Broadway	Bayonne	07002	NJ	['637 Broadway', 'Bayonne, NJ 07002']		4.0	67
+977	Xian Famous Foods	-73.983901	40.747844	14 E 34th St	New York	10016	NY	['14 E 34th St', 'New York, NY 10016']	$$	4.0	723
+978	Up Thai	-73.9576330868512	40.7698275926665	1411 2nd Ave	New York	10021	NY	['1411 2nd Ave', 'New York, NY 10021']	$$	4.5	2183
+979	MUSES 35	-73.99205	40.75237	248 W 35th St	New York	10001	NY	['248 W 35th St', 'New York, NY 10001']	$$	4.0	39
+980	Fukurow	-74.1732420623675	40.7418563217208	55 Bleeker St	Newark	07102	NJ	['55 Bleeker St', 'Newark, NJ 07102']	$$	4.0	47
+981	Se Ja Mae	-73.9977257	40.847699	268 Broad Ave	Palisades Park	07650	NJ	['268 Broad Ave', 'Palisades Park, NJ 07650']		4.0	1
+982	Jikji Café	-73.7855987548828	40.6507301330566	Jfk International Airport	Jamaica	11430	NY	['Jfk International Airport', 'Jamaica, NY 11430']	$$	2.5	17
+983	Junzi Kitchen	-74.00061	40.72878	170 Bleecker St	New York	10012	NY	['170 Bleecker St', 'New York, NY 10012']	$$	4.5	161
+984	Fort Lee Korean Catering House	-73.97141	40.85266	2024 Center Ave	Fort Lee	07024	NJ	['2024 Center Ave', 'Ste D', 'Fort Lee, NJ 07024']	$	4.5	5
+985	H Mart - Williston Park	-73.656719	40.753658	400 Hillside Ave.	Williston Park	11596	NY	['400 Hillside Ave.', 'Williston Park, NY 11596']	$$	4.0	63
+986	Café Zaiya	-73.98043	40.7523	18 E 41st St	New York	10017	NY	['18 E 41st St', 'New York, NY 10017']	$	4.0	1178
+987	Avocado sushi	-74.133678	40.626092	1310 Forest Ave	Staten Island	10302	NY	['1310 Forest Ave', 'Staten Island, NY 10302']		4.0	17
+988	Ajisai Japanese Fusion	-73.966743	40.763763	795 Lexington Ave	New York	10065	NY	['795 Lexington Ave', 'New York, NY 10065']	$$	3.5	152
+989	Ninja 86 Sushi	-73.99208	40.6006799	2274 86th St	Brooklyn	11214	NY	['2274 86th St', 'Brooklyn, NY 11214']	$$	4.0	72
+990	Jin Ramen Sushi	-73.89722	40.70772	66-41 Fresh Pond Rd	Ridgewood	11385	NY	['66-41 Fresh Pond Rd', 'Ridgewood, NY 11385']	$$	3.5	77
+991	Ramen Takumi	-73.9952208	40.730835	1 University Pl	New York	10003	NY	['1 University Pl', 'Store 2', 'New York, NY 10003']	$$	3.0	434
+992	New City	-73.9258919279945	40.7029774649578	236 Knickerbocker Ave	Brooklyn	11237	NY	['236 Knickerbocker Ave', 'Brooklyn, NY 11237']		3.0	18
+993	Maison Pickle	-73.9780229034143	40.7870043970907	2313 Broadway	New York	10024	NY	['2313 Broadway', 'New York, NY 10024']	$$	4.0	889
+994	Ramen-Ya	-74.001681	40.732536	181 W 4th St	New York	10014	NY	['181 W 4th St', 'New York, NY 10014']	$$	4.0	950
+995	Collide BBQ Fusion 遇见	-73.83161	40.76174	36-50 Main St	Queens	11354	NY	['36-50 Main St', 'Queens, NY 11354']		3.5	46
+996	Little Pepper	-73.84618	40.78245	18-24 College Point Blvd	College Point	11356	NY	['18-24 College Point Blvd', 'College Point, NY 11356']	$$	4.0	310
+997	Leng Thai	-73.92323	40.76124	3309 Broadway	Astoria	11106	NY	['3309 Broadway', 'Astoria, NY 11106']	$$	3.5	434
+998	Dao Palate	-73.972753	40.677953	329 Flatbush Ave	Brooklyn	11217	NY	['329 Flatbush Ave', 'Brooklyn, NY 11217']	$$	3.5	234
+999	RPM Underground	-73.98329	40.76428	244 W 54th St	New York	10019	NY	['244 W 54th St', 'New York, NY 10019']		4.5	34
